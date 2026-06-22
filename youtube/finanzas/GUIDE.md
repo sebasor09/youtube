@@ -277,15 +277,12 @@ Reglas para no perder la autoridad moral:
 
 ---
 
-### Idioma del guion — Inglés primero, siempre bilingüe
+### Idioma del guion — El video es en inglés, el español es solo para revisión
 
-Todo guion debe generarse en **dos idiomas**:
-
-- **`guion.md`** → Contiene ambas versiones: primero el guion completo en **inglés**, luego el guion completo en **español**. El inglés es la versión principal.
-- **`script.json`** → Incluye la narración en inglés (`narration_en`) y en español (`narration_es`) por cada escena.
-- Las rutas de voz en assets reflejan ambos idiomas: `language/en/` y `language/es/`
-
-El inglés es el idioma prioritario porque define el alcance de audiencia máximo del canal.
+- **El video se produce en inglés.** La voz, el audio y el contenido final son en inglés.
+- **`guion.md`** → Contiene ambas versiones: primero el guion completo en **inglés**, luego en **español**. El español sirve únicamente para que el creador pueda revisar y entender el contenido antes de aprobarlo.
+- **`script.json`** → Incluye `narration_en` (para el video) y `narration_es` (solo para revisión, no se genera audio).
+- **Solo se genera audio en inglés:** `language/en/scene_XXX.mp3`. La carpeta `language/es/` no se usa en producción.
 
 ---
 

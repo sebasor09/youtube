@@ -37,13 +37,24 @@ No necesitas saber de programación ni de diseño. Esta guía hace el trabajo pe
 - **Language:** [Ej: English, Spanish]
 
 ## Visual Style
-- **Color Palette:** [Ej: #1a1a2e, #e94560]
-- **Character Style:** [Ej: Stickman with brown hair]
-- **Art Style:** [Ej: 2D cartoon, minimalist]
-- **Background:** [Ej: Solid beige #d4a574]
-- **Objects:** [Ej: Simple illustrated props]
-- **Typography:** [Ej: Montserrat Bold]
-- **Thumbnail Format:** [Ej: Character + bold text + prop]
+
+- **Main Character:** Large round white circle head, spiky short blonde/orange hair, expressive cartoon face with big eyes and visible mouth showing emotion. Thin black stick body, small stick hands and feet. Subtle drop shadow beneath the character.
+- **Secondary Characters:** Simpler stickmen — round white circle head, minimal dot eyes, thin black stick body. No hair. Used for crowds or background figures.
+- **Background:** Flat solid warm beige/tan color. No gradients, no textures, no patterns. Single flat color fills the entire frame.
+- **Art Style:** 2D cartoon, hand-drawn feel, clean bold black outlines, flat colors only. No shading except subtle shadow under main character. Similar to Cyanide & Happiness animation style.
+- **Props & Objects:** Simple, flat, recognizable. Bold black outlines, flat fill colors, no gradients. Keep objects minimal but clear.
+- **No text on images.** All text goes in the narration, never burned into the scene image.
+- **Color Palette:** Warm beige background (~#d4c5a9), white for character heads, black outlines, accent colors only for key props (red for danger/loss, green for gain, gold for money).
+- **Resolution:** 1920x1080 (16:9)
+- **Typography (thumbnails only):** Bold, high contrast, large text over character.
+
+### Image Prompt Style Suffix
+
+Every `image_prompt` in the script.json must end with this exact style block:
+
+```
+2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9
+```
 
 ## Video Structure
 1. **Hook** (0-15s): [Tipo de gancho]
@@ -313,6 +324,6 @@ Cuando el usuario apruebe el guion, generar el archivo `script.json` dentro de l
 
 - Cada escena dura entre **3 y 5 segundos**. Nunca más.
 - El corte de escena es por **sentido narrativo**, no por párrafo ni por coma. Cada escena debe tener una sola idea visual.
-- El `image_prompt` siempre en inglés. Debe describir qué se ve en pantalla con suficiente detalle para generar la imagen, e incluir siempre el estilo visual al final: el definido en la sección `Visual Style` de esta guía.
+- El `image_prompt` siempre en inglés. Describe qué se ve en pantalla, luego cierra con el **Image Prompt Style Suffix** exacto definido en la sección `Visual Style` de esta guía. Sin ese sufijo, la imagen no va a coincidir con el estilo del canal.
 - El `sound` va en null si esa escena no tiene efecto de sonido específico.
 - Al terminar el script.json, indicar el total de escenas y la duración total estimada en segundos.

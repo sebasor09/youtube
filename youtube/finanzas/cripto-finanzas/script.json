@@ -1,812 +1,962 @@
 {
   "video": {
-    "title": "¿Cómo funcionan las finanzas crypto?",
+    "title": "Bitcoin — Qué es y cómo funciona",
+    "slug": "bitcoin-que-es-y-como-funciona",
+    "duration_seconds": 720,
     "fps": 30,
     "width": 1920,
     "height": 1080,
-    "durationInFrames": 10800,
-    "totalDurationSeconds": 360
+    "language": "es",
+    "total_scenes": 72
+  },
+  "style": {
+    "art": "Flat 2D minimalist illustration",
+    "background_light": "#FFFFFF",
+    "background_dark": "#0D1117",
+    "palette": ["#0D1117", "#F7931A", "#FFFFFF", "#E63946", "#2EC4B6"],
+    "character": "Simple geometric human silhouette, no face detail",
+    "note": "Actualizar con estilo definitivo en GUIDE.md antes de generar imágenes"
   },
   "music": {
-    "prompt": "Lo-fi electronic background music, calm but modern, subtle beat, no vocals, 6 minutes, suitable for educational crypto explainer video",
+    "prompt": "Cinematic lo-fi electronic instrumental, tense and intriguing, slow BPM 75, dark piano chords with subtle bass, no vocals, documentary finance mood, builds tension during key moments, resolves softly at the end, 12 minutes duration",
     "path": "music/background.mp3"
   },
   "scenes": [
     {
-      "id": "scene_01_hook",
-      "startFrame": 0,
-      "durationInFrames": 450,
-      "durationSeconds": 15,
-      "narration": "¿Sabías que hoy podés prestar, pedir prestado y ganar intereses con crypto, todo sin bancos ni papeles? Hoy te explico cómo funcionan las finanzas crypto.",
-      "narrationPath": "language/es/escena_01.wav",
-      "soundEffect": "sounds/whoosh_intro.wav",
-      "subScenes": [
-        {
-          "startFrame": 0,
-          "durationInFrames": 90,
-          "imagePrompt": "Bitcoin and Ethereum icons appearing with glowing effect, no text",
-          "imagePath": "img/escena_01_a.jpg"
-        },
-        {
-          "startFrame": 90,
-          "durationInFrames": 90,
-          "imagePrompt": "Stack of gold coins morphing into digital crypto coins",
-          "imagePath": "img/escena_01_b.jpg"
-        },
-        {
-          "startFrame": 180,
-          "durationInFrames": 90,
-          "imagePrompt": "Question mark icon with crypto symbols around it, stickman thinking",
-          "imagePath": "img/escena_01_c.jpg"
-        },
-        {
-          "startFrame": 270,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman pointing at crypto chart going up",
-          "imagePath": "img/escena_01_d.jpg"
-        },
-        {
-          "startFrame": 360,
-          "durationInFrames": 90,
-          "imagePrompt": "Title text 'FINANZAS CRYPTO' in bold, crypto icons around",
-          "imagePath": "img/escena_01_e.jpg"
-        }
-      ]
+      "id": 1,
+      "act": "I",
+      "start_s": 0,
+      "end_s": 5,
+      "narration": "Imagínate que un día te despiertas, vas al banco, y te dicen que tu cuenta está congelada.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, simple geometric human figure standing in front of a bank counter, large red padlock symbol on a bank screen, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/001.jpg",
+        "voice": "language/es/001.mp3",
+        "sound": null
+      }
     },
     {
-      "id": "scene_02_defi",
-      "startFrame": 450,
-      "durationInFrames": 1050,
-      "durationSeconds": 35,
-      "narration": "Las finanzas crypto también se conocen como DeFi — Finanzas Descentralizadas. La idea es simple: reemplazar intermediarios como bancos con código que corre en una blockchain. Todo es público, transparente y cualquiera puede usarlo.",
-      "narrationPath": "language/es/escena_02.wav",
-      "soundEffect": null,
-      "subScenes": [
-        {
-          "startFrame": 450,
-          "durationInFrames": 90,
-          "imagePrompt": "Bank building on left vs blockchain network nodes on right",
-          "imagePath": "img/escena_02_a.jpg"
-        },
-        {
-          "startFrame": 540,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman at bank counter with papers being replaced by digital interface",
-          "imagePath": "img/escena_02_b.jpg"
-        },
-        {
-          "startFrame": 630,
-          "durationInFrames": 90,
-          "imagePrompt": "Blockchain chain of blocks with data inside, glowing connections",
-          "imagePath": "img/escena_02_c.jpg"
-        },
-        {
-          "startFrame": 720,
-          "durationInFrames": 90,
-          "imagePrompt": "Open book icon with 'público' label, magnifying glass with 'transparente' label",
-          "imagePath": "img/escena_02_d.jpg"
-        },
-        {
-          "startFrame": 810,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman with laptop and globe icon, label 'cualquiera puede usarlo'",
-          "imagePath": "img/escena_02_e.jpg"
-        },
-        {
-          "startFrame": 900,
-          "durationInFrames": 90,
-          "imagePrompt": "Bank manager vs code snippet comparison, DeFi removes middleman",
-          "imagePath": "img/escena_02_f.jpg"
-        },
-        {
-          "startFrame": 990,
-          "durationInFrames": 90,
-          "imagePrompt": "World map with blockchain nodes connected globally",
-          "imagePath": "img/escena_02_g.jpg"
-        },
-        {
-          "startFrame": 1080,
-          "durationInFrames": 90,
-          "imagePrompt": "Three icons: lock (security), eye (transparency), hand (access)",
-          "imagePath": "img/escena_02_h.jpg"
-        },
-        {
-          "startFrame": 1170,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman smiling holding a phone showing DeFi app interface",
-          "imagePath": "img/escena_02_i.jpg"
-        },
-        {
-          "startFrame": 1260,
-          "durationInFrames": 90,
-          "imagePrompt": "Label 'DeFi' in center with icons around: lending, borrowing, trading",
-          "imagePath": "img/escena_02_j.jpg"
-        },
-        {
-          "startFrame": 1350,
-          "durationInFrames": 90,
-          "imagePrompt": "Transition arrow pointing right, 'Smart Contracts' text",
-          "imagePath": "img/escena_02_k.jpg"
-        }
-      ]
+      "id": 2,
+      "act": "I",
+      "start_s": 5,
+      "end_s": 9,
+      "narration": "No hiciste nada malo. Simplemente decidieron que sí.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, human figure with hands raised in confusion, large red X symbol above figure, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/002.jpg",
+        "voice": "language/es/002.mp3",
+        "sound": null
+      }
     },
     {
-      "id": "scene_03_smart_contracts",
-      "startFrame": 1500,
-      "durationInFrames": 1200,
-      "durationSeconds": 40,
-      "narration": "El motor de todo esto son los smart contracts. Son programas que se ejecutan automáticamente cuando se cumplen ciertas condiciones. Nadie los puede detener ni modificar una vez lanzados.",
-      "narrationPath": "language/es/escena_03.wav",
-      "soundEffect": "sounds/code_typing.wav",
-      "subScenes": [
-        {
-          "startFrame": 1500,
-          "durationInFrames": 90,
-          "imagePrompt": "Engine icon with code lines coming out, label 'Smart Contracts'",
-          "imagePath": "img/escena_03_a.jpg"
-        },
-        {
-          "startFrame": 1590,
-          "durationInFrames": 90,
-          "imagePrompt": "Lines of code with colorful syntax highlighting",
-          "imagePath": "img/escena_03_b.jpg"
-        },
-        {
-          "startFrame": 1680,
-          "durationInFrames": 90,
-          "imagePrompt": "Domino effect: condition A triggers action B, automatic execution",
-          "imagePath": "img/escena_03_c.jpg"
-        },
-        {
-          "startFrame": 1770,
-          "durationInFrames": 90,
-          "imagePrompt": "Vending machine analogy: insert coin -> get product, like smart contract execution",
-          "imagePath": "img/escena_03_d.jpg"
-        },
-        {
-          "startFrame": 1860,
-          "durationInFrames": 90,
-          "imagePrompt": "Two stickmen signing a digital contract that auto-executes",
-          "imagePath": "img/escena_03_e.jpg"
-        },
-        {
-          "startFrame": 1950,
-          "durationInFrames": 90,
-          "imagePrompt": "Lock icon with 'nadie lo detiene' label, immutable code",
-          "imagePath": "img/escena_03_f.jpg"
-        },
-        {
-          "startFrame": 2040,
-          "durationInFrames": 90,
-          "imagePrompt": "Code deployed to blockchain, rocket launching, permanent storage",
-          "imagePath": "img/escena_03_g.jpg"
-        },
-        {
-          "startFrame": 2130,
-          "durationInFrames": 90,
-          "imagePrompt": "Ethereum logo with 'EVM' label, smart contract platform",
-          "imagePath": "img/escena_03_h.jpg"
-        },
-        {
-          "startFrame": 2220,
-          "durationInFrames": 90,
-          "imagePrompt": "Smart contract examples: lending, swapping, NFTs",
-          "imagePath": "img/escena_03_i.jpg"
-        },
-        {
-          "startFrame": 2310,
-          "durationInFrames": 90,
-          "imagePrompt": "Hands holding a digital contract, glowing effect",
-          "imagePath": "img/escena_03_j.jpg"
-        },
-        {
-          "startFrame": 2400,
-          "durationInFrames": 90,
-          "imagePrompt": "Cogs and gears forming a brain, symbolizing smart contract logic",
-          "imagePath": "img/escena_03_k.jpg"
-        },
-        {
-          "startFrame": 2490,
-          "durationInFrames": 90,
-          "imagePrompt": "Transition arrow, 'Préstamos' text appearing",
-          "imagePath": "img/escena_03_l.jpg"
-        }
-      ]
+      "id": 3,
+      "act": "I",
+      "start_s": 9,
+      "end_s": 16,
+      "narration": "O que tu transferencia al extranjero va a tardar cuatro días hábiles y te van a cobrar el 3% de comisión.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, globe with dotted arrow between two countries blocked by a clock showing 4 days and a 3% fee badge, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/003.jpg",
+        "voice": "language/es/003.mp3",
+        "sound": null
+      }
     },
     {
-      "id": "scene_04_prestamos",
-      "startFrame": 2700,
-      "durationInFrames": 1800,
-      "durationSeconds": 60,
-      "narration": "Por ejemplo: querés pedir un préstamo. En DeFi depositás crypto como garantía — generalmente 150% del valor del préstamo. A cambio recibís una stablecoin como USDC o DAI. Mientras pagues el interés, recuperás tu crypto.",
-      "narrationPath": "language/es/escena_04.wav",
-      "soundEffect": "sounds/coin_drop.wav",
-      "subScenes": [
-        {
-          "startFrame": 2700,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman holding ETH coins with question mark, thinking about borrowing",
-          "imagePath": "img/escena_04_a.jpg"
-        },
-        {
-          "startFrame": 2790,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman depositing ETH into a digital vault labeled 'colateral'",
-          "imagePath": "img/escena_04_b.jpg"
-        },
-        {
-          "startFrame": 2880,
-          "durationInFrames": 90,
-          "imagePrompt": "Scale showing 150% collateral ratio, ETH vs loan value",
-          "imagePath": "img/escena_04_c.jpg"
-        },
-        {
-          "startFrame": 2970,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman receiving USDC/DAI coins from the protocol, happy expression",
-          "imagePath": "img/escena_04_d.jpg"
-        },
-        {
-          "startFrame": 3060,
-          "durationInFrames": 90,
-          "imagePrompt": "Stablecoin icons: USDC and DAI with '$1' label, pegged to dollar",
-          "imagePath": "img/escena_04_e.jpg"
-        },
-        {
-          "startFrame": 3150,
-          "durationInFrames": 90,
-          "imagePrompt": "Calendar with interest payment dates, stickman paying on time",
-          "imagePath": "img/escena_04_f.jpg"
-        },
-        {
-          "startFrame": 3240,
-          "durationInFrames": 90,
-          "imagePrompt": "Vault opening, ETH returning to stickman after loan repaid",
-          "imagePath": "img/escena_04_g.jpg"
-        },
-        {
-          "startFrame": 3330,
-          "durationInFrames": 90,
-          "imagePrompt": "Flowchart: deposit -> borrow -> repay -> withdraw",
-          "imagePath": "img/escena_04_h.jpg"
-        },
-        {
-          "startFrame": 3420,
-          "durationInFrames": 90,
-          "imagePrompt": "Traditional bank loan vs DeFi loan comparison, no paperwork",
-          "imagePath": "img/escena_04_i.jpg"
-        },
-        {
-          "startFrame": 3510,
-          "durationInFrames": 90,
-          "imagePrompt": "Interest rate percentage going up and down, variable rates in DeFi",
-          "imagePath": "img/escena_04_j.jpg"
-        },
-        {
-          "startFrame": 3600,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman using borrowed stablecoins to trade and invest",
-          "imagePath": "img/escena_04_k.jpg"
-        },
-        {
-          "startFrame": 3690,
-          "durationInFrames": 90,
-          "imagePrompt": "'Liquidation' warning triangle, price chart dropping",
-          "imagePath": "img/escena_04_l.jpg"
-        },
-        {
-          "startFrame": 3780,
-          "durationInFrames": 90,
-          "imagePrompt": "Aave and Compound protocol logos as lending platform examples",
-          "imagePath": "img/escena_04_m.jpg"
-        },
-        {
-          "startFrame": 3870,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman managing multiple loans, dashboard interface",
-          "imagePath": "img/escena_04_n.jpg"
-        },
-        {
-          "startFrame": 3960,
-          "durationInFrames": 90,
-          "imagePrompt": "Summary icons: deposit, borrow, repay",
-          "imagePath": "img/escena_04_o.jpg"
-        },
-        {
-          "startFrame": 4050,
-          "durationInFrames": 90,
-          "imagePrompt": "Transition to next topic, 'Yield Farming' text with arrow",
-          "imagePath": "img/escena_04_p.jpg"
-        },
-        {
-          "startFrame": 4140,
-          "durationInFrames": 90,
-          "imagePrompt": "Coins stacking up with farming tool icon, liquidity pools intro",
-          "imagePath": "img/escena_04_q.jpg"
-        },
-        {
-          "startFrame": 4230,
-          "durationInFrames": 90,
-          "imagePrompt": "Pool of water with ETH and USDC coins floating, liquidity concept",
-          "imagePath": "img/escena_04_r.jpg"
-        },
-        {
-          "startFrame": 4320,
-          "durationInFrames": 90,
-          "imagePrompt": "Percentage symbols rising from the pool, earning yield",
-          "imagePath": "img/escena_04_s.jpg"
-        },
-        {
-          "startFrame": 4410,
-          "durationInFrames": 90,
-          "imagePrompt": "DEX interface showing liquidity pool (like Uniswap)",
-          "imagePath": "img/escena_04_t.jpg"
-        }
-      ]
+      "id": 4,
+      "act": "I",
+      "start_s": 16,
+      "end_s": 24,
+      "narration": "O que el dinero que tenías guardado ahora vale menos porque alguien en un gobierno que nunca elegiste decidió imprimir más billetes.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, stack of bills on left shrinking smaller, government building with printing press on right producing more bills, downward arrow, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/004.jpg",
+        "voice": "language/es/004.mp3",
+        "sound": null
+      }
     },
     {
-      "id": "scene_05_yield_farming",
-      "startFrame": 4500,
-      "durationInFrames": 1800,
-      "durationSeconds": 60,
-      "narration": "Después están los liquidity pools. Vos depositás dos activos, por ejemplo ETH y USDC, en un pool. Cuando alguien intercambia entre esos tokens, paga una comisión. Esa comisión se reparte entre todos los que pusieron liquidez. Eso es yield farming.",
-      "narrationPath": "language/es/escena_05.wav",
-      "soundEffect": "sounds/water_splash.wav",
-      "subScenes": [
-        {
-          "startFrame": 4500,
-          "durationInFrames": 90,
-          "imagePrompt": "Liquidity pool as a large container, ETH and USDC coins pouring in",
-          "imagePath": "img/escena_05_a.jpg"
-        },
-        {
-          "startFrame": 4590,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman depositing ETH and USDC into pool, receiving LP tokens",
-          "imagePath": "img/escena_05_b.jpg"
-        },
-        {
-          "startFrame": 4680,
-          "durationInFrames": 90,
-          "imagePrompt": "Two traders swapping tokens through the pool, arrows in and out",
-          "imagePath": "img/escena_05_c.jpg"
-        },
-        {
-          "startFrame": 4770,
-          "durationInFrames": 90,
-          "imagePrompt": "Fee icon with small coins dropping, '0.3% fee' label",
-          "imagePath": "img/escena_05_d.jpg"
-        },
-        {
-          "startFrame": 4860,
-          "durationInFrames": 90,
-          "imagePrompt": "Pool distributing fees back to LP providers, percentage increasing",
-          "imagePath": "img/escena_05_e.jpg"
-        },
-        {
-          "startFrame": 4950,
-          "durationInFrames": 90,
-          "imagePrompt": "Multiple interconnected pools, complex DeFi ecosystem",
-          "imagePath": "img/escena_05_f.jpg"
-        },
-        {
-          "startFrame": 5040,
-          "durationInFrames": 90,
-          "imagePrompt": "APR percentage going up, yield optimization strategies",
-          "imagePath": "img/escena_05_g.jpg"
-        },
-        {
-          "startFrame": 5130,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman moving funds between pools to chase best yield",
-          "imagePath": "img/escena_05_h.jpg"
-        },
-        {
-          "startFrame": 5220,
-          "durationInFrames": 90,
-          "imagePrompt": "'Impermanent Loss' warning, two diverging price arrows",
-          "imagePath": "img/escena_05_i.jpg"
-        },
-        {
-          "startFrame": 5310,
-          "durationInFrames": 90,
-          "imagePrompt": "Rewards dashboard showing earned fees, yield farmer checking returns",
-          "imagePath": "img/escena_05_j.jpg"
-        },
-        {
-          "startFrame": 5400,
-          "durationInFrames": 90,
-          "imagePrompt": "Third party protocols: Yearn, Beefy auto-compounding yields",
-          "imagePath": "img/escena_05_k.jpg"
-        },
-        {
-          "startFrame": 5490,
-          "durationInFrames": 90,
-          "imagePrompt": "Yield farming cycle: deposit -> earn -> compound -> earn more",
-          "imagePath": "img/escena_05_l.jpg"
-        },
-        {
-          "startFrame": 5580,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman with farming hat, holding a basket of tokens",
-          "imagePath": "img/escena_05_m.jpg"
-        },
-        {
-          "startFrame": 5670,
-          "durationInFrames": 90,
-          "imagePrompt": "Liquidity pool depth chart, how trades affect price",
-          "imagePath": "img/escena_05_n.jpg"
-        },
-        {
-          "startFrame": 5760,
-          "durationInFrames": 90,
-          "imagePrompt": "Three pool types: stable, volatile, weighted",
-          "imagePath": "img/escena_05_o.jpg"
-        },
-        {
-          "startFrame": 5850,
-          "durationInFrames": 90,
-          "imagePrompt": "Passive income: coins flowing while stickman sleeps",
-          "imagePath": "img/escena_05_p.jpg"
-        },
-        {
-          "startFrame": 5940,
-          "durationInFrames": 90,
-          "imagePrompt": "Transition to staking, 'Staking' text with lock icon",
-          "imagePath": "img/escena_05_q.jpg"
-        },
-        {
-          "startFrame": 6030,
-          "durationInFrames": 90,
-          "imagePrompt": "Summary of liquidity providing: deposit, earn fees, withdraw",
-          "imagePath": "img/escena_05_r.jpg"
-        },
-        {
-          "startFrame": 6120,
-          "durationInFrames": 90,
-          "imagePrompt": "'Staking' title card, coins inside a shield",
-          "imagePath": "img/escena_05_s.jpg"
-        },
-        {
-          "startFrame": 6210,
-          "durationInFrames": 90,
-          "imagePrompt": "Padlock with coins around it, staking rewards concept",
-          "imagePath": "img/escena_05_t.jpg"
-        }
-      ]
+      "id": 5,
+      "act": "I",
+      "start_s": 24,
+      "end_s": 30,
+      "narration": "Eso no es ciencia ficción. Le pasó a millones de personas.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, large crowd of small geometric human figures, some with empty wallets and sad expressions, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/005.jpg",
+        "voice": "language/es/005.mp3",
+        "sound": null
+      }
     },
     {
-      "id": "scene_06_staking",
-      "startFrame": 6300,
-      "durationInFrames": 1350,
-      "durationSeconds": 45,
-      "narration": "Otra forma de ganar es el staking. Bloqueás tus tokens en una red para ayudar a validar transacciones. A cambio, la red te paga recompensas. Es como tener un plazo fijo pero en crypto, con rendimientos que pueden ser del 5% al 20% anual.",
-      "narrationPath": "language/es/escena_06.wav",
-      "soundEffect": null,
-      "subScenes": [
-        {
-          "startFrame": 6300,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman locking tokens into a safe labeled 'Staking'",
-          "imagePath": "img/escena_06_a.jpg"
-        },
-        {
-          "startFrame": 6390,
-          "durationInFrames": 90,
-          "imagePrompt": "Blockchain validators at work, stickmen with checkmarks approving transactions",
-          "imagePath": "img/escena_06_b.jpg"
-        },
-        {
-          "startFrame": 6480,
-          "durationInFrames": 90,
-          "imagePrompt": "Proof of Stake vs Proof of Work comparison, energy efficient",
-          "imagePath": "img/escena_06_c.jpg"
-        },
-        {
-          "startFrame": 6570,
-          "durationInFrames": 90,
-          "imagePrompt": "Rewards flowing from network to staker, coins increasing",
-          "imagePath": "img/escena_06_d.jpg"
-        },
-        {
-          "startFrame": 6660,
-          "durationInFrames": 90,
-          "imagePrompt": "Calendar showing monthly rewards, passive income calendar",
-          "imagePath": "img/escena_06_e.jpg"
-        },
-        {
-          "startFrame": 6750,
-          "durationInFrames": 90,
-          "imagePrompt": "Bank fixed term 2% vs crypto staking 5-20% comparison, graphic bars",
-          "imagePath": "img/escena_06_f.jpg"
-        },
-        {
-          "startFrame": 6840,
-          "durationInFrames": 90,
-          "imagePrompt": "Ethereum 2.0 shield, Solana, Cardano logos as staking platforms",
-          "imagePath": "img/escena_06_g.jpg"
-        },
-        {
-          "startFrame": 6930,
-          "durationInFrames": 90,
-          "imagePrompt": "Locked padlock with 'locked period' label, unstaking timer",
-          "imagePath": "img/escena_06_h.jpg"
-        },
-        {
-          "startFrame": 7020,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman checking staking dashboard, balance growing",
-          "imagePath": "img/escena_06_i.jpg"
-        },
-        {
-          "startFrame": 7110,
-          "durationInFrames": 90,
-          "imagePrompt": "Compounding rewards: reinvesting staking rewards for more yield",
-          "imagePath": "img/escena_06_j.jpg"
-        },
-        {
-          "startFrame": 7200,
-          "durationInFrames": 90,
-          "imagePrompt": "'Validator node' icon, running a node vs pool staking",
-          "imagePath": "img/escena_06_k.jpg"
-        },
-        {
-          "startFrame": 7290,
-          "durationInFrames": 90,
-          "imagePrompt": "Slashing warning, penalty for validator misbehavior",
-          "imagePath": "img/escena_06_l.jpg"
-        },
-        {
-          "startFrame": 7380,
-          "durationInFrames": 90,
-          "imagePrompt": "Liquid staking: Lido/stETH, staked tokens still usable in DeFi",
-          "imagePath": "img/escena_06_m.jpg"
-        },
-        {
-          "startFrame": 7470,
-          "durationInFrames": 90,
-          "imagePrompt": "Summary icons: lock, validate, earn",
-          "imagePath": "img/escena_06_n.jpg"
-        },
-        {
-          "startFrame": 7560,
-          "durationInFrames": 90,
-          "imagePrompt": "Transition arrow, 'Riesgos' text, warning colors",
-          "imagePath": "img/escena_06_o.jpg"
-        }
-      ]
+      "id": 6,
+      "act": "I",
+      "start_s": 30,
+      "end_s": 38,
+      "narration": "Y fue exactamente ese problema el que hizo que alguien decidiera crear Bitcoin.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, question mark transforming into a Bitcoin orange circle with B symbol, dark navy and orange palette, transition effect, no text, clean professional style",
+      "assets": {
+        "image": "img/006.jpg",
+        "voice": "language/es/006.mp3",
+        "sound": null
+      }
     },
     {
-      "id": "scene_07_riesgos",
-      "startFrame": 7650,
-      "durationInFrames": 1800,
-      "durationSeconds": 60,
-      "narration": "Pero no todo es color de rosa. Los riesgos existen: los smart contracts pueden tener bugs, los precios pueden caer y liquidar tu garantía, y hay estafas como los rug pulls. Nunca inviertas plata que no puedas perder.",
-      "narrationPath": "language/es/escena_07.wav",
-      "soundEffect": "sounds/warning_alarm.wav",
-      "subScenes": [
-        {
-          "startFrame": 7650,
-          "durationInFrames": 90,
-          "imagePrompt": "Warning triangle icon centered, 'RIESGOS' bold text, red tones",
-          "imagePath": "img/escena_07_a.jpg"
-        },
-        {
-          "startFrame": 7740,
-          "durationInFrames": 90,
-          "imagePrompt": "Smart contract with a bug icon, cracked code, exploit risk",
-          "imagePath": "img/escena_07_b.jpg"
-        },
-        {
-          "startFrame": 7830,
-          "durationInFrames": 90,
-          "imagePrompt": "Hacker breaking into a smart contract, money flying away",
-          "imagePath": "img/escena_07_c.jpg"
-        },
-        {
-          "startFrame": 7920,
-          "durationInFrames": 90,
-          "imagePrompt": "Price chart crashing down, red candle sticks, liquidation happening",
-          "imagePath": "img/escena_07_d.jpg"
-        },
-        {
-          "startFrame": 8010,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman losing collateral, vault closing, liquidated warning",
-          "imagePath": "img/escena_07_e.jpg"
-        },
-        {
-          "startFrame": 8100,
-          "durationInFrames": 90,
-          "imagePrompt": "'Rug Pull' illustration, carpet being pulled, stickman falling",
-          "imagePath": "img/escena_07_f.jpg"
-        },
-        {
-          "startFrame": 8190,
-          "durationInFrames": 90,
-          "imagePrompt": "Fake project with 'SCAM' stamp, money disappearing",
-          "imagePath": "img/escena_07_g.jpg"
-        },
-        {
-          "startFrame": 8280,
-          "durationInFrames": 90,
-          "imagePrompt": "Government building with gavel, regulatory uncertainty, unclear laws",
-          "imagePath": "img/escena_07_h.jpg"
-        },
-        {
-          "startFrame": 8370,
-          "durationInFrames": 90,
-          "imagePrompt": "Impermanent loss: two tokens diverging in price, LP losing value",
-          "imagePath": "img/escena_07_i.jpg"
-        },
-        {
-          "startFrame": 8460,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman with binoculars, 'DYOR' label (Do Your Own Research)",
-          "imagePath": "img/escena_07_j.jpg"
-        },
-        {
-          "startFrame": 8550,
-          "durationInFrames": 90,
-          "imagePrompt": "Diversification: eggs in different baskets, risk management",
-          "imagePath": "img/escena_07_k.jpg"
-        },
-        {
-          "startFrame": 8640,
-          "durationInFrames": 90,
-          "imagePrompt": "'Start Small' piggy bank with tiny crypto coin",
-          "imagePath": "img/escena_07_l.jpg"
-        },
-        {
-          "startFrame": 8730,
-          "durationInFrames": 90,
-          "imagePrompt": "Audited vs non-audited projects, checkmark and X comparison",
-          "imagePath": "img/escena_07_m.jpg"
-        },
-        {
-          "startFrame": 8820,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman with hard hat, 'safety first', navigating DeFi carefully",
-          "imagePath": "img/escena_07_n.jpg"
-        },
-        {
-          "startFrame": 8910,
-          "durationInFrames": 90,
-          "imagePrompt": "Risk vs reward scale, balance concept in crypto investing",
-          "imagePath": "img/escena_07_o.jpg"
-        },
-        {
-          "startFrame": 9000,
-          "durationInFrames": 90,
-          "imagePrompt": "'Never invest more than you can lose' text, important reminder",
-          "imagePath": "img/escena_07_p.jpg"
-        },
-        {
-          "startFrame": 9090,
-          "durationInFrames": 90,
-          "imagePrompt": "Transition to closing, summary of risk tips",
-          "imagePath": "img/escena_07_q.jpg"
-        },
-        {
-          "startFrame": 9180,
-          "durationInFrames": 90,
-          "imagePrompt": "Checkmark list: audit, diversify, start small, DYOR",
-          "imagePath": "img/escena_07_r.jpg"
-        },
-        {
-          "startFrame": 9270,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman confidently moving forward, knowledge is power",
-          "imagePath": "img/escena_07_s.jpg"
-        },
-        {
-          "startFrame": 9360,
-          "durationInFrames": 90,
-          "imagePrompt": "Book icon, learning never stops, closing transition",
-          "imagePath": "img/escena_07_t.jpg"
-        }
-      ]
+      "id": 7,
+      "act": "II",
+      "start_s": 50,
+      "end_s": 59,
+      "narration": "El 22 de mayo de 2010, un programador llamado Laszlo Hanyecz publicó un mensaje en un foro de internet.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, simple figure at a computer desk, retro forum chat bubble appearing on screen, calendar showing 2010, orange accent, no text, clean professional style",
+      "assets": {
+        "image": "img/007.jpg",
+        "voice": "language/es/007.mp3",
+        "sound": null
+      }
     },
     {
-      "id": "scene_08_cierre",
-      "startFrame": 9450,
-      "durationInFrames": 1350,
-      "durationSeconds": 45,
-      "narration": "Las finanzas crypto están redefiniendo cómo manejamos el dinero. Si entendés cómo funcionan, podés aprovecharlas. Investigá, empezá con montos chicos, y nunca dejés tus claves en un exchange. Nos vemos en el próximo video.",
-      "narrationPath": "language/es/escena_08.wav",
-      "soundEffect": "sounds/channel_outro.wav",
-      "subScenes": [
-        {
-          "startFrame": 9450,
-          "durationInFrames": 90,
-          "imagePrompt": "Recap of all topics: DeFi, smart contracts, lending, yield farming, staking",
-          "imagePath": "img/escena_08_a.jpg"
-        },
-        {
-          "startFrame": 9540,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman understanding crypto finance, lightbulb above head",
-          "imagePath": "img/escena_08_b.jpg"
-        },
-        {
-          "startFrame": 9630,
-          "durationInFrames": 90,
-          "imagePrompt": "Research tools: magnifying glass, newspaper, charts, 'investigá' label",
-          "imagePath": "img/escena_08_c.jpg"
-        },
-        {
-          "startFrame": 9720,
-          "durationInFrames": 90,
-          "imagePrompt": "Small plant growing from a single coin, 'start small' concept",
-          "imagePath": "img/escena_08_d.jpg"
-        },
-        {
-          "startFrame": 9810,
-          "durationInFrames": 90,
-          "imagePrompt": "Keys in safe hands, 'not your keys not your crypto' message",
-          "imagePath": "img/escena_08_e.jpg"
-        },
-        {
-          "startFrame": 9900,
-          "durationInFrames": 90,
-          "imagePrompt": "Hardware wallet vs exchange, self-custody recommendation",
-          "imagePath": "img/escena_08_f.jpg"
-        },
-        {
-          "startFrame": 9990,
-          "durationInFrames": 90,
-          "imagePrompt": "Crypto landscape evolving, forward-looking perspective",
-          "imagePath": "img/escena_08_g.jpg"
-        },
-        {
-          "startFrame": 10080,
-          "durationInFrames": 90,
-          "imagePrompt": "Channel logo with 'Suscríbete' text, like and subscribe CTA",
-          "imagePath": "img/escena_08_h.jpg"
-        },
-        {
-          "startFrame": 10170,
-          "durationInFrames": 90,
-          "imagePrompt": "Stickman waving goodbye, 'nos vemos' text, friendly farewell",
-          "imagePath": "img/escena_08_i.jpg"
-        },
-        {
-          "startFrame": 10260,
-          "durationInFrames": 90,
-          "imagePrompt": "End screen with 'next video' suggestion box",
-          "imagePath": "img/escena_08_j.jpg"
-        },
-        {
-          "startFrame": 10350,
-          "durationInFrames": 90,
-          "imagePrompt": "Crypto icons fading out, channel name centered, final frame",
-          "imagePath": "img/escena_08_k.jpg"
-        },
-        {
-          "startFrame": 10440,
-          "durationInFrames": 90,
-          "imagePrompt": "Black screen with channel watermark",
-          "imagePath": "img/escena_08_l.jpg"
-        },
-        {
-          "startFrame": 10530,
-          "durationInFrames": 90,
-          "imagePrompt": "Social media links icons",
-          "imagePath": "img/escena_08_m.jpg"
-        },
-        {
-          "startFrame": 10620,
-          "durationInFrames": 90,
-          "imagePrompt": "Thank you message",
-          "imagePath": "img/escena_08_n.jpg"
-        },
-        {
-          "startFrame": 10710,
-          "durationInFrames": 90,
-          "imagePrompt": "Final black frame, end of video",
-          "imagePath": "img/escena_08_o.jpg"
-        }
-      ]
+      "id": 8,
+      "act": "II",
+      "start_s": 59,
+      "end_s": 65,
+      "narration": "Decía algo así: 'Pagaré 10,000 bitcoins por dos pizzas.'",
+      "image_prompt": "Flat 2D minimalist illustration, white background, chat bubble with 10,000 Bitcoin coins symbol on left, two pizza box icons on right, orange and dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/008.jpg",
+        "voice": "language/es/008.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 9,
+      "act": "II",
+      "start_s": 65,
+      "end_s": 71,
+      "narration": "Alguien aceptó. Le mandaron las pizzas. Y Laszlo pagó.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, handshake between two figures, pizza boxes on one side, Bitcoin stack on other side, green checkmark, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/009.jpg",
+        "voice": "language/es/009.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 10,
+      "act": "II",
+      "start_s": 71,
+      "end_s": 78,
+      "narration": "Esas dos pizzas hoy valen más de 600 millones de dólares.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, two pizza boxes with a massive price counter showing $600,000,000 with upward arrow, shocked geometric figure, orange and dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/010.jpg",
+        "voice": "language/es/010.mp3",
+        "sound": "sounds/price_up.mp3"
+      }
+    },
+    {
+      "id": 11,
+      "act": "II",
+      "start_s": 78,
+      "end_s": 85,
+      "narration": "Pero esta historia no empieza ahí.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, horizontal timeline with glowing dot at 2010 and arrow pointing backwards to the left toward darkness, orange accent, no text, clean professional style",
+      "assets": {
+        "image": "img/011.jpg",
+        "voice": "language/es/011.mp3",
+        "sound": "sounds/whoosh.mp3"
+      }
+    },
+    {
+      "id": 12,
+      "act": "III",
+      "start_s": 100,
+      "end_s": 115,
+      "narration": "Antes de terminar este video, vas a entender tres cosas: qué es Bitcoin exactamente y por qué existe, cómo funciona sin ningún banco en el medio, y por qué hay gente que se hizo millonaria con esto... y otra que lo perdió todo.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, three numbered circles in a row: 1) Bitcoin logo, 2) network without bank, 3) scale with money up on one side and down on other, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/012.jpg",
+        "voice": "language/es/012.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 13,
+      "act": "IV",
+      "start_s": 130,
+      "end_s": 143,
+      "narration": "Estamos en octubre de 2008. El mundo acaba de ver cómo bancos que existían hace más de cien años colapsan en semanas.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, large bank building with cracks forming, 2008 date on calendar, red downward arrows, dramatic lighting, no text, clean professional style",
+      "assets": {
+        "image": "img/013.jpg",
+        "voice": "language/es/013.mp3",
+        "sound": "sounds/tension_rise.mp3"
+      }
+    },
+    {
+      "id": 14,
+      "act": "IV",
+      "start_s": 143,
+      "end_s": 153,
+      "narration": "Lehman Brothers, uno de los bancos más grandes del planeta, acaba de declararse en quiebra.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, tall skyscraper building crumbling and falling apart, red bankruptcy stamp symbol above it, dark red and navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/014.jpg",
+        "voice": "language/es/014.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 15,
+      "act": "IV",
+      "start_s": 153,
+      "end_s": 164,
+      "narration": "Los gobiernos imprimen dinero a toda velocidad para rescatarlos. Y millones de personas normales pierden sus casas, sus ahorros, su trabajo.",
+      "image_prompt": "Flat 2D minimalist illustration, split white background, left side: government building with printing press and bills flying out, right side: small human figures losing house, wallet, briefcase, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/015.jpg",
+        "voice": "language/es/015.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 16,
+      "act": "IV",
+      "start_s": 164,
+      "end_s": 173,
+      "narration": "En medio de ese caos, alguien con el seudónimo Satoshi Nakamoto publicó un documento de 9 páginas.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, anonymous shadowed figure at a computer, glowing document with 9 pages floating up, question mark halo above figure, orange accent, no text, clean professional style",
+      "assets": {
+        "image": "img/016.jpg",
+        "voice": "language/es/016.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 17,
+      "act": "IV",
+      "start_s": 173,
+      "end_s": 182,
+      "narration": "Lo tituló: 'Bitcoin: A Peer-to-Peer Electronic Cash System.' Un sistema de efectivo electrónico de persona a persona.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, clean document with Bitcoin logo at top, two geometric figures connected by direct arrow with coin symbol, orange and dark navy palette, no text in scene, clean professional style",
+      "assets": {
+        "image": "img/017.jpg",
+        "voice": "language/es/017.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 18,
+      "act": "IV",
+      "start_s": 182,
+      "end_s": 190,
+      "narration": "Nadie lo leyó. Excepto un grupo pequeño de programadores en un foro oscuro de internet.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, large crowd of grey figures ignoring a glowing document, small cluster of 5 bright orange figures in corner focused on a screen, no text, clean professional style",
+      "assets": {
+        "image": "img/018.jpg",
+        "voice": "language/es/018.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 19,
+      "act": "IV",
+      "start_s": 190,
+      "end_s": 202,
+      "narration": "En ese documento, Satoshi escribió algo que vale la pena citar textual: 'Los bancos necesitan ser de confianza para manejar nuestro dinero. Pero la historia del dinero bancario está llena de traiciones a esa confianza.'",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, large quotation mark icon, bank building with broken trust/handshake symbol below it, orange accent lines, dramatic composition, no text, clean professional style",
+      "assets": {
+        "image": "img/019.jpg",
+        "voice": "language/es/019.mp3",
+        "sound": "sounds/quote_sting.mp3"
+      }
+    },
+    {
+      "id": 20,
+      "act": "IV",
+      "start_s": 202,
+      "end_s": 212,
+      "narration": "Esa frase lo explica todo. Bitcoin no fue inventado para hacerte rico. Fue inventado para que nadie más controle tu dinero.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, Bitcoin orange circle with shield icon, hand reaching toward it blocked by a no-entry symbol, human figure holding coin freely with green checkmark, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/020.jpg",
+        "voice": "language/es/020.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 21,
+      "act": "V",
+      "start_s": 212,
+      "end_s": 220,
+      "narration": "Para entender Bitcoin, primero hay que entender cómo funciona el dinero normal.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, single bill floating in center with magnifying glass over it, question mark next to it, dark navy and green palette, no text, clean professional style",
+      "assets": {
+        "image": "img/021.jpg",
+        "voice": "language/es/021.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 22,
+      "act": "V",
+      "start_s": 220,
+      "end_s": 227,
+      "narration": "El billete que tienes en el bolsillo no vale nada en sí mismo. Es papel.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, single bill being zoomed in to show just paper texture with wood pulp pattern, equals sign to a simple square of paper, dark navy and grey palette, no text, clean professional style",
+      "assets": {
+        "image": "img/022.jpg",
+        "voice": "language/es/022.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 23,
+      "act": "V",
+      "start_s": 227,
+      "end_s": 234,
+      "narration": "Vale porque todos acordamos que vale. Y porque un gobierno lo respalda.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, large crowd of geometric figures with checkmark speech bubbles above them pointing to a bill, government building with support arrow below the bill, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/023.jpg",
+        "voice": "language/es/023.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 24,
+      "act": "V",
+      "start_s": 234,
+      "end_s": 243,
+      "narration": "Eso se llama moneda fiduciaria — su valor depende de la confianza en la institución que la emite.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, bill connected by chain to government building column, fragile chain link highlighted in center representing trust, dark navy and yellow palette, no text, clean professional style",
+      "assets": {
+        "image": "img/024.jpg",
+        "voice": "language/es/024.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 25,
+      "act": "V",
+      "start_s": 243,
+      "end_s": 252,
+      "narration": "El problema es que esa institución puede tomar decisiones que afecten tu dinero sin pedirte permiso.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, large government institution building making a decision (gavel icon), small human figure below with no speech bubble or input, red dotted line connecting them, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/025.jpg",
+        "voice": "language/es/025.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 26,
+      "act": "V",
+      "start_s": 252,
+      "end_s": 260,
+      "narration": "Puede imprimir más billetes, lo que hace que los tuyos valgan menos. Eso se llama inflación.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, pile of new bills being printed on right, existing bills on left shrinking in size with downward arrow, inflation label indicator, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/026.jpg",
+        "voice": "language/es/026.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 27,
+      "act": "V",
+      "start_s": 260,
+      "end_s": 268,
+      "narration": "Puede congelar cuentas. Puede cobrar comisiones. Puede bloquear transferencias.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, three panels: 1) frozen account with ice/padlock, 2) percentage fee badge on money transfer, 3) blocked transfer arrow with stop sign, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/027.jpg",
+        "voice": "language/es/027.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 28,
+      "act": "V",
+      "start_s": 268,
+      "end_s": 280,
+      "narration": "Para mover dinero de un país a otro hoy, necesitas pasar por al menos dos bancos, un sistema de mensajería financiera llamado SWIFT, y esperar días. Y pagar.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, two countries connected by complex path through multiple bank buildings and a central SWIFT hub, clock showing days and fee badge, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/028.jpg",
+        "voice": "language/es/028.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 29,
+      "act": "V",
+      "start_s": 280,
+      "end_s": 289,
+      "narration": "Satoshi se preguntó: ¿y si pudiéramos enviar valor directamente, de persona a persona, como enviamos un email?",
+      "image_prompt": "Flat 2D minimalist illustration, white background, two human figures connected by direct orange arrow with coin and envelope icon, large question mark above, no intermediary buildings, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/029.jpg",
+        "voice": "language/es/029.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 30,
+      "act": "V",
+      "start_s": 289,
+      "end_s": 296,
+      "narration": "Sin intermediario. Sin permiso. Sin comisión.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, three crossed-out icons in a row: bank building with X, permission stamp with X, percentage fee with X, orange accent color, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/030.jpg",
+        "voice": "language/es/030.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 31,
+      "act": "V",
+      "start_s": 296,
+      "end_s": 303,
+      "narration": "La respuesta fue Bitcoin.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, large glowing Bitcoin orange circle with B symbol center screen, clean minimal composition, spotlight effect, no text, clean professional style",
+      "assets": {
+        "image": "img/031.jpg",
+        "voice": "language/es/031.mp3",
+        "sound": "sounds/reveal_sting.mp3"
+      }
+    },
+    {
+      "id": 32,
+      "act": "V",
+      "start_s": 303,
+      "end_s": 313,
+      "narration": "Pero había un problema enorme con ese modelo. Y es el que durante décadas hizo que nadie creyera que fuera posible.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, large question mark blocking a path forward, timeline of decades with X marks, dark navy and red palette, tension composition, no text, clean professional style",
+      "assets": {
+        "image": "img/032.jpg",
+        "voice": "language/es/032.mp3",
+        "sound": "sounds/tension_rise.mp3"
+      }
+    },
+    {
+      "id": 33,
+      "act": "VI",
+      "start_s": 313,
+      "end_s": 323,
+      "narration": "Si yo te mando un archivo por email, no te mando el original — te mando una copia. Y me quedo con el original.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, person sending document via arrow, duplicate copy appears on receiver side while original stays on sender side, two identical documents highlighted, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/033.jpg",
+        "voice": "language/es/033.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 34,
+      "act": "VI",
+      "start_s": 323,
+      "end_s": 332,
+      "narration": "Con el dinero digital pasa lo mismo. Si el dinero es solo un número en una computadora, ¿qué me impide copiarlo y gastarlo dos veces?",
+      "image_prompt": "Flat 2D minimalist illustration, white background, single digital coin duplicating into two identical coins, both being spent in different directions simultaneously, red warning icon, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/034.jpg",
+        "voice": "language/es/034.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 35,
+      "act": "VI",
+      "start_s": 332,
+      "end_s": 342,
+      "narration": "Ese problema se llama el doble gasto. Y durante décadas, la única solución que existía era tener a alguien en el medio que llevara el registro. Un banco.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, two figures exchanging digital money, large bank building in center as intermediary with ledger book, decades timeline above, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/035.jpg",
+        "voice": "language/es/035.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 36,
+      "act": "VI",
+      "start_s": 342,
+      "end_s": 352,
+      "narration": "Satoshi resolvió ese problema sin necesitar ese intermediario. ¿Cómo? Con la blockchain.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, bank building crossed out and fading, chain of linked blocks forming in orange light between two figures, question mark resolving to checkmark, orange accent, no text, clean professional style",
+      "assets": {
+        "image": "img/036.jpg",
+        "voice": "language/es/036.mp3",
+        "sound": "sounds/reveal_sting.mp3"
+      }
+    },
+    {
+      "id": 37,
+      "act": "VII",
+      "start_s": 360,
+      "end_s": 374,
+      "narration": "Imagina un cuaderno donde se registra cada transacción de Bitcoin que ocurre en el mundo. Pero en lugar de que ese cuaderno lo tenga un banco en una caja fuerte, existe una copia idéntica en millones de computadoras al mismo tiempo.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, open ledger notebook in center, millions of glowing computer nodes around the globe each holding identical copies, connected network lines, orange accent, no text, clean professional style",
+      "assets": {
+        "image": "img/037.jpg",
+        "voice": "language/es/037.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 38,
+      "act": "VII",
+      "start_s": 374,
+      "end_s": 384,
+      "narration": "Cada vez que alguien envía Bitcoin, esa transacción se anuncia a toda la red. Todas las computadoras la verifican.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, single transaction announcement radiating outward like a signal wave to many computer nodes, each node lighting up with checkmark symbol, orange and teal palette, no text, clean professional style",
+      "assets": {
+        "image": "img/038.jpg",
+        "voice": "language/es/038.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 39,
+      "act": "VII",
+      "start_s": 384,
+      "end_s": 393,
+      "narration": "Y cuando suficientes de ellas la confirman, la transacción se graba en el cuaderno. Y ya no se puede borrar.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, transaction being stamped into ledger book with permanent ink, padlock icon sealing it, eraser being blocked by shield, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/039.jpg",
+        "voice": "language/es/039.mp3",
+        "sound": "sounds/stamp.mp3"
+      }
+    },
+    {
+      "id": 40,
+      "act": "VII",
+      "start_s": 393,
+      "end_s": 404,
+      "narration": "Para alterar esa transacción, tendrías que cambiar el cuaderno en más de la mitad de todos esos millones de computadoras al mismo tiempo. En términos prácticos, es imposible.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, 50%+ of millions of nodes highlighted as required target, single small figure attempting to reach all of them, red impossible stamp, overwhelming scale visualization, no text, clean professional style",
+      "assets": {
+        "image": "img/040.jpg",
+        "voice": "language/es/040.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 41,
+      "act": "VII",
+      "start_s": 404,
+      "end_s": 414,
+      "narration": "A ese cuaderno distribuido se le llama blockchain — cadena de bloques. Cada bloque es un grupo de transacciones.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, horizontal chain of rectangular blocks each containing small transaction icons inside, blocks linked by heavy chain connections, orange and dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/041.jpg",
+        "voice": "language/es/041.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 42,
+      "act": "VII",
+      "start_s": 414,
+      "end_s": 424,
+      "narration": "Cada bloque está matemáticamente conectado al anterior. Si alguien altera uno, rompe todos los demás.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, chain of blocks with one block highlighted in red being altered, all subsequent blocks breaking apart with cracks, chain reaction visualization, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/042.jpg",
+        "voice": "language/es/042.mp3",
+        "sound": "sounds/break.mp3"
+      }
+    },
+    {
+      "id": 43,
+      "act": "VII",
+      "start_s": 424,
+      "end_s": 434,
+      "narration": "Y nadie controla ese cuaderno. Ni Satoshi, ni ningún gobierno, ni ningún banco. Lo controlan todos y no lo controla nadie.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, distributed globe network with no central point, all nodes equal size and brightness, no hierarchy, orange connection lines, anonymous figures at each node, no text, clean professional style",
+      "assets": {
+        "image": "img/043.jpg",
+        "voice": "language/es/043.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 44,
+      "act": "VIII",
+      "start_s": 450,
+      "end_s": 458,
+      "narration": "¿Quién verifica las transacciones si no hay banco? Eso lo hacen los mineros.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, bank building with X, replaced by figure with mining helmet and pickaxe at computer rig, orange accent, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/044.jpg",
+        "voice": "language/es/044.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 45,
+      "act": "VIII",
+      "start_s": 458,
+      "end_s": 470,
+      "narration": "Un minero es una computadora —a veces miles de computadoras— que compite para resolver un problema matemático muy difícil.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, many computer servers racing toward a complex mathematical puzzle icon in center, competition arrows, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/045.jpg",
+        "voice": "language/es/045.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 46,
+      "act": "VIII",
+      "start_s": 470,
+      "end_s": 481,
+      "narration": "El primero en resolverlo gana el derecho a agregar el siguiente bloque de transacciones al cuaderno. Y como recompensa, recibe Bitcoin recién creado.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, single winning computer with gold trophy, adding new block to blockchain, fresh Bitcoin coin appearing as reward, orange and gold palette, no text, clean professional style",
+      "assets": {
+        "image": "img/046.jpg",
+        "voice": "language/es/046.mp3",
+        "sound": "sounds/win_chime.mp3"
+      }
+    },
+    {
+      "id": 47,
+      "act": "VIII",
+      "start_s": 481,
+      "end_s": 487,
+      "narration": "Eso es minar Bitcoin.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, simple clean icon of Bitcoin coin emerging from a mine shaft with pickaxe, orange glow, minimal composition, no text, clean professional style",
+      "assets": {
+        "image": "img/047.jpg",
+        "voice": "language/es/047.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 48,
+      "act": "VIII",
+      "start_s": 487,
+      "end_s": 496,
+      "narration": "¿Cuántos Bitcoin puede haber en total? Satoshi lo fijó en 21 millones. Para siempre. No hay más.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, large number 21,000,000 with hard cap ceiling icon above it, government printing press on side with blocked arrow showing it cannot add more, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/048.jpg",
+        "voice": "language/es/048.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 49,
+      "act": "VIII",
+      "start_s": 496,
+      "end_s": 507,
+      "narration": "Esa limitación es intencional — es lo opuesto a un gobierno que imprime dinero cuando quiere. Nunca va a haber un Bitcoin número 21,000,001.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, split comparison: left side government printing unlimited bills, right side Bitcoin fixed supply bar maxed at 21M with no overflow possible, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/049.jpg",
+        "voice": "language/es/049.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 50,
+      "act": "VIII",
+      "start_s": 507,
+      "end_s": 517,
+      "narration": "Pero si todo esto suena tan bien, ¿por qué hay personas que perdieron absolutamente todo?",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, Bitcoin logo with question mark shadow beneath it, small figure at edge of cliff looking down, dramatic red warning light, tension composition, no text, clean professional style",
+      "assets": {
+        "image": "img/050.jpg",
+        "voice": "language/es/050.mp3",
+        "sound": "sounds/tension_rise.mp3"
+      }
+    },
+    {
+      "id": 51,
+      "act": "IX",
+      "start_s": 517,
+      "end_s": 524,
+      "narration": "Bitcoin es, en palabras simples, el activo más volátil de la historia moderna.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, extreme zigzag price chart with massive peaks and valleys, volatility visualization, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/051.jpg",
+        "voice": "language/es/051.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 52,
+      "act": "IX",
+      "start_s": 524,
+      "end_s": 533,
+      "narration": "En 2017, subió de 1,000 dólares a casi 20,000 en doce meses. Luego bajó 80% en el siguiente año.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, price chart showing sharp spike from low to high in 2017 then steep 80% drop, year labels on x-axis as visual only, orange and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/052.jpg",
+        "voice": "language/es/052.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 53,
+      "act": "IX",
+      "start_s": 533,
+      "end_s": 541,
+      "narration": "En 2020, cayó 50% en un solo día durante el pánico del COVID.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, price line cliff dropping 50% in single bar, COVID mask icon in background, panic red color, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/053.jpg",
+        "voice": "language/es/053.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 54,
+      "act": "IX",
+      "start_s": 541,
+      "end_s": 549,
+      "narration": "En 2021, llegó a 68,000 dólares. En 2022, volvió a 16,000.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, two data point visualization: peak orange bar at 68k then valley red bar at 16k, mountain and valley silhouette style, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/054.jpg",
+        "voice": "language/es/054.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 55,
+      "act": "IX",
+      "start_s": 549,
+      "end_s": 557,
+      "narration": "Ni Warren Buffett ha visto movimientos así en toda su carrera.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, simple investor figure with iconic round glasses and suit, calm steady line chart next to wild Bitcoin chart, scale comparison, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/055.jpg",
+        "voice": "language/es/055.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 56,
+      "act": "IX",
+      "start_s": 557,
+      "end_s": 568,
+      "narration": "Hay gente que compró en los picos, entró en pánico, vendió en los valles, y perdió los ahorros de años.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, human figure buying at chart peak with green arrow, then panic face, selling at valley with red arrow and empty wallet, dark navy and red palette, no text, clean professional style",
+      "assets": {
+        "image": "img/056.jpg",
+        "voice": "language/es/056.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 57,
+      "act": "IX",
+      "start_s": 568,
+      "end_s": 578,
+      "narration": "Hay personas que vendieron sus casas para comprar Bitcoin y quedaron en la calle.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, house with for sale sign on left, Bitcoin coins in middle, figure sitting on street with empty pockets on right, red background tint, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/057.jpg",
+        "voice": "language/es/057.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 58,
+      "act": "IX",
+      "start_s": 578,
+      "end_s": 589,
+      "narration": "Y hay otras que compraron y olvidaron, aguantaron cada caída, y hoy tienen retornos que ninguna inversión convencional podría ofrecer.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, person sleeping peacefully while chart goes up dramatically over many years in background, green upward trend, calendar pages flipping, dark navy and green palette, no text, clean professional style",
+      "assets": {
+        "image": "img/058.jpg",
+        "voice": "language/es/058.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 59,
+      "act": "IX",
+      "start_s": 589,
+      "end_s": 597,
+      "narration": "La diferencia no fue suerte. Fue tiempo y tolerancia al riesgo.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, dice crossed out on left (no luck), clock and shield icon on right (time and risk tolerance), clean split comparison, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/059.jpg",
+        "voice": "language/es/059.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 60,
+      "act": "IX",
+      "start_s": 597,
+      "end_s": 610,
+      "narration": "Tu cartera digital, llamada wallet, funciona con dos claves: una pública, que es como la dirección de tu casa — la puedes compartir con cualquiera para que te manden dinero.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, digital wallet with two keys, one key labeled with house address icon (public, shared openly), one key hidden with padlock, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/060.jpg",
+        "voice": "language/es/060.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 61,
+      "act": "IX",
+      "start_s": 610,
+      "end_s": 621,
+      "narration": "Y una privada, que es la llave de tu puerta — si la pierdes, pierdes el acceso a todo lo que tienes adentro. Para siempre.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, door with keyhole, key falling and vanishing, vault full of Bitcoin behind locked door, permanent lock symbol, red accent for danger, no text, clean professional style",
+      "assets": {
+        "image": "img/061.jpg",
+        "voice": "language/es/061.mp3",
+        "sound": "sounds/lock.mp3"
+      }
+    },
+    {
+      "id": 62,
+      "act": "IX",
+      "start_s": 621,
+      "end_s": 631,
+      "narration": "Hay discos duros tirados en basureros con miles de Bitcoin adentro. Porque alguien tiró la llave sin darse cuenta.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, trash bin with hard drive inside glowing orange with Bitcoin symbol, person walking away unaware, lost fortune visualization, muted and dark palette, no text, clean professional style",
+      "assets": {
+        "image": "img/062.jpg",
+        "voice": "language/es/062.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 63,
+      "act": "X",
+      "start_s": 631,
+      "end_s": 643,
+      "narration": "Bitcoin tiene casos de uso reales: en países con hiperinflación como Venezuela o Argentina, hay gente que lo usa para proteger sus ahorros.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, map of South America with Venezuela and Argentina highlighted, Bitcoin shield protecting savings jar from inflation fire, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/063.jpg",
+        "voice": "language/es/063.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 64,
+      "act": "X",
+      "start_s": 643,
+      "end_s": 653,
+      "narration": "En países con restricciones bancarias, para enviar dinero al extranjero sin pagar el 10% de comisión.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, direct orange arrow between two country flags bypassing bank building, small fee badge showing near-zero vs big red 10% badge, dark navy palette, no text, clean professional style",
+      "assets": {
+        "image": "img/064.jpg",
+        "voice": "language/es/064.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 65,
+      "act": "X",
+      "start_s": 653,
+      "end_s": 661,
+      "narration": "También tiene problemas reales: consume muchísima energía. Se ha usado en crímenes.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, two warning icons: left shows power plant with massive energy consumption flames, right shows crime/warning triangle symbol, balanced neutral tone, dark navy and yellow palette, no text, clean professional style",
+      "assets": {
+        "image": "img/065.jpg",
+        "voice": "language/es/065.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 66,
+      "act": "X",
+      "start_s": 661,
+      "end_s": 669,
+      "narration": "Su volatilidad lo hace difícil de usar como moneda del día a día.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, person trying to buy coffee with Bitcoin coin, price tag changing multiple times rapidly with question marks, confused cashier, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/066.jpg",
+        "voice": "language/es/066.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 67,
+      "act": "X",
+      "start_s": 669,
+      "end_s": 681,
+      "narration": "No es una solución mágica. Pero tampoco es una estafa. Es una tecnología con más de 15 años de historia ininterrumpida funcionando exactamente como Satoshi dijo que funcionaría.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, Bitcoin logo centered with balanced scale: no magic wand on left, no scam symbol on right, 15-year unbroken timeline below, solid foundation blocks, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/067.jpg",
+        "voice": "language/es/067.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 68,
+      "act": "XI",
+      "start_s": 681,
+      "end_s": 689,
+      "narration": "¿Recuerdas lo que dijo Satoshi en 2008? 'Los bancos necesitan ser de confianza para manejar nuestro dinero.'",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, large quotation mark glowing in orange, callback visual echo of scene 19, bank building with broken trust symbol returning, same composition as Act IV callback, no text, clean professional style",
+      "assets": {
+        "image": "img/068.jpg",
+        "voice": "language/es/068.mp3",
+        "sound": "sounds/callback_sting.mp3"
+      }
+    },
+    {
+      "id": 69,
+      "act": "XI",
+      "start_s": 689,
+      "end_s": 703,
+      "narration": "La próxima vez que pagues una comisión por transferir tu propio dinero, o que esperes tres días para que llegue un pago, o que veas en las noticias que algún gobierno congeló cuentas — vas a escuchar esa frase con otros oídos.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, everyday person paying bank fee, waiting with clock, seeing news of frozen accounts, all three scenes connected to a glowing ear hearing the quote, dark navy and orange palette, no text, clean professional style",
+      "assets": {
+        "image": "img/069.jpg",
+        "voice": "language/es/069.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 70,
+      "act": "XI",
+      "start_s": 703,
+      "end_s": 713,
+      "narration": "No porque Bitcoin sea la respuesta a todo. Sino porque por primera vez en la historia, existe una alternativa. Y ya sabes exactamente cómo funciona.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, fork in road with traditional bank path on left and Bitcoin path on right both visible and open, figure standing at fork with knowledge represented as light bulb, orange accent, no text, clean professional style",
+      "assets": {
+        "image": "img/070.jpg",
+        "voice": "language/es/070.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 71,
+      "act": "XII",
+      "start_s": 713,
+      "end_s": 723,
+      "narration": "Esto no es consejo financiero. Investiga por tu cuenta. Y nunca pongas en riesgo más de lo que puedes permitirte perder.",
+      "image_prompt": "Flat 2D minimalist illustration, white background, warning shield icon with information symbol, person with research book and magnifying glass, simple risk gauge not in red zone, dark navy and yellow palette, no text, clean professional style",
+      "assets": {
+        "image": "img/071.jpg",
+        "voice": "language/es/071.mp3",
+        "sound": null
+      }
+    },
+    {
+      "id": 72,
+      "act": "XII",
+      "start_s": 723,
+      "end_s": 730,
+      "narration": "Si este te pareció útil, ya sabes lo que sigue.",
+      "image_prompt": "Flat 2D minimalist illustration, dark navy background, simple thumbs up and subscribe bell icon in orange, minimal clean composition, no text, clean professional style",
+      "assets": {
+        "image": "img/072.jpg",
+        "voice": "language/es/072.mp3",
+        "sound": null
+      }
     }
   ]
 }

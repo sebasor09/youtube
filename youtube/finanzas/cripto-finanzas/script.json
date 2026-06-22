@@ -1,0 +1,812 @@
+{
+  "video": {
+    "title": "¿Cómo funcionan las finanzas crypto?",
+    "fps": 30,
+    "width": 1920,
+    "height": 1080,
+    "durationInFrames": 10800,
+    "totalDurationSeconds": 360
+  },
+  "music": {
+    "prompt": "Lo-fi electronic background music, calm but modern, subtle beat, no vocals, 6 minutes, suitable for educational crypto explainer video",
+    "path": "music/background.mp3"
+  },
+  "scenes": [
+    {
+      "id": "scene_01_hook",
+      "startFrame": 0,
+      "durationInFrames": 450,
+      "durationSeconds": 15,
+      "narration": "¿Sabías que hoy podés prestar, pedir prestado y ganar intereses con crypto, todo sin bancos ni papeles? Hoy te explico cómo funcionan las finanzas crypto.",
+      "narrationPath": "language/es/escena_01.wav",
+      "soundEffect": "sounds/whoosh_intro.wav",
+      "subScenes": [
+        {
+          "startFrame": 0,
+          "durationInFrames": 90,
+          "imagePrompt": "Bitcoin and Ethereum icons appearing with glowing effect, no text",
+          "imagePath": "img/escena_01_a.jpg"
+        },
+        {
+          "startFrame": 90,
+          "durationInFrames": 90,
+          "imagePrompt": "Stack of gold coins morphing into digital crypto coins",
+          "imagePath": "img/escena_01_b.jpg"
+        },
+        {
+          "startFrame": 180,
+          "durationInFrames": 90,
+          "imagePrompt": "Question mark icon with crypto symbols around it, stickman thinking",
+          "imagePath": "img/escena_01_c.jpg"
+        },
+        {
+          "startFrame": 270,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman pointing at crypto chart going up",
+          "imagePath": "img/escena_01_d.jpg"
+        },
+        {
+          "startFrame": 360,
+          "durationInFrames": 90,
+          "imagePrompt": "Title text 'FINANZAS CRYPTO' in bold, crypto icons around",
+          "imagePath": "img/escena_01_e.jpg"
+        }
+      ]
+    },
+    {
+      "id": "scene_02_defi",
+      "startFrame": 450,
+      "durationInFrames": 1050,
+      "durationSeconds": 35,
+      "narration": "Las finanzas crypto también se conocen como DeFi — Finanzas Descentralizadas. La idea es simple: reemplazar intermediarios como bancos con código que corre en una blockchain. Todo es público, transparente y cualquiera puede usarlo.",
+      "narrationPath": "language/es/escena_02.wav",
+      "soundEffect": null,
+      "subScenes": [
+        {
+          "startFrame": 450,
+          "durationInFrames": 90,
+          "imagePrompt": "Bank building on left vs blockchain network nodes on right",
+          "imagePath": "img/escena_02_a.jpg"
+        },
+        {
+          "startFrame": 540,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman at bank counter with papers being replaced by digital interface",
+          "imagePath": "img/escena_02_b.jpg"
+        },
+        {
+          "startFrame": 630,
+          "durationInFrames": 90,
+          "imagePrompt": "Blockchain chain of blocks with data inside, glowing connections",
+          "imagePath": "img/escena_02_c.jpg"
+        },
+        {
+          "startFrame": 720,
+          "durationInFrames": 90,
+          "imagePrompt": "Open book icon with 'público' label, magnifying glass with 'transparente' label",
+          "imagePath": "img/escena_02_d.jpg"
+        },
+        {
+          "startFrame": 810,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman with laptop and globe icon, label 'cualquiera puede usarlo'",
+          "imagePath": "img/escena_02_e.jpg"
+        },
+        {
+          "startFrame": 900,
+          "durationInFrames": 90,
+          "imagePrompt": "Bank manager vs code snippet comparison, DeFi removes middleman",
+          "imagePath": "img/escena_02_f.jpg"
+        },
+        {
+          "startFrame": 990,
+          "durationInFrames": 90,
+          "imagePrompt": "World map with blockchain nodes connected globally",
+          "imagePath": "img/escena_02_g.jpg"
+        },
+        {
+          "startFrame": 1080,
+          "durationInFrames": 90,
+          "imagePrompt": "Three icons: lock (security), eye (transparency), hand (access)",
+          "imagePath": "img/escena_02_h.jpg"
+        },
+        {
+          "startFrame": 1170,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman smiling holding a phone showing DeFi app interface",
+          "imagePath": "img/escena_02_i.jpg"
+        },
+        {
+          "startFrame": 1260,
+          "durationInFrames": 90,
+          "imagePrompt": "Label 'DeFi' in center with icons around: lending, borrowing, trading",
+          "imagePath": "img/escena_02_j.jpg"
+        },
+        {
+          "startFrame": 1350,
+          "durationInFrames": 90,
+          "imagePrompt": "Transition arrow pointing right, 'Smart Contracts' text",
+          "imagePath": "img/escena_02_k.jpg"
+        }
+      ]
+    },
+    {
+      "id": "scene_03_smart_contracts",
+      "startFrame": 1500,
+      "durationInFrames": 1200,
+      "durationSeconds": 40,
+      "narration": "El motor de todo esto son los smart contracts. Son programas que se ejecutan automáticamente cuando se cumplen ciertas condiciones. Nadie los puede detener ni modificar una vez lanzados.",
+      "narrationPath": "language/es/escena_03.wav",
+      "soundEffect": "sounds/code_typing.wav",
+      "subScenes": [
+        {
+          "startFrame": 1500,
+          "durationInFrames": 90,
+          "imagePrompt": "Engine icon with code lines coming out, label 'Smart Contracts'",
+          "imagePath": "img/escena_03_a.jpg"
+        },
+        {
+          "startFrame": 1590,
+          "durationInFrames": 90,
+          "imagePrompt": "Lines of code with colorful syntax highlighting",
+          "imagePath": "img/escena_03_b.jpg"
+        },
+        {
+          "startFrame": 1680,
+          "durationInFrames": 90,
+          "imagePrompt": "Domino effect: condition A triggers action B, automatic execution",
+          "imagePath": "img/escena_03_c.jpg"
+        },
+        {
+          "startFrame": 1770,
+          "durationInFrames": 90,
+          "imagePrompt": "Vending machine analogy: insert coin -> get product, like smart contract execution",
+          "imagePath": "img/escena_03_d.jpg"
+        },
+        {
+          "startFrame": 1860,
+          "durationInFrames": 90,
+          "imagePrompt": "Two stickmen signing a digital contract that auto-executes",
+          "imagePath": "img/escena_03_e.jpg"
+        },
+        {
+          "startFrame": 1950,
+          "durationInFrames": 90,
+          "imagePrompt": "Lock icon with 'nadie lo detiene' label, immutable code",
+          "imagePath": "img/escena_03_f.jpg"
+        },
+        {
+          "startFrame": 2040,
+          "durationInFrames": 90,
+          "imagePrompt": "Code deployed to blockchain, rocket launching, permanent storage",
+          "imagePath": "img/escena_03_g.jpg"
+        },
+        {
+          "startFrame": 2130,
+          "durationInFrames": 90,
+          "imagePrompt": "Ethereum logo with 'EVM' label, smart contract platform",
+          "imagePath": "img/escena_03_h.jpg"
+        },
+        {
+          "startFrame": 2220,
+          "durationInFrames": 90,
+          "imagePrompt": "Smart contract examples: lending, swapping, NFTs",
+          "imagePath": "img/escena_03_i.jpg"
+        },
+        {
+          "startFrame": 2310,
+          "durationInFrames": 90,
+          "imagePrompt": "Hands holding a digital contract, glowing effect",
+          "imagePath": "img/escena_03_j.jpg"
+        },
+        {
+          "startFrame": 2400,
+          "durationInFrames": 90,
+          "imagePrompt": "Cogs and gears forming a brain, symbolizing smart contract logic",
+          "imagePath": "img/escena_03_k.jpg"
+        },
+        {
+          "startFrame": 2490,
+          "durationInFrames": 90,
+          "imagePrompt": "Transition arrow, 'Préstamos' text appearing",
+          "imagePath": "img/escena_03_l.jpg"
+        }
+      ]
+    },
+    {
+      "id": "scene_04_prestamos",
+      "startFrame": 2700,
+      "durationInFrames": 1800,
+      "durationSeconds": 60,
+      "narration": "Por ejemplo: querés pedir un préstamo. En DeFi depositás crypto como garantía — generalmente 150% del valor del préstamo. A cambio recibís una stablecoin como USDC o DAI. Mientras pagues el interés, recuperás tu crypto.",
+      "narrationPath": "language/es/escena_04.wav",
+      "soundEffect": "sounds/coin_drop.wav",
+      "subScenes": [
+        {
+          "startFrame": 2700,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman holding ETH coins with question mark, thinking about borrowing",
+          "imagePath": "img/escena_04_a.jpg"
+        },
+        {
+          "startFrame": 2790,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman depositing ETH into a digital vault labeled 'colateral'",
+          "imagePath": "img/escena_04_b.jpg"
+        },
+        {
+          "startFrame": 2880,
+          "durationInFrames": 90,
+          "imagePrompt": "Scale showing 150% collateral ratio, ETH vs loan value",
+          "imagePath": "img/escena_04_c.jpg"
+        },
+        {
+          "startFrame": 2970,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman receiving USDC/DAI coins from the protocol, happy expression",
+          "imagePath": "img/escena_04_d.jpg"
+        },
+        {
+          "startFrame": 3060,
+          "durationInFrames": 90,
+          "imagePrompt": "Stablecoin icons: USDC and DAI with '$1' label, pegged to dollar",
+          "imagePath": "img/escena_04_e.jpg"
+        },
+        {
+          "startFrame": 3150,
+          "durationInFrames": 90,
+          "imagePrompt": "Calendar with interest payment dates, stickman paying on time",
+          "imagePath": "img/escena_04_f.jpg"
+        },
+        {
+          "startFrame": 3240,
+          "durationInFrames": 90,
+          "imagePrompt": "Vault opening, ETH returning to stickman after loan repaid",
+          "imagePath": "img/escena_04_g.jpg"
+        },
+        {
+          "startFrame": 3330,
+          "durationInFrames": 90,
+          "imagePrompt": "Flowchart: deposit -> borrow -> repay -> withdraw",
+          "imagePath": "img/escena_04_h.jpg"
+        },
+        {
+          "startFrame": 3420,
+          "durationInFrames": 90,
+          "imagePrompt": "Traditional bank loan vs DeFi loan comparison, no paperwork",
+          "imagePath": "img/escena_04_i.jpg"
+        },
+        {
+          "startFrame": 3510,
+          "durationInFrames": 90,
+          "imagePrompt": "Interest rate percentage going up and down, variable rates in DeFi",
+          "imagePath": "img/escena_04_j.jpg"
+        },
+        {
+          "startFrame": 3600,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman using borrowed stablecoins to trade and invest",
+          "imagePath": "img/escena_04_k.jpg"
+        },
+        {
+          "startFrame": 3690,
+          "durationInFrames": 90,
+          "imagePrompt": "'Liquidation' warning triangle, price chart dropping",
+          "imagePath": "img/escena_04_l.jpg"
+        },
+        {
+          "startFrame": 3780,
+          "durationInFrames": 90,
+          "imagePrompt": "Aave and Compound protocol logos as lending platform examples",
+          "imagePath": "img/escena_04_m.jpg"
+        },
+        {
+          "startFrame": 3870,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman managing multiple loans, dashboard interface",
+          "imagePath": "img/escena_04_n.jpg"
+        },
+        {
+          "startFrame": 3960,
+          "durationInFrames": 90,
+          "imagePrompt": "Summary icons: deposit, borrow, repay",
+          "imagePath": "img/escena_04_o.jpg"
+        },
+        {
+          "startFrame": 4050,
+          "durationInFrames": 90,
+          "imagePrompt": "Transition to next topic, 'Yield Farming' text with arrow",
+          "imagePath": "img/escena_04_p.jpg"
+        },
+        {
+          "startFrame": 4140,
+          "durationInFrames": 90,
+          "imagePrompt": "Coins stacking up with farming tool icon, liquidity pools intro",
+          "imagePath": "img/escena_04_q.jpg"
+        },
+        {
+          "startFrame": 4230,
+          "durationInFrames": 90,
+          "imagePrompt": "Pool of water with ETH and USDC coins floating, liquidity concept",
+          "imagePath": "img/escena_04_r.jpg"
+        },
+        {
+          "startFrame": 4320,
+          "durationInFrames": 90,
+          "imagePrompt": "Percentage symbols rising from the pool, earning yield",
+          "imagePath": "img/escena_04_s.jpg"
+        },
+        {
+          "startFrame": 4410,
+          "durationInFrames": 90,
+          "imagePrompt": "DEX interface showing liquidity pool (like Uniswap)",
+          "imagePath": "img/escena_04_t.jpg"
+        }
+      ]
+    },
+    {
+      "id": "scene_05_yield_farming",
+      "startFrame": 4500,
+      "durationInFrames": 1800,
+      "durationSeconds": 60,
+      "narration": "Después están los liquidity pools. Vos depositás dos activos, por ejemplo ETH y USDC, en un pool. Cuando alguien intercambia entre esos tokens, paga una comisión. Esa comisión se reparte entre todos los que pusieron liquidez. Eso es yield farming.",
+      "narrationPath": "language/es/escena_05.wav",
+      "soundEffect": "sounds/water_splash.wav",
+      "subScenes": [
+        {
+          "startFrame": 4500,
+          "durationInFrames": 90,
+          "imagePrompt": "Liquidity pool as a large container, ETH and USDC coins pouring in",
+          "imagePath": "img/escena_05_a.jpg"
+        },
+        {
+          "startFrame": 4590,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman depositing ETH and USDC into pool, receiving LP tokens",
+          "imagePath": "img/escena_05_b.jpg"
+        },
+        {
+          "startFrame": 4680,
+          "durationInFrames": 90,
+          "imagePrompt": "Two traders swapping tokens through the pool, arrows in and out",
+          "imagePath": "img/escena_05_c.jpg"
+        },
+        {
+          "startFrame": 4770,
+          "durationInFrames": 90,
+          "imagePrompt": "Fee icon with small coins dropping, '0.3% fee' label",
+          "imagePath": "img/escena_05_d.jpg"
+        },
+        {
+          "startFrame": 4860,
+          "durationInFrames": 90,
+          "imagePrompt": "Pool distributing fees back to LP providers, percentage increasing",
+          "imagePath": "img/escena_05_e.jpg"
+        },
+        {
+          "startFrame": 4950,
+          "durationInFrames": 90,
+          "imagePrompt": "Multiple interconnected pools, complex DeFi ecosystem",
+          "imagePath": "img/escena_05_f.jpg"
+        },
+        {
+          "startFrame": 5040,
+          "durationInFrames": 90,
+          "imagePrompt": "APR percentage going up, yield optimization strategies",
+          "imagePath": "img/escena_05_g.jpg"
+        },
+        {
+          "startFrame": 5130,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman moving funds between pools to chase best yield",
+          "imagePath": "img/escena_05_h.jpg"
+        },
+        {
+          "startFrame": 5220,
+          "durationInFrames": 90,
+          "imagePrompt": "'Impermanent Loss' warning, two diverging price arrows",
+          "imagePath": "img/escena_05_i.jpg"
+        },
+        {
+          "startFrame": 5310,
+          "durationInFrames": 90,
+          "imagePrompt": "Rewards dashboard showing earned fees, yield farmer checking returns",
+          "imagePath": "img/escena_05_j.jpg"
+        },
+        {
+          "startFrame": 5400,
+          "durationInFrames": 90,
+          "imagePrompt": "Third party protocols: Yearn, Beefy auto-compounding yields",
+          "imagePath": "img/escena_05_k.jpg"
+        },
+        {
+          "startFrame": 5490,
+          "durationInFrames": 90,
+          "imagePrompt": "Yield farming cycle: deposit -> earn -> compound -> earn more",
+          "imagePath": "img/escena_05_l.jpg"
+        },
+        {
+          "startFrame": 5580,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman with farming hat, holding a basket of tokens",
+          "imagePath": "img/escena_05_m.jpg"
+        },
+        {
+          "startFrame": 5670,
+          "durationInFrames": 90,
+          "imagePrompt": "Liquidity pool depth chart, how trades affect price",
+          "imagePath": "img/escena_05_n.jpg"
+        },
+        {
+          "startFrame": 5760,
+          "durationInFrames": 90,
+          "imagePrompt": "Three pool types: stable, volatile, weighted",
+          "imagePath": "img/escena_05_o.jpg"
+        },
+        {
+          "startFrame": 5850,
+          "durationInFrames": 90,
+          "imagePrompt": "Passive income: coins flowing while stickman sleeps",
+          "imagePath": "img/escena_05_p.jpg"
+        },
+        {
+          "startFrame": 5940,
+          "durationInFrames": 90,
+          "imagePrompt": "Transition to staking, 'Staking' text with lock icon",
+          "imagePath": "img/escena_05_q.jpg"
+        },
+        {
+          "startFrame": 6030,
+          "durationInFrames": 90,
+          "imagePrompt": "Summary of liquidity providing: deposit, earn fees, withdraw",
+          "imagePath": "img/escena_05_r.jpg"
+        },
+        {
+          "startFrame": 6120,
+          "durationInFrames": 90,
+          "imagePrompt": "'Staking' title card, coins inside a shield",
+          "imagePath": "img/escena_05_s.jpg"
+        },
+        {
+          "startFrame": 6210,
+          "durationInFrames": 90,
+          "imagePrompt": "Padlock with coins around it, staking rewards concept",
+          "imagePath": "img/escena_05_t.jpg"
+        }
+      ]
+    },
+    {
+      "id": "scene_06_staking",
+      "startFrame": 6300,
+      "durationInFrames": 1350,
+      "durationSeconds": 45,
+      "narration": "Otra forma de ganar es el staking. Bloqueás tus tokens en una red para ayudar a validar transacciones. A cambio, la red te paga recompensas. Es como tener un plazo fijo pero en crypto, con rendimientos que pueden ser del 5% al 20% anual.",
+      "narrationPath": "language/es/escena_06.wav",
+      "soundEffect": null,
+      "subScenes": [
+        {
+          "startFrame": 6300,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman locking tokens into a safe labeled 'Staking'",
+          "imagePath": "img/escena_06_a.jpg"
+        },
+        {
+          "startFrame": 6390,
+          "durationInFrames": 90,
+          "imagePrompt": "Blockchain validators at work, stickmen with checkmarks approving transactions",
+          "imagePath": "img/escena_06_b.jpg"
+        },
+        {
+          "startFrame": 6480,
+          "durationInFrames": 90,
+          "imagePrompt": "Proof of Stake vs Proof of Work comparison, energy efficient",
+          "imagePath": "img/escena_06_c.jpg"
+        },
+        {
+          "startFrame": 6570,
+          "durationInFrames": 90,
+          "imagePrompt": "Rewards flowing from network to staker, coins increasing",
+          "imagePath": "img/escena_06_d.jpg"
+        },
+        {
+          "startFrame": 6660,
+          "durationInFrames": 90,
+          "imagePrompt": "Calendar showing monthly rewards, passive income calendar",
+          "imagePath": "img/escena_06_e.jpg"
+        },
+        {
+          "startFrame": 6750,
+          "durationInFrames": 90,
+          "imagePrompt": "Bank fixed term 2% vs crypto staking 5-20% comparison, graphic bars",
+          "imagePath": "img/escena_06_f.jpg"
+        },
+        {
+          "startFrame": 6840,
+          "durationInFrames": 90,
+          "imagePrompt": "Ethereum 2.0 shield, Solana, Cardano logos as staking platforms",
+          "imagePath": "img/escena_06_g.jpg"
+        },
+        {
+          "startFrame": 6930,
+          "durationInFrames": 90,
+          "imagePrompt": "Locked padlock with 'locked period' label, unstaking timer",
+          "imagePath": "img/escena_06_h.jpg"
+        },
+        {
+          "startFrame": 7020,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman checking staking dashboard, balance growing",
+          "imagePath": "img/escena_06_i.jpg"
+        },
+        {
+          "startFrame": 7110,
+          "durationInFrames": 90,
+          "imagePrompt": "Compounding rewards: reinvesting staking rewards for more yield",
+          "imagePath": "img/escena_06_j.jpg"
+        },
+        {
+          "startFrame": 7200,
+          "durationInFrames": 90,
+          "imagePrompt": "'Validator node' icon, running a node vs pool staking",
+          "imagePath": "img/escena_06_k.jpg"
+        },
+        {
+          "startFrame": 7290,
+          "durationInFrames": 90,
+          "imagePrompt": "Slashing warning, penalty for validator misbehavior",
+          "imagePath": "img/escena_06_l.jpg"
+        },
+        {
+          "startFrame": 7380,
+          "durationInFrames": 90,
+          "imagePrompt": "Liquid staking: Lido/stETH, staked tokens still usable in DeFi",
+          "imagePath": "img/escena_06_m.jpg"
+        },
+        {
+          "startFrame": 7470,
+          "durationInFrames": 90,
+          "imagePrompt": "Summary icons: lock, validate, earn",
+          "imagePath": "img/escena_06_n.jpg"
+        },
+        {
+          "startFrame": 7560,
+          "durationInFrames": 90,
+          "imagePrompt": "Transition arrow, 'Riesgos' text, warning colors",
+          "imagePath": "img/escena_06_o.jpg"
+        }
+      ]
+    },
+    {
+      "id": "scene_07_riesgos",
+      "startFrame": 7650,
+      "durationInFrames": 1800,
+      "durationSeconds": 60,
+      "narration": "Pero no todo es color de rosa. Los riesgos existen: los smart contracts pueden tener bugs, los precios pueden caer y liquidar tu garantía, y hay estafas como los rug pulls. Nunca inviertas plata que no puedas perder.",
+      "narrationPath": "language/es/escena_07.wav",
+      "soundEffect": "sounds/warning_alarm.wav",
+      "subScenes": [
+        {
+          "startFrame": 7650,
+          "durationInFrames": 90,
+          "imagePrompt": "Warning triangle icon centered, 'RIESGOS' bold text, red tones",
+          "imagePath": "img/escena_07_a.jpg"
+        },
+        {
+          "startFrame": 7740,
+          "durationInFrames": 90,
+          "imagePrompt": "Smart contract with a bug icon, cracked code, exploit risk",
+          "imagePath": "img/escena_07_b.jpg"
+        },
+        {
+          "startFrame": 7830,
+          "durationInFrames": 90,
+          "imagePrompt": "Hacker breaking into a smart contract, money flying away",
+          "imagePath": "img/escena_07_c.jpg"
+        },
+        {
+          "startFrame": 7920,
+          "durationInFrames": 90,
+          "imagePrompt": "Price chart crashing down, red candle sticks, liquidation happening",
+          "imagePath": "img/escena_07_d.jpg"
+        },
+        {
+          "startFrame": 8010,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman losing collateral, vault closing, liquidated warning",
+          "imagePath": "img/escena_07_e.jpg"
+        },
+        {
+          "startFrame": 8100,
+          "durationInFrames": 90,
+          "imagePrompt": "'Rug Pull' illustration, carpet being pulled, stickman falling",
+          "imagePath": "img/escena_07_f.jpg"
+        },
+        {
+          "startFrame": 8190,
+          "durationInFrames": 90,
+          "imagePrompt": "Fake project with 'SCAM' stamp, money disappearing",
+          "imagePath": "img/escena_07_g.jpg"
+        },
+        {
+          "startFrame": 8280,
+          "durationInFrames": 90,
+          "imagePrompt": "Government building with gavel, regulatory uncertainty, unclear laws",
+          "imagePath": "img/escena_07_h.jpg"
+        },
+        {
+          "startFrame": 8370,
+          "durationInFrames": 90,
+          "imagePrompt": "Impermanent loss: two tokens diverging in price, LP losing value",
+          "imagePath": "img/escena_07_i.jpg"
+        },
+        {
+          "startFrame": 8460,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman with binoculars, 'DYOR' label (Do Your Own Research)",
+          "imagePath": "img/escena_07_j.jpg"
+        },
+        {
+          "startFrame": 8550,
+          "durationInFrames": 90,
+          "imagePrompt": "Diversification: eggs in different baskets, risk management",
+          "imagePath": "img/escena_07_k.jpg"
+        },
+        {
+          "startFrame": 8640,
+          "durationInFrames": 90,
+          "imagePrompt": "'Start Small' piggy bank with tiny crypto coin",
+          "imagePath": "img/escena_07_l.jpg"
+        },
+        {
+          "startFrame": 8730,
+          "durationInFrames": 90,
+          "imagePrompt": "Audited vs non-audited projects, checkmark and X comparison",
+          "imagePath": "img/escena_07_m.jpg"
+        },
+        {
+          "startFrame": 8820,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman with hard hat, 'safety first', navigating DeFi carefully",
+          "imagePath": "img/escena_07_n.jpg"
+        },
+        {
+          "startFrame": 8910,
+          "durationInFrames": 90,
+          "imagePrompt": "Risk vs reward scale, balance concept in crypto investing",
+          "imagePath": "img/escena_07_o.jpg"
+        },
+        {
+          "startFrame": 9000,
+          "durationInFrames": 90,
+          "imagePrompt": "'Never invest more than you can lose' text, important reminder",
+          "imagePath": "img/escena_07_p.jpg"
+        },
+        {
+          "startFrame": 9090,
+          "durationInFrames": 90,
+          "imagePrompt": "Transition to closing, summary of risk tips",
+          "imagePath": "img/escena_07_q.jpg"
+        },
+        {
+          "startFrame": 9180,
+          "durationInFrames": 90,
+          "imagePrompt": "Checkmark list: audit, diversify, start small, DYOR",
+          "imagePath": "img/escena_07_r.jpg"
+        },
+        {
+          "startFrame": 9270,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman confidently moving forward, knowledge is power",
+          "imagePath": "img/escena_07_s.jpg"
+        },
+        {
+          "startFrame": 9360,
+          "durationInFrames": 90,
+          "imagePrompt": "Book icon, learning never stops, closing transition",
+          "imagePath": "img/escena_07_t.jpg"
+        }
+      ]
+    },
+    {
+      "id": "scene_08_cierre",
+      "startFrame": 9450,
+      "durationInFrames": 1350,
+      "durationSeconds": 45,
+      "narration": "Las finanzas crypto están redefiniendo cómo manejamos el dinero. Si entendés cómo funcionan, podés aprovecharlas. Investigá, empezá con montos chicos, y nunca dejés tus claves en un exchange. Nos vemos en el próximo video.",
+      "narrationPath": "language/es/escena_08.wav",
+      "soundEffect": "sounds/channel_outro.wav",
+      "subScenes": [
+        {
+          "startFrame": 9450,
+          "durationInFrames": 90,
+          "imagePrompt": "Recap of all topics: DeFi, smart contracts, lending, yield farming, staking",
+          "imagePath": "img/escena_08_a.jpg"
+        },
+        {
+          "startFrame": 9540,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman understanding crypto finance, lightbulb above head",
+          "imagePath": "img/escena_08_b.jpg"
+        },
+        {
+          "startFrame": 9630,
+          "durationInFrames": 90,
+          "imagePrompt": "Research tools: magnifying glass, newspaper, charts, 'investigá' label",
+          "imagePath": "img/escena_08_c.jpg"
+        },
+        {
+          "startFrame": 9720,
+          "durationInFrames": 90,
+          "imagePrompt": "Small plant growing from a single coin, 'start small' concept",
+          "imagePath": "img/escena_08_d.jpg"
+        },
+        {
+          "startFrame": 9810,
+          "durationInFrames": 90,
+          "imagePrompt": "Keys in safe hands, 'not your keys not your crypto' message",
+          "imagePath": "img/escena_08_e.jpg"
+        },
+        {
+          "startFrame": 9900,
+          "durationInFrames": 90,
+          "imagePrompt": "Hardware wallet vs exchange, self-custody recommendation",
+          "imagePath": "img/escena_08_f.jpg"
+        },
+        {
+          "startFrame": 9990,
+          "durationInFrames": 90,
+          "imagePrompt": "Crypto landscape evolving, forward-looking perspective",
+          "imagePath": "img/escena_08_g.jpg"
+        },
+        {
+          "startFrame": 10080,
+          "durationInFrames": 90,
+          "imagePrompt": "Channel logo with 'Suscríbete' text, like and subscribe CTA",
+          "imagePath": "img/escena_08_h.jpg"
+        },
+        {
+          "startFrame": 10170,
+          "durationInFrames": 90,
+          "imagePrompt": "Stickman waving goodbye, 'nos vemos' text, friendly farewell",
+          "imagePath": "img/escena_08_i.jpg"
+        },
+        {
+          "startFrame": 10260,
+          "durationInFrames": 90,
+          "imagePrompt": "End screen with 'next video' suggestion box",
+          "imagePath": "img/escena_08_j.jpg"
+        },
+        {
+          "startFrame": 10350,
+          "durationInFrames": 90,
+          "imagePrompt": "Crypto icons fading out, channel name centered, final frame",
+          "imagePath": "img/escena_08_k.jpg"
+        },
+        {
+          "startFrame": 10440,
+          "durationInFrames": 90,
+          "imagePrompt": "Black screen with channel watermark",
+          "imagePath": "img/escena_08_l.jpg"
+        },
+        {
+          "startFrame": 10530,
+          "durationInFrames": 90,
+          "imagePrompt": "Social media links icons",
+          "imagePath": "img/escena_08_m.jpg"
+        },
+        {
+          "startFrame": 10620,
+          "durationInFrames": 90,
+          "imagePrompt": "Thank you message",
+          "imagePath": "img/escena_08_n.jpg"
+        },
+        {
+          "startFrame": 10710,
+          "durationInFrames": 90,
+          "imagePrompt": "Final black frame, end of video",
+          "imagePath": "img/escena_08_o.jpg"
+        }
+      ]
+    }
+  ]
+}

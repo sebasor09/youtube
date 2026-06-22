@@ -59,7 +59,11 @@ export const MyVideo: React.FC = () => {
             </AbsoluteFill>
 
             {assets.sound && (
-              <Audio src={staticFile(assets.sound)} startFrom={0} />
+              <Audio src={staticFile(assets.sound)} startFrom={0} volume={0.6} />
+            )}
+
+            {assets.voice_en && (
+              <Audio src={staticFile(`${BASE_PATH}/${assets.voice_en}`)} startFrom={0} volume={1} />
             )}
           </Sequence>
         );

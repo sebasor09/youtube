@@ -273,7 +273,36 @@ Reglas para no perder la autoridad moral:
 2. **Crear `guion.md`** con el contenido del video en esa carpeta, siguiendo todas las reglas de esta guía
 3. **El usuario revisa** el guion y lo aprueba
 4. **Cuando el usuario apruebe**, generar `script.json` siguiendo el schema definido más abajo
-5. **Remotion genera el video** usando el script.json
+5. **Generar el audio con ElevenLabs** (ver sección abajo)
+6. **Remotion renderiza el video** usando el script.json y los audios generados
+
+---
+
+### Generar voz con ElevenLabs
+
+Una vez que el `script.json` está listo, ejecutar desde la raíz del proyecto:
+
+```bash
+ELEVEN_API_KEY=tu_api_key node scripts/generate-voice.mjs youtube/finanzas/nombre-del-video/script.json
+```
+
+**Ejemplo con cripto-finanzas:**
+```bash
+ELEVEN_API_KEY=tu_api_key node scripts/generate-voice.mjs youtube/finanzas/cripto-finanzas/script.json
+```
+
+El script lee cada escena del `script.json`, genera el audio y lo guarda en:
+```
+nombre-del-video/
+└── language/
+    └── en/
+        ├── scene_001.mp3
+        ├── scene_002.mp3
+        └── ...
+```
+
+- Si un archivo ya existe, lo salta — puedes re-ejecutar sin problema si algo falla a la mitad.
+- La API key la obtienes en [elevenlabs.io](https://elevenlabs.io) → Profile → API Key.
 
 ---
 

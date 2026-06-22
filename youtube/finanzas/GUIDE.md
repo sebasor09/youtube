@@ -70,7 +70,7 @@ Every `image_prompt` in the script.json must end with this exact style block:
 
 ## Image Requirements
 - **Resolution:** 1920x1080 (16:9)
-- **Format:** JPG/PNG
+- **Format:** PNG
 - **Style:** [Ej: Stickman animation]
 - **Character:** [Ej: Consistent across all videos]
 - **Background:** [Ej: Beige solid]
@@ -309,7 +309,7 @@ Cuando el usuario apruebe el guion, generar el archivo `script.json` dentro de l
       "narration_es": "Texto de narración en español para esta escena.",
       "image_prompt": "Image prompt in English describing exactly what to show visually. Always ends with the visual style from this guide.",
       "assets": {
-        "img": "img/scene_001.jpg",
+        "img": "img/scene_001.png",
         "voice_en": "language/en/scene_001.mp3",
         "voice_es": "language/es/scene_001.mp3",
         "sound": "sounds/nombre.mp3 or null",

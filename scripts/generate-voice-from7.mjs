@@ -8,7 +8,7 @@ import path from "path";
 import https from "https";
 
 const API_KEY = "sk_30251e1b828cbf9a1e39b4c9a37e9c7adb9982790235bf7e";
-const VOICE_ID = "bfGb7JTLUnZebZRiFYyq";
+const VOICE_ID = "Gubgw9l4dtIoQA9YZHgx";
 const API_URL = `https://api.elevenlabs.io/v1/text-to-speech/${VOICE_ID}`;
 const MODEL = "eleven_multilingual_v2";
 const START_FROM_ID = 7;

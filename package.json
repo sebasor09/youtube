@@ -15,6 +15,7 @@
     "remotion": "4.0.242"
   },
   "devDependencies": {
+    "@babel/parser": "^8.0.0",
     "@types/react": "18.3.12",
     "typescript": "5.7.2"
   },

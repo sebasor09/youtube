@@ -2,7 +2,7 @@
   "title": "Bitcoin — What It Is and How It Works",
   "video_id": "cripto-finanzas",
   "language_primary": "en",
-  "estimated_duration_seconds": 730,
+  "estimated_duration_seconds": 359,
   "music_prompt": "Cinematic lo-fi electronic instrumental, slow BPM 75, dark atmospheric piano chords with subtle bass, no vocals, financial documentary mood, builds tension during key moments, resolves softly at the end, 12 minutes duration",
   "visual_style": "2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style",
   "scenes": [
@@ -36,7 +36,7 @@
     },
     {
       "id": 3,
-      "duration": 7,
+      "duration": 5,
       "narration_en": "Or that your international transfer will take four business days and cost you 3% in fees.",
       "narration_es": "O que tu transferencia al extranjero va a tardar cuatro días hábiles y te van a cobrar el 3% de comisión.",
       "image_prompt": "Globe with two continents, dotted transfer arrow blocked by a large clock and a coin bag with percentage symbol, stickman on left looking frustrated, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -50,7 +50,7 @@
     },
     {
       "id": 4,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "Or that the money you saved is now worth less because someone in a government you never chose decided to print more bills.",
       "narration_es": "O que el dinero que tenías guardado ahora vale menos porque alguien en un gobierno que nunca elegiste decidió imprimir más billetes.",
       "image_prompt": "Government building on right with a large printing machine shooting out bills, stickman on left holding a shrinking wallet with a downward arrow, sad expression, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -64,7 +64,7 @@
     },
     {
       "id": 5,
-      "duration": 6,
+      "duration": 5,
       "narration_en": "That's not science fiction. It happened to millions of people.",
       "narration_es": "Eso no es ciencia ficción. Le pasó a millones de personas.",
       "image_prompt": "Large crowd of simple secondary stickmen with round white heads and stick bodies, some holding empty wallets, some with sad drooping faces, spread across the scene, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -78,7 +78,7 @@
     },
     {
       "id": 6,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "And it was exactly that problem that made someone decide to create Bitcoin.",
       "narration_es": "Y fue exactamente ese problema el que hizo que alguien decidiera crear Bitcoin.",
       "image_prompt": "Large glowing orange circle with a bold B symbol transforming from a question mark, rays of light emanating outward, stickman looking at it with wide eyes, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -92,7 +92,7 @@
     },
     {
       "id": 7,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "On May 22, 2010, a programmer named Laszlo Hanyecz posted a message on an internet forum.",
       "narration_es": "El 22 de mayo de 2010, un programador llamado Laszlo Hanyecz publicó un mensaje en un foro de internet.",
       "image_prompt": "Stickman sitting at a computer desk typing, wall calendar with May circled behind him, simple computer monitor glowing on desk, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -106,7 +106,7 @@
     },
     {
       "id": 8,
-      "duration": 6,
+      "duration": 5,
       "narration_en": "It said something like: 'I'll pay 10,000 bitcoins for two pizzas.'",
       "narration_es": "Decía algo así: 'Pagaré 10,000 bitcoins por dos pizzas.'",
       "image_prompt": "Computer monitor with a forum post interface, two pizza box icons on left and a large stack of golden coins on right, stickman pointing at the screen with excited expression, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -120,7 +120,7 @@
     },
     {
       "id": 9,
-      "duration": 6,
+      "duration": 5,
       "narration_en": "Someone accepted. They sent the pizzas. And Laszlo paid.",
       "narration_es": "Alguien aceptó. Le mandaron las pizzas. Y Laszlo pagó.",
       "image_prompt": "Two stickmen facing each other, pizza boxes flying from right stickman to left stickman, golden coins flying in opposite direction, both smiling, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -134,7 +134,7 @@
     },
     {
       "id": 10,
-      "duration": 7,
+      "duration": 5,
       "narration_en": "Those two pizzas are now worth more than 600 million dollars.",
       "narration_es": "Esas dos pizzas hoy valen más de 600 millones de dólares.",
       "image_prompt": "Two pizza boxes sitting next to an enormous tower of coins reaching off the top of the frame, stickman jaw completely dropped in shock, eyes wide open, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -148,7 +148,7 @@
     },
     {
       "id": 11,
-      "duration": 7,
+      "duration": 5,
       "narration_en": "But this story doesn't start there.",
       "narration_es": "Pero esta historia no empieza ahí.",
       "image_prompt": "Road with an arrow pointing backwards, clock on a signpost with hands spinning in reverse, stickman walking backward along the road, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -162,7 +162,7 @@
     },
     {
       "id": 12,
-      "duration": 15,
+      "duration": 5,
       "narration_en": "Before this video ends, you'll understand three things: exactly what Bitcoin is and why it exists, how it works without any bank in the middle, and why some people became millionaires with it... and others lost everything.",
       "narration_es": "Antes de terminar este video, vas a entender tres cosas: qué es Bitcoin exactamente y por qué existe, cómo funciona sin ningún banco en el medio, y por qué hay gente que se hizo millonaria con esto... y otra que lo perdió todo.",
       "image_prompt": "Stickman with three glowing speech bubbles above head, first shows orange Bitcoin coin, second shows network of connected dots, third shows rollercoaster chart with one figure celebrating and another falling, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -176,7 +176,7 @@
     },
     {
       "id": 13,
-      "duration": 13,
+      "duration": 5,
       "narration_en": "It's October 2008. The world just watched banks that had existed for over a hundred years collapse in weeks.",
       "narration_es": "Estamos en octubre de 2008. El mundo acaba de ver cómo bancos que existían hace más de cien años colapsan en semanas.",
       "image_prompt": "Large bank buildings crumbling with cracks and falling bricks, crowd of panicked secondary stickmen running away, newspapers flying through the air, dark storm clouds above, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -190,7 +190,7 @@
     },
     {
       "id": 14,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "Lehman Brothers, one of the largest banks on the planet, just filed for bankruptcy.",
       "narration_es": "Lehman Brothers, uno de los bancos más grandes del planeta, acaba de declararse en quiebra.",
       "image_prompt": "Enormous bank building splitting apart from the center, bricks and money bills flying everywhere, secondary stickmen below with hands on their heads in horror, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -204,7 +204,7 @@
     },
     {
       "id": 15,
-      "duration": 11,
+      "duration": 5,
       "narration_en": "Governments printed money at full speed to rescue them. And millions of ordinary people lost their homes, their savings, their jobs.",
       "narration_es": "Los gobiernos imprimen dinero a toda velocidad para rescatarlos. Y millones de personas normales pierden sus casas, sus ahorros, su trabajo.",
       "image_prompt": "Government building with printing machine running at full speed ejecting bills, stickmen below losing house icons, wallet icons, briefcase icons in a sad scene, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -218,7 +218,7 @@
     },
     {
       "id": 16,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "In the middle of that chaos, someone using the pseudonym Satoshi Nakamoto published a 9-page document.",
       "narration_es": "En medio de ese caos, alguien con el seudónimo Satoshi Nakamoto publicó un documento de 9 páginas.",
       "image_prompt": "Lone stickman sitting at a small desk in a dark room with a single lamp, nine pages of a document stacked neatly on the desk, determined expression, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -232,7 +232,7 @@
     },
     {
       "id": 17,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "He titled it: 'Bitcoin: A Peer-to-Peer Electronic Cash System.'",
       "narration_es": "Lo tituló: 'Bitcoin: A Peer-to-Peer Electronic Cash System.' Un sistema de efectivo electrónico de persona a persona.",
       "image_prompt": "Document scroll with a large orange Bitcoin circle coin at the top, two stickmen connected by a direct double-headed arrow between them, representing peer-to-peer, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -246,7 +246,7 @@
     },
     {
       "id": 18,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "Nobody read it. Except a small group of programmers on an obscure internet forum.",
       "narration_es": "Nadie lo leyó. Excepto un grupo pequeño de programadores en un foro oscuro de internet.",
       "image_prompt": "Large crowd of secondary stickmen ignoring the document, spotlight illuminating a tiny group of four stickmen at computers in the corner reading it intently, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -260,7 +260,7 @@
     },
     {
       "id": 19,
-      "duration": 12,
+      "duration": 5,
       "narration_en": "In that document, Satoshi wrote something worth quoting exactly: 'Banks must be trusted to hold our money. But the history of fiat currency is full of breaches of that trust.'",
       "narration_es": "En ese documento, Satoshi escribió algo que vale la pena citar textual: 'Los bancos necesitan ser de confianza para manejar nuestro dinero. Pero la historia del dinero bancario está llena de traiciones a esa confianza.'",
       "image_prompt": "Stickman with large speech bubble showing a bank building holding coins, and a broken chain link and cracked trust badge above the bank, serious expression, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -274,7 +274,7 @@
     },
     {
       "id": 20,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "That sentence explains everything. Bitcoin wasn't invented to make you rich. It was invented so no one else controls your money.",
       "narration_es": "Esa frase lo explica todo. Bitcoin no fue inventado para hacerte rico. Fue inventado para que nadie más controle tu dinero.",
       "image_prompt": "Stickman standing next to a floating orange Bitcoin coin with no chains, no locks, no bank building nearby, free and open, stickman pointing at it with confident expression, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -288,7 +288,7 @@
     },
     {
       "id": 21,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "To understand Bitcoin, you first need to understand how regular money works.",
       "narration_es": "Para entender Bitcoin, primero hay que entender cómo funciona el dinero normal.",
       "image_prompt": "Split screen: left side shows a traditional bank with coins and a stickman, right side shows an orange Bitcoin coin floating freely, an equals sign with a question mark between them, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -302,7 +302,7 @@
     },
     {
       "id": 22,
-      "duration": 7,
+      "duration": 5,
       "narration_en": "The bill in your pocket is worth nothing on its own. It's paper.",
       "narration_es": "El billete que tienes en el bolsillo no vale nada en sí mismo. Es papel.",
       "image_prompt": "Stickman holding up a paper bill and looking at it confused, bill partially transparent to show it is just plain paper, question mark above stickman's head, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -316,7 +316,7 @@
     },
     {
       "id": 23,
-      "duration": 7,
+      "duration": 5,
       "narration_en": "It's worth something because we all agreed it is. And because a government backs it.",
       "narration_es": "Vale porque todos acordamos que vale. Y porque un gobierno lo respalda.",
       "image_prompt": "Circle of secondary stickmen holding hands around a central money bill, government building in background with a stamp of approval seal over the bill, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -330,7 +330,7 @@
     },
     {
       "id": 24,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "That's called fiat currency — its value depends on trust in the institution that issues it.",
       "narration_es": "Eso se llama moneda fiduciaria — su valor depende de la confianza en la institución que la emite.",
       "image_prompt": "Scale balance with a government building on one side and money coins on the other side, trust badge connecting them, stickman observing, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -344,7 +344,7 @@
     },
     {
       "id": 25,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "The problem is that institution can make decisions that affect your money without asking you.",
       "narration_es": "El problema es que esa institución puede tomar decisiones que afecten tu dinero sin pedirte permiso.",
       "image_prompt": "Government building with a control lever, stickman's bank ledger book connected to the lever, official stickman pulling the lever while main stickman watches helplessly from outside, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -358,7 +358,7 @@
     },
     {
       "id": 26,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "It can print more bills, which makes yours worth less. That's called inflation.",
       "narration_es": "Puede imprimir más billetes, lo que hace que los tuyos valgan menos. Eso se llama inflación.",
       "image_prompt": "Printing press producing a flood of money bills, stickman's wallet visible on the side shrinking smaller and smaller, downward arrow above the wallet, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -372,7 +372,7 @@
     },
     {
       "id": 27,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "It can freeze accounts. It can charge fees. It can block transfers.",
       "narration_es": "Puede congelar cuentas. Puede cobrar comisiones. Puede bloquear transferencias.",
       "image_prompt": "Three panels: bank with a frozen ice block over accounts, bank with a coin drain taking money, and a transfer arrow blocked by a red stop sign, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -386,7 +386,7 @@
     },
     {
       "id": 28,
-      "duration": 12,
+      "duration": 5,
       "narration_en": "To move money from one country to another today, you need at least two banks, a financial messaging system called SWIFT, and to wait days. And pay.",
       "narration_es": "Para mover dinero de un país a otro hoy, necesitas pasar por al menos dos bancos, un sistema de mensajería financiera llamado SWIFT, y esperar días. Y pagar.",
       "image_prompt": "Globe with two stickmen on opposite sides, transfer path going through two bank buildings and a server tower, clock symbol showing days of waiting, coin drain symbols on the path, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -400,7 +400,7 @@
     },
     {
       "id": 29,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "Satoshi asked: what if we could send value directly, person to person, like sending an email?",
       "narration_es": "Satoshi se preguntó: ¿y si pudiéramos enviar valor directamente, de persona a persona, como enviamos un email?",
       "image_prompt": "Two stickmen on opposite sides with a direct arrow between them carrying a coin and an envelope simultaneously, no bank buildings anywhere, clean path, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -414,7 +414,7 @@
     },
     {
       "id": 30,
-      "duration": 7,
+      "duration": 5,
       "narration_en": "No middleman. No permission. No fee.",
       "narration_es": "Sin intermediario. Sin permiso. Sin comisión.",
       "image_prompt": "Clean direct arrow between two stickmen with X marks crossing out a bank building, a permission stamp, and a coin drain, three clean X symbols, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -428,7 +428,7 @@
     },
     {
       "id": 31,
-      "duration": 7,
+      "duration": 5,
       "narration_en": "The answer was Bitcoin.",
       "narration_es": "La respuesta fue Bitcoin.",
       "image_prompt": "Large glowing orange Bitcoin circle appearing center screen between two stickmen with rays of light, both stickmen looking at it with awe, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -442,7 +442,7 @@
     },
     {
       "id": 32,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "But there was a massive problem with that model. One that for decades made nobody believe it was possible.",
       "narration_es": "Pero había un problema enorme con ese modelo. Y es el que durante décadas hizo que nadie creyera que fuera posible.",
       "image_prompt": "Stickman running into a giant brick wall with an exclamation mark on it, wall has been standing for many years shown by overgrown vines, determined but worried expression, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -456,7 +456,7 @@
     },
     {
       "id": 33,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "If I send you a file by email, I'm not sending the original — I'm sending a copy. And I keep the original.",
       "narration_es": "Si yo te mando un archivo por email, no te mando el original — te mando una copia. Y me quedo con el original.",
       "image_prompt": "Left stickman holding original document, sending a copy via email envelope arrow to right stickman, left stickman still holding original after sending, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -470,7 +470,7 @@
     },
     {
       "id": 34,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "With digital money it's the same. If money is just a number on a computer, what stops me from copying it and spending it twice?",
       "narration_es": "Con el dinero digital pasa lo mismo. Si el dinero es solo un número en una computadora, ¿qué me impide copiarlo y gastarlo dos veces?",
       "image_prompt": "Single coin duplicating into two identical coins, both coins pointing to two different secondary stickmen, a conflict alert symbol between the two copies, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -484,7 +484,7 @@
     },
     {
       "id": 35,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "That problem is called double spending. And for decades, the only solution was to have someone in the middle keeping the records. A bank.",
       "narration_es": "Ese problema se llama el doble gasto. Y durante décadas, la única solución que existía era tener a alguien en el medio que llevara el registro. Un banco.",
       "image_prompt": "Bank building in the center holding a large open ledger book, transaction arrows flowing through the bank from stickman to stickman, bank acting as the trusted record keeper, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -498,7 +498,7 @@
     },
     {
       "id": 36,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "Satoshi solved that problem without needing that intermediary. How? With the blockchain.",
       "narration_es": "Satoshi resolvió ese problema sin necesitar ese intermediario. ¿Cómo? Con la blockchain.",
       "image_prompt": "Bank building crossed out with red X, replaced by a network of connected computer nodes with transaction arrows flowing through all of them simultaneously, stickman with lightbulb above head, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -512,7 +512,7 @@
     },
     {
       "id": 37,
-      "duration": 14,
+      "duration": 5,
       "narration_en": "Imagine a notebook where every Bitcoin transaction in the world is recorded. But instead of a bank keeping that notebook in a vault, an identical copy exists on millions of computers at the same time.",
       "narration_es": "Imagina un cuaderno donde se registra cada transacción de Bitcoin que ocurre en el mundo. Pero en lugar de que ese cuaderno lo tenga un banco en una caja fuerte, existe una copia idéntica en millones de computadoras al mismo tiempo.",
       "image_prompt": "Large open notebook floating in the center of the scene, surrounded by hundreds of small computer icons all holding identical copies of the same notebook, bank vault on the side looking empty and irrelevant, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -526,7 +526,7 @@
     },
     {
       "id": 38,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "Every time someone sends Bitcoin, that transaction is announced to the entire network. All the computers verify it.",
       "narration_es": "Cada vez que alguien envía Bitcoin, esa transacción se anuncia a toda la red. Todas las computadoras la verifican.",
       "image_prompt": "Bitcoin coin at center with broadcast radio waves expanding outward to many computer icons arranged in a circle, each computer showing a checkmark symbol as it verifies, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -540,7 +540,7 @@
     },
     {
       "id": 39,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "And when enough of them confirm it, the transaction is written into the notebook. And it can never be erased.",
       "narration_es": "Y cuando suficientes de ellas la confirman, la transacción se graba en el cuaderno. Y ya no se puede borrar.",
       "image_prompt": "Transaction entry being written in bold ink into an open notebook, a permanent sealed stamp appearing over the entry, eraser icon with a red X showing it cannot be erased, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -554,7 +554,7 @@
     },
     {
       "id": 40,
-      "duration": 11,
+      "duration": 5,
       "narration_en": "To alter that transaction, you'd have to change the notebook on more than half of all those millions of computers at the same time. In practical terms, it's impossible.",
       "narration_es": "Para alterar esa transacción, tendrías que cambiar el cuaderno en más de la mitad de todos esos millones de computadoras al mismo tiempo. En términos prácticos, es imposible.",
       "image_prompt": "World map with millions of tiny computer icons, one evil stickman trying to reach them all at once with tiny arms, looking exhausted and failing, impossible challenge arrows everywhere, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -568,7 +568,7 @@
     },
     {
       "id": 41,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "That distributed notebook is called a blockchain — a chain of blocks. Each block is a group of transactions.",
       "narration_es": "A ese cuaderno distribuido se le llama blockchain — cadena de bloques. Cada bloque es un grupo de transacciones.",
       "image_prompt": "Visual chain of rectangular blocks connected together, each block containing small coin and arrow symbols representing transactions, chain extending across the full width of the screen, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -582,7 +582,7 @@
     },
     {
       "id": 42,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "Each block is mathematically connected to the one before it. If someone alters one, it breaks all the others.",
       "narration_es": "Cada bloque está matemáticamente conectado al anterior. Si alguien altera uno, rompe todos los demás.",
       "image_prompt": "Chain of blocks with one block being tampered with, crack lines spreading from that block through the entire chain breaking it apart, red alert symbols everywhere, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -596,7 +596,7 @@
     },
     {
       "id": 43,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "And nobody controls that notebook. Not Satoshi, not any government, not any bank. Everyone controls it and no one controls it.",
       "narration_es": "Y nadie controla ese cuaderno. Ni Satoshi, ni ningún gobierno, ni ningún banco. Lo controlan todos y no lo controla nadie.",
       "image_prompt": "World map with computer nodes spread evenly across every continent, no single central node or hub, all nodes equally sized and connected to each other, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -610,7 +610,7 @@
     },
     {
       "id": 44,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "Who verifies the transactions if there's no bank? That's what miners do.",
       "narration_es": "¿Quién verifica las transacciones si no hay banco? Eso lo hacen los mineros.",
       "image_prompt": "Multiple computer towers with pickaxe icons on them, racing each other with speed lines, bank building crossed out with red X in background, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -624,7 +624,7 @@
     },
     {
       "id": 45,
-      "duration": 12,
+      "duration": 5,
       "narration_en": "A miner is a computer — sometimes thousands of computers — competing to solve a very difficult math problem.",
       "narration_es": "Un minero es una computadora —a veces miles de computadoras— que compite para resolver un problema matemático muy difícil.",
       "image_prompt": "Array of stacked computer towers glowing with processing power and heat lines, complex mathematical symbols and equations floating around them in competition, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -638,7 +638,7 @@
     },
     {
       "id": 46,
-      "duration": 11,
+      "duration": 5,
       "narration_en": "The first one to solve it earns the right to add the next block of transactions to the notebook. And as a reward, it receives newly created Bitcoin.",
       "narration_es": "El primero en resolverlo gana el derecho a agregar el siguiente bloque de transacciones al cuaderno. Y como recompensa, recibe Bitcoin recién creado.",
       "image_prompt": "Winning computer tower with a trophy and golden Bitcoin coins raining down on it, a new block being connected to the blockchain, other computers in background, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -652,7 +652,7 @@
     },
     {
       "id": 47,
-      "duration": 6,
+      "duration": 5,
       "narration_en": "That is mining Bitcoin.",
       "narration_es": "Eso es minar Bitcoin.",
       "image_prompt": "Computer tower with a large pickaxe icon, golden Bitcoin coin being extracted from digital ground, simple and clean illustration, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -666,7 +666,7 @@
     },
     {
       "id": 48,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "How many Bitcoin can there be in total? Satoshi fixed it at 21 million. Forever. No more.",
       "narration_es": "¿Cuántos Bitcoin puede haber en total? Satoshi lo fijó en 21 millones. Para siempre. No hay más.",
       "image_prompt": "Large finite pile of Bitcoin coins with a solid ceiling cap above it, a lock icon on the cap, no space above for more coins, clean and absolute visual, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -680,7 +680,7 @@
     },
     {
       "id": 49,
-      "duration": 11,
+      "duration": 5,
       "narration_en": "That limit is intentional — it's the opposite of a government that prints money whenever it wants. There will never be a Bitcoin number 21,000,001.",
       "narration_es": "Esa limitación es intencional — es lo opuesto a un gobierno que imprime dinero cuando quiere. Nunca va a haber un Bitcoin número 21,000,001.",
       "image_prompt": "Side by side comparison: government building with printing press running freely on left, Bitcoin coin stack with hard locked ceiling and chained printing press on right, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -694,7 +694,7 @@
     },
     {
       "id": 50,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "But if all this sounds so good, why did some people lose absolutely everything?",
       "narration_es": "Pero si todo esto suena tan bien, ¿por qué hay personas que perdieron absolutamente todo?",
       "image_prompt": "Stickman riding a rollercoaster track that suddenly plunges off a cliff, terrified expression, empty wallet flying behind, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -708,7 +708,7 @@
     },
     {
       "id": 51,
-      "duration": 7,
+      "duration": 5,
       "narration_en": "Bitcoin is, in simple terms, the most volatile asset in modern history.",
       "narration_es": "Bitcoin es, en palabras simples, el activo más volátil de la historia moderna.",
       "image_prompt": "Extreme price chart with massive spikes and deep crashes, stickman gripping the chart line with white-knuckle hands, wild ride expression, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -722,7 +722,7 @@
     },
     {
       "id": 52,
-      "duration": 9,
+      "duration": 5,
       "narration_en": "In 2017, it went from 1,000 dollars to almost 20,000 in twelve months. Then dropped 80% the following year.",
       "narration_es": "En 2017, subió de 1,000 dólares a casi 20,000 en doce meses. Luego bajó 80% en el siguiente año.",
       "image_prompt": "Line chart showing a dramatic rise to a tall mountain peak labeled 2017, then a steep cliff drop going to 80% below, stickman celebrating at peak then falling off the cliff, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -736,7 +736,7 @@
     },
     {
       "id": 53,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "In 2020, it fell 50% in a single day during the COVID panic.",
       "narration_es": "En 2020, cayó 50% en un solo día durante el pánico del COVID.",
       "image_prompt": "Chart with a sudden cliff drop of half the mountain in one day, clock showing 24 hours, biohazard symbol representing the pandemic panic, stickman falling off the chart, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -750,7 +750,7 @@
     },
     {
       "id": 54,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "In 2021, it reached 68,000 dollars. In 2022, it fell back to 16,000.",
       "narration_es": "En 2021, llegó a 68,000 dólares. En 2022, volvió a 16,000.",
       "image_prompt": "Price chart showing highest mountain peak in 2021, then a deep valley in 2022 at about quarter of the height, stickman at peak with arms raised then at valley looking defeated, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -764,7 +764,7 @@
     },
     {
       "id": 55,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "Not even Warren Buffett has seen movements like that in his entire career.",
       "narration_es": "Ni Warren Buffett ha visto movimientos así en toda su carrera.",
       "image_prompt": "Old secondary stickman with glasses and suit (representing a legendary investor) staring at the volatile Bitcoin chart in absolute disbelief, mouth open, shaking head, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -778,7 +778,7 @@
     },
     {
       "id": 56,
-      "duration": 11,
+      "duration": 5,
       "narration_en": "People who bought at the peaks, panicked, sold at the lows, and lost years of savings.",
       "narration_es": "Hay gente que compró en los picos, entró en pánico, vendió en los valles, y perdió los ahorros de años.",
       "image_prompt": "Stickman buying coins at a chart peak with smile, then panic face during drop, then selling at valley with tears, final scene showing empty wallet with years calendar behind them, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -792,7 +792,7 @@
     },
     {
       "id": 57,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "People who sold their homes to buy Bitcoin and ended up on the street.",
       "narration_es": "Hay personas que vendieron sus casas para comprar Bitcoin y quedaron en la calle.",
       "image_prompt": "Stickman selling house icon for a pile of Bitcoin coins, then the coins shrinking away, stickman sitting on a sidewalk curb with empty hands and sad face, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -806,7 +806,7 @@
     },
     {
       "id": 58,
-      "duration": 11,
+      "duration": 5,
       "narration_en": "And others who bought and forgot, held through every crash, and today have returns no conventional investment could offer.",
       "narration_es": "Y hay otras que compraron y olvidaron, aguantaron cada caída, y hoy tienen retornos que ninguna inversión convencional podría ofrecer.",
       "image_prompt": "Stickman sleeping peacefully in a chair with many crash zigzag chart movements passing by over years, then waking up to an enormous pile of coins with huge smile, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -820,7 +820,7 @@
     },
     {
       "id": 59,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "The difference wasn't luck. It was time and risk tolerance.",
       "narration_es": "La diferencia no fue suerte. Fue tiempo y tolerancia al riesgo.",
       "image_prompt": "Two paths splitting from one point: one path labeled with a clock (time) and another labeled with a shield (risk tolerance), both leading upward to a coin treasure, luck dice crossed out, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -834,7 +834,7 @@
     },
     {
       "id": 60,
-      "duration": 13,
+      "duration": 5,
       "narration_en": "Your digital wallet works with two keys: a public one, like your home address — you can share it with anyone so they can send you money.",
       "narration_es": "Tu cartera digital, llamada wallet, funciona con dos claves: una pública, que es como la dirección de tu casa — la puedes compartir con cualquiera para que te manden dinero.",
       "image_prompt": "Digital wallet icon with two keys next to it, public key shown as a house address sign visible to multiple stickmen sending coins toward it, open and accessible, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -848,7 +848,7 @@
     },
     {
       "id": 61,
-      "duration": 11,
+      "duration": 5,
       "narration_en": "And a private one, like the key to your door — if you lose it, you lose access to everything inside. Forever.",
       "narration_es": "Y una privada, que es la llave de tu puerta — si la pierdes, pierdes el acceso a todo lo que tienes adentro. Para siempre.",
       "image_prompt": "Stickman dropping a single private key which shatters on the ground, wallet vault door slamming shut with a permanent lock symbol, piles of coins visible through a tiny window inside the now-sealed wallet, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -862,7 +862,7 @@
     },
     {
       "id": 62,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "There are hard drives sitting in landfills with thousands of Bitcoin inside. Because someone threw away the key without realizing it.",
       "narration_es": "Hay discos duros tirados en basureros con miles de Bitcoin adentro. Porque alguien tiró la llave sin darse cuenta.",
       "image_prompt": "Landfill trash heap with a hard drive buried partway in garbage, golden Bitcoin coins visible glowing inside the drive, stickman in background looking horrified with hands on cheeks, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -876,7 +876,7 @@
     },
     {
       "id": 63,
-      "duration": 12,
+      "duration": 5,
       "narration_en": "Bitcoin has real use cases: in countries with hyperinflation like Venezuela or Argentina, people use it to protect their savings.",
       "narration_es": "Bitcoin tiene casos de uso reales: en países con hiperinflación como Venezuela o Argentina, hay gente que lo usa para proteger sus ahorros.",
       "image_prompt": "Map of South America with stickmen holding Bitcoin coins as a shield in front of burning paper money bills, inflation represented by fire consuming regular currency, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -890,7 +890,7 @@
     },
     {
       "id": 64,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "In countries with banking restrictions, to send remittances without paying 10% in fees.",
       "narration_es": "En países con restricciones bancarias, para enviar remesas sin pagar el 10% de comisión.",
       "image_prompt": "Globe with direct Bitcoin arrows flying between two stickmen across countries with minimal fee coins, next to an old remittance path showing large fee pile being taken by bank, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -904,7 +904,7 @@
     },
     {
       "id": 65,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "It also has real problems: it consumes enormous amounts of energy. It has been used in crimes.",
       "narration_es": "También tiene problemas reales: consume muchísima energía. Se ha usado en crímenes.",
       "image_prompt": "Power plant with excessive smoke and energy bolts powering mining rigs, police badge with crime alert symbol next to Bitcoin logo, balanced concern visual, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -918,7 +918,7 @@
     },
     {
       "id": 66,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "Its volatility makes it difficult to use as a day-to-day currency.",
       "narration_es": "Su volatilidad lo hace difícil de usar como moneda del día a día.",
       "image_prompt": "Stickman trying to buy a coffee at a cafe counter, price tag on coffee rapidly changing like a slot machine spinning, cashier stickman shrugging, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -932,7 +932,7 @@
     },
     {
       "id": 67,
-      "duration": 12,
+      "duration": 5,
       "narration_en": "It's not a magic solution. But it's not a scam either. It's a technology with more than 15 years of uninterrupted history working exactly as Satoshi said it would.",
       "narration_es": "No es una solución mágica. Pero tampoco es una estafa. Es una tecnología con más de 15 años de historia ininterrumpida funcionando exactamente como Satoshi dijo que funcionaría.",
       "image_prompt": "Long unbroken blockchain timeline stretching across 15 years with each block perfectly connected, stickman standing at the end looking back at the entire solid chain, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -946,7 +946,7 @@
     },
     {
       "id": 68,
-      "duration": 8,
+      "duration": 5,
       "narration_en": "Remember what Satoshi said in 2008? 'Banks must be trusted to hold our money.'",
       "narration_es": "¿Recuerdas lo que dijo Satoshi en 2008? 'Los bancos necesitan ser de confianza para manejar nuestro dinero.'",
       "image_prompt": "Stickman with a large thought bubble showing a 2008 document and a bank building with a trust badge cracking, memory recall visual, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -960,7 +960,7 @@
     },
     {
       "id": 69,
-      "duration": 14,
+      "duration": 5,
       "narration_en": "The next time you pay a fee to transfer your own money, or wait three days for a payment to arrive, or see in the news that some government froze accounts — you'll hear that sentence differently.",
       "narration_es": "La próxima vez que pagues una comisión por transferir tu propio dinero, o que esperes tres días para que llegue un pago, o que veas en las noticias que algún gobierno congeló cuentas — vas a escuchar esa frase con otros oídos.",
       "image_prompt": "Three scenario panels: coin going to fee drain, clock counting 3 days, TV news showing frozen account symbol, stickman watching all three with a knowing expression and raised eyebrow, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -974,7 +974,7 @@
     },
     {
       "id": 70,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "Not because Bitcoin is the answer to everything. But because for the first time in history, an alternative exists. And now you know exactly how it works.",
       "narration_es": "No porque Bitcoin sea la respuesta a todo. Sino porque por primera vez en la historia, existe una alternativa. Y ya sabes exactamente cómo funciona.",
       "image_prompt": "Stickman standing at a crossroads, one path leads to a traditional bank, another path leads to a Bitcoin network of nodes, stickman looking confidently at the Bitcoin path with clear understanding, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -988,7 +988,7 @@
     },
     {
       "id": 71,
-      "duration": 10,
+      "duration": 5,
       "narration_en": "This is not financial advice. Do your own research. And never put at risk more than you can afford to lose.",
       "narration_es": "Esto no es consejo financiero. Investiga por tu cuenta. Y nunca pongas en riesgo más de lo que puedes permitirte perder.",
       "image_prompt": "Stickman holding up a cautionary open hand, magnifying glass search icon next to an open book, small safe coin versus large risky pile with red warning symbol, balanced responsible visual, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
@@ -1002,7 +1002,7 @@
     },
     {
       "id": 72,
-      "duration": 7,
+      "duration": 5,
       "narration_en": "If this was useful to you, you know what comes next.",
       "narration_es": "Si este te pareció útil, ya sabes lo que sigue.",
       "image_prompt": "Stickman facing forward with thumbs up and wide smile, subscribe bell icon and like hand symbol floating nearby, warm confident closing image, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",

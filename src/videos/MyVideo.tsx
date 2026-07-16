@@ -12,6 +12,7 @@ import scriptData from "../../youtube/finanzas/cripto-finanzas/script.json";
 const FPS = 30;
 const FADE_FRAMES = 6;
 const BASE_PATH = "youtube/finanzas/cripto-finanzas";
+const MUSIC_FILE = "The Silent Ledger.mp3";
 
 type Scene = (typeof scriptData.scenes)[number] & {
   startFrame: number;
@@ -29,12 +30,23 @@ function buildTimeline(): Scene[] {
 }
 
 const timeline = buildTimeline();
+const totalFrames = timeline.reduce((sum, s) => sum + s.durationFrames, 0);
 
 export const MyVideo: React.FC = () => {
   const frame = useCurrentFrame();
 
   return (
     <AbsoluteFill style={{ backgroundColor: "#d4c5a9" }}>
+      {/* Background music plays through the entire video */}
+      <Sequence from={0} durationInFrames={totalFrames}>
+        <Audio
+          src={staticFile(`${BASE_PATH}/music/${MUSIC_FILE}`)}
+          startFrom={0}
+          volume={0.25}
+          loop
+        />
+      </Sequence>
+
       {timeline.map((scene) => {
         const { id, startFrame, durationFrames, assets } = scene;
         const localFrame = frame - startFrame;

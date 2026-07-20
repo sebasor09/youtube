@@ -7,6 +7,7 @@ Cada carpeta aquí es un canal de YouTube independiente. Cada canal tiene su pro
 | Canal | Guía | Descripción |
 |-------|------|-------------|
 | `finanzas/` | [GUIDE.md](finanzas/GUIDE.md) | Finanzas personales y criptomonedas |
+| `inversiones/` | [GUIDE.md](inversiones/GUIDE.md) | Inversiones, mercado de valores y educación financiera |
 
 ## Cómo añadir un nuevo canal
 

@@ -1,78 +1,185 @@
-# Guion: Ordená tus finanzas personales en 5 pasos
+# Guion: Finanzas personales en 5 pasos — Cómo tomar el control de tu plata
 
-**Duración aprox:** 5-8 min
-**Formato:** Educativo / Explicativo
-**Tono:** Casual pero informativo
-**Audiencia:** Jóvenes y adultos que arrancan con sus finanzas
-
----
-
-## Escena 1 — Hook (0:00 - 0:15)
-
-**Visual:** Billetes y monedas flotando, gráfico que sube, persona relajada
-
-**Narración:**
-"Un tercio de la gente no sabe en qué gasta su sueldo. La buena noticia: ordenar tus finanzas es más fácil de lo que parece. Hoy te doy el método de 5 pasos para que tu plata trabaje para vos."
+> **Duración estimada:** 9 minutos
+> **Formato:** Cliffhanger + Callback
+> **Estructura:** Actos I–IX
 
 ---
 
-## Escena 2 — ¿Qué son las finanzas personales? (0:15 - 0:50)
+## Mapa del episodio
 
-**Visual:** Casa con billetes entrando y saliendo, cartera como centro
+**Resumen en una oración:** Ordenar tus finanzas no se trata de ser rico — se trata de tener el control, y eso se logra con un método de 5 pasos que cualquiera puede seguir.
 
-**Narración:**
-"Las finanzas personales son simplemente cómo manejás el dinero que entra y sale de tu vida. No se trata de ser millonario, sino de controlar tu plata: gastar menos de lo que ganás y hacer rendir la diferencia."
+**Detonante:** Un tercio de la gente no sabe en qué gasta su sueldo. La plata pierde valor en silencio por la inflación, y sin un método, la mayoría termina perdiendo el control entre lo que entra y lo que sale.
 
----
+**Stakes:** Para el espectador: la diferencia entre construir riqueza con calma o perderlo todo intentando hacerse rico rápido.
 
-## Escena 3 — Paso 1: El presupuesto (0:50 - 1:30)
+**Arco:** El espectador pasa de "esto es complicado" a entender un método simple de 5 pasos: presupuesto, fondo de emergencia, deudas, inversión y automatización.
 
-**Visual:** Notas que se separan en tres pilotes: gastos, ahorro, placer
-
-**Narración:**
-"El primer paso es el presupuesto. La regla 50-30-20: 50% para necesidades, 30% para gustos y 20% para ahorrar. No hace falta ser estricto, con saber a dónde va tu plata ya ganaste la mitad de la batalla."
+**Frase del protagonista (callback):** *"No necesitás suerte. Necesitás un sistema."* — regresa al final del video.
 
 ---
 
-## Escena 4 — Paso 2: Fondo de emergencia (1:30 - 2:30)
+## ACTO I — HOOK [00:00 - 00:50]
 
-**Visual:** Colchón con un paraguas que protege de una tormenta
+Hay gente que construyó riqueza sin hacer casi nada con su plata. Y hay gente que lo perdió todo intentando hacerse rica rápido.
 
-**Narración:**
-"Antes de invertir, armá tu fondo de emergencia. Es entre 3 y 6 meses de tus gastos guardados en algo seguro. Sirve para que un imprevisto —una enfermedad o que se rompa el auto— no te rompa el presupuesto ni te meta en deudas."
+Los dos empezaron exactamente en el mismo lugar: plata quieta en una cuenta del banco. La diferencia no fue suerte. No fue un secreto. No fue el dato de un amigo.
 
----
+Fue entender una sola cosa que nadie te enseña en la escuela.
 
-## Escena 5 — Paso 3: Salir de deudas caras (2:30 - 3:30)
+Un tercio de la gente no sabe en qué gasta su sueldo. La buena noticia: arreglarlo es más fácil de lo que parece. Hoy te doy el método de 5 pasos para que tu plata trabaje para vos.
 
-**Visual:** Pelota de nieve que crece, tarjeta de crédito con intereses
-
-**Narración:**
-"Después, atacá las deudas caras. El método de la bola de nieve: primero la deuda más chica, después la siguiente. Los intereses de las tarjetas y préstamos crecen rápido, así que pagar deudas es la mejor 'inversión' que podés hacer."
+Al final, vas a saber presupuestar, ahorrar, invertir y automatizar. Incluso si estás empezando de cero. Incluso si hoy ganás poco. Porque esto no se trata de ser rico. Se trata de tener el control.
 
 ---
 
-## Escena 6 — Paso 4: Invertir (3:30 - 4:15)
+## ACTO II — ¿QUÉ SON LAS FINANZAS PERSONALES? [00:50 - 02:00]
 
-**Visual:** Arbol que crece desde un billete, monedas que se multiplican
+Entonces empecemos por lo básico. ¿Qué son las finanzas personales, exactamente?
 
-**Narración:**
-"Recién después de eso invertís. Empezá simple: un índice tan diversificado como un S&P 500, aportes constantes aunque sean chicos, y mucho tiempo. La magia es el interés compuesto: tu plata genera más plata, que genera más plata."
+Son simplemente cómo manejás el dinero que entra y sale de tu vida. Plata que entra: tu sueldo, tu changa, todo lo que ganás. Plata que sale: alquiler, comida, cuentas, todo lo que gastás.
+
+Y entre esas dos flechas, la mayoría pierde el control. No porque sean irresponsables. Porque nadie les enseñó nunca. Las finanzas personales son una habilidad. Y las habilidades se aprenden.
+
+La primera regla es simple: gastá menos de lo que ganás. Si ganás mil y gastás novecientos, vas para adelante. Si ganás mil y gastás mil cien, vas para atrás.
+
+La diferencia entre esas dos es donde se construye la riqueza. No importa si esa diferencia es chica al principio. Lo que importa es que exista, y que crezca.
+
+> **[LOOP DE RETENCIÓN 1]:** Y acá está el problema de solo ahorrar: la plata pierde valor en silencio.
+
+Si la plata queda quieta sin hacer nada, la inflación se la come año tras año. Por eso ahorrar solo no alcanza. Necesitás el método completo.
 
 ---
 
-## Escena 7 — Paso 5: Automatizar y evitar errores (4:15 - 5:15)
+## ACTO III — PASO 1: EL PRESUPUESTO [02:00 - 03:20]
 
-**Visual:** Flechas automáticas que mueven dinero el día del cobro
+Paso uno: el presupuesto.
 
-**Narración:**
-"El truco final: automatizá. Que en cuanto cobres, el ahorro y la inversión se muevan solos, antes que la tentación. Y los errores: vivir mejor de lo que podés, querer hacerse rico rápido, y guardar plata sin que rinda nada."
+Un presupuesto es solo un plan para tu plata antes de que empiece el mes. La regla 50-30-20 lo hace simple: el cincuenta por ciento cubre tus necesidades — alquiler, comida y cuentas. El treinta por ciento es para gustos — diversión, hobbies y salir a comer. Y el veinte por ciento va a ahorro y a pagar deudas.
+
+El secreto es pagarte a vos primero. Sacá el veinte por ciento en el momento en que te pagan. Antes del alquiler, antes de las cuentas, antes de cualquier diversión. Si nunca llega a tu cuenta, no lo vas a extrañar.
+
+Veámoslo con un número real. Digamos que ganás mil dólares al mes. Quinientos cubren lo básico. Trescientos son tuyos para disfrutar. Doscientos construyen tu futuro. Cantidad chica, hábito enorme.
+
+Ahora tu presupuesto está listo. Pero un presupuesto solo no te puede salvar. La vida a veces te da un puñetazo en la cara. Por eso necesitás el paso dos.
 
 ---
 
-## Escena 8 — Cierre (5:15 - 6:00)
+## ACTO IV — PASO 2: EL FONDO DE EMERGENCIA [03:20 - 04:40]
 
-**Visual:** Los 5 pasos en una lista con checkmarks, logo del canal
+Paso dos: el fondo de emergencia. Una red de seguridad para cuando la vida pasa.
 
-**Narración:**
-"Presupuesto, fondo de emergencia, deudas, inversión y automatización. Cinco pasos, cualquier sueldo, y mucho tiempo adelante. Empezá hoy con un presupuesto de 5 minutos. Nos vemos en el próximo video."
+Se rompe el auto, muere la notebook, te enfermás. Sin el fondo, un problema chico se convierte en deuda grande.
+
+Conocé a Carlos. Él lo hizo bien. Carlos ahorró tres meses de gastos. El motor de su auto murió un martes. La reparación costó novecientos dólares. Pagó en efectivo. Sin pánico.
+
+Su vecino Jake no tenía fondo. El termotanque de Jake se rompió la misma semana. Así que usó su tarjeta de crédito. Esa cuenta se volvió una montaña de intereses.
+
+La misma sorpresa, resultado totalmente distinto. Carlos conservó su sueño. Jake conservó su deuda.
+
+> **[LOOP DE RETENCIÓN 2]:** El fondo de emergencia es tu escudo.
+
+Empezá de a poco. Cincuenta dólares al mes. Un día se convierte en tres meses de gastos. Ese es tu airbag financiero.
+
+Y ahora viene la deuda que te viene asfixiando.
+
+---
+
+## ACTO V — PASO 3: MATÁ TU DEUDA [04:40 - 06:20]
+
+Paso tres: matá tu deuda.
+
+La deuda es una cadena alrededor de tu cuello. Cada dólar de interés trabaja en tu contra. Hay dos buenas formas de pagarla.
+
+El método bola de nieve: ordená todas tus deudas de la más chica a la más grande. Pagá el mínimo en todas, atacá la más chica. Cuando desaparezca, pasá ese pago a la siguiente. Las victorias chicas te mantienen motivado.
+
+El método avalancha: atacá primero la deuda con el interés más alto. Ahorrás más plata a largo plazo.
+
+Elegí el que realmente vas a seguir. El mejor plan es el que seguís.
+
+Conocé a Laura. Debía plata en cuatro tarjetas. Sus saldos eran chico, mediano y enorme. Ella eligió la bola de nieve. Primero mató el saldo más chico. Esa victoria se sintió increíble. Después el mediano. Después el grande. Dieciocho meses después, estaba libre.
+
+La avalancha quizás le hubiera ahorrado cien dólares. Pero ella terminó. Y eso es lo que importa. La motivación le gana a la matemática cuando te estás ahogando.
+
+Conocé a tu enemigo: los pagos mínimos. El mínimo mantiene viva la deuda por décadas. Recortá el gasto de tarjeta hasta terminar. Cada dólar extra va a la pila.
+
+Ahí, y solo ahí, estás listo. Ahora la parte divertida.
+
+---
+
+## ACTO VI — PASO 4: INVERTIR [06:20 - 07:40]
+
+Paso cuatro: invertir.
+
+Acá es donde tu plata empieza a trabajar para vos. No rápido. Pero inteligente.
+
+La estrella es el interés compuesto: interés sobre tu interés. Tu plata gana, y después las ganancias también ganan.
+
+Recordá tus doscientos dólares al mes. Ponelos en un fondo indexado, como el S&P 500. Promedia cerca de diez por ciento al año. No todos los años. En promedio. Algunos años cae veinte por ciento. Algunos años salta treinta. Pero durante décadas, la tendencia sube.
+
+Y el interés compuesto hace el trabajo pesado. Diez por ciento duplica tu plata cada siete años. Empezá con doscientos al mes a los veinticinco: a los sesenta y cinco, más de un millón de dólares. Empezá a los cuarenta y cinco, un cuarto de eso.
+
+El tiempo es la moneda real. No podés comprar de nuevo un año perdido.
+
+Así que no persigas consejos de moda. No entres en pánico y vendas en una caída. No inviertas plata que necesites el año que viene. Fondos indexados. Mensual. Décadas. Eso es todo.
+
+Lo aburrido le gana a lo llamativo. La tortuga aburrida gana la carrera. Tu yo futuro te está mirando.
+
+---
+
+## ACTO VII — PASO 5: AUTOMATIZÁ TODO [07:40 - 08:40]
+
+Paso cinco: automatizá todo.
+
+La fuerza de voluntad es una mentira. Los sistemas funcionan. Llega el día de pago y las transferencias se hacen solas. Se mueve el ahorro. Se mueven las inversiones. Ni siquiera tenés que pensarlo. Configuralo una vez y dejá que la máquina corra.
+
+Ahora los tres asesinos de tu plata.
+
+**Asesino uno: la inflación de estilo de vida.** Ganás más, gastás más. No cambia nada salvo tu gasto. El aumento va a ahorro, no a un auto nuevo.
+
+**Asesino dos: cronometrar el mercado.** Nadie puede predecir la caída. El tiempo en el mercado le gana a cronometrar el mercado.
+
+**Asesino tres: rendirte temprano.** Los primeros meses parecen inútiles. La magia pasa después de años. Quedate aburrido. Quedate constante.
+
+---
+
+## ACTO VIII — DISCLAIMER [08:40 - 09:00]
+
+Una advertencia antes de que te vayas.
+
+Esto es educación, no asesoramiento financiero. Consultá a un profesional para decisiones grandes.
+
+---
+
+## ACTO IX — RECAP + CALLBACK + CTA [09:00 - 09:30]
+
+Ahora repasemos los cinco pasos.
+
+Uno: presupuesto. Dos: fondo de emergencia. Tres: matá tu deuda. Cuatro: invertir. Cinco: automatizá.
+
+No necesitás suerte. Necesitás un sistema. No necesitás ser rico para empezar. Necesitás empezar.
+
+Empezá hoy con un cambio chiquito. Pagate primero. Veinte por ciento. Tu yo futuro te lo va a agradecer.
+
+Si te sirvió, suscribite para más. Y comentá: ¿con qué paso vas a empezar?
+
+La plata es simple. Solo necesitás el método. Nos vemos en el próximo.
+
+---
+
+## Checklist storytelling
+
+- [x] Resumen en una oración. Toda escena aporta a esa oración.
+- [x] Detonante claro — un tercio de la gente no sabe en qué gasta su sueldo.
+- [x] Stakes concretos — construir riqueza con calma vs. perderlo todo rápido.
+- [x] Arco de transformación — de "esto es complicado" a tener un método claro.
+- [x] Escenas con detalle (Carlos vs. Jake, Laura y sus tarjetas), resúmenes (transiciones rápidas), reflexiones (control sobre riqueza).
+- [x] Formato Cliffhanger — el hook promete el método antes de explicarlo.
+- [x] Entrada en acción — dos casos opuestos, sin preámbulos.
+- [x] Cierre con elección — "comentá con qué paso vas a empezar", sin moraleja.
+- [x] Callback — "no necesitás suerte, necesitás un sistema" regresa en el Acto IX.
+- [x] 2 loops de retención explícitos en los puntos de mayor riesgo de abandono.
+- [x] Equilibrio narrativo — Carlos (lo hizo bien) vs. Jake (lo perdió), Laura vs. la avalancha.
+- [x] Open loop — los 3 errores se presentan y se resuelven en el mismo acto.
+- [x] Disclaimer antes del CTA.

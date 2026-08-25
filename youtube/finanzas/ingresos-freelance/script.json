@@ -108,7 +108,7 @@
       "id": 8,
       "duration": 5,
       "narration_en": "Today I'll show you how to get paid for what you know how to do.",
-      "narration_es": "Hoy te muestro cómo cobrar por lo que sabés hacer.",
+      "narration_es": "Hoy te muestro el camino para cobrar por lo que sabés hacer.",
       "image_prompt": "Stickman pointing at a sign that says get paid, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_008.png",
@@ -122,7 +122,7 @@
       "id": 9,
       "duration": 4,
       "narration_en": "No boss. No schedule. No giving your work away.",
-      "narration_es": "Sin jefe. Sin horario. Sin regalar tu trabajo.",
+      "narration_es": "Sin jefe, sin horario fijo, y sin regalar tu trabajo.",
       "image_prompt": "Stickman breaking a chain, throwing away an alarm clock, keeping his work close, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_009.png",
@@ -248,7 +248,7 @@
       "id": 18,
       "duration": 4,
       "narration_en": "Damian priced it his usual way: fifteen dollars an hour.",
-      "narration_es": "Damián lo cotizó como siempre: quince dólares la hora.",
+      "narration_es": "Damián, acostumbrado a cobrar por hora, pasó su tarifa de siempre: quince dólares la hora.",
       "image_prompt": "A calculator showing fifteen dollars per hour, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_018.png",
@@ -262,7 +262,7 @@
       "id": 19,
       "duration": 3,
       "narration_en": "Twenty hours. Three hundred dollars.",
-      "narration_es": "Veinte horas. Trescientos dólares.",
+      "narration_es": "Unas veinte horas. Trescientos dólares en total.",
       "image_prompt": "A clock with twenty hours and a three hundred dollar bill, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_019.png",
@@ -332,7 +332,7 @@
       "id": 24,
       "duration": 4,
       "narration_en": "He was undercharging because he sold himself like an employee.",
-      "narration_es": "Cobraba poco porque se vendía como un empleado.",
+      "narration_es": "Estaba cobrando poco porque había aprendido a venderse como empleado.",
       "image_prompt": "Damian wearing a name tag that says employee, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_024.png",
@@ -346,7 +346,7 @@
       "id": 25,
       "duration": 3,
       "narration_en": "Not like a solution.",
-      "narration_es": "No como una solución.",
+      "narration_es": "No como solución.",
       "image_prompt": "The name tag flipping to read solution, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_025.png",
@@ -584,7 +584,7 @@
       "id": 42,
       "duration": 4,
       "narration_en": "I'll fix your page so it turns visits into orders.",
-      "narration_es": "Te arreglo tu página para que convierta visitas en pedidos.",
+      "narration_es": "Te arreglo la página para que empiece a convertir visitas en pedidos.",
       "image_prompt": "A website arrow going from visits to orders, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_042.png",
@@ -710,7 +710,7 @@
       "id": 51,
       "duration": 5,
       "narration_en": "You can raise your rate, but each raise needs the client to accept it.",
-      "narration_es": "Podés subir la tarifa, pero cada suba necesita que el cliente la acepte.",
+      "narration_es": "Podés subir la tarifa, pero cada vez que lo hacés, necesitás que el cliente acepte que tu hora vale más.",
       "image_prompt": "Stickman nervously asking a client to accept a higher rate, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_051.png",
@@ -752,7 +752,7 @@
       "id": 54,
       "duration": 4,
       "narration_en": "Charging by the hour punishes you for being fast.",
-      "narration_es": "Cobrar por hora te castiga por ser rápido.",
+      "narration_es": "Cobrar por hora te castiga por ser eficiente.",
       "image_prompt": "A fast worker earning half a coin while a slow worker earns a full coin, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_054.png",
@@ -780,7 +780,7 @@
       "id": 56,
       "duration": 3,
       "narration_en": "The system rewards you for working slowly.",
-      "narration_es": "El sistema te premia por trabajar lento.",
+      "narration_es": "El sistema premia a quien hace las cosas más lento.",
       "image_prompt": "A slow moving turtle receiving a big coin, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_056.png",
@@ -822,7 +822,7 @@
       "id": 59,
       "duration": 5,
       "narration_en": "Instead of asking what my hour is worth, ask what the problem is worth.",
-      "narration_es": "En vez de preguntar cuánto vale mi hora, preguntá cuánto vale el problema.",
+      "narration_es": "En vez de preguntar cuánto vale mi hora, preguntá cuánto vale el problema que resolvés.",
       "image_prompt": "A clock being replaced by a glowing problem box, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_059.png",
@@ -836,7 +836,7 @@
       "id": 60,
       "duration": 5,
       "narration_en": "And that's where the number appears that changes how you see your work.",
-      "narration_es": "Y ahí aparece el número que cambia cómo ves tu trabajo.",
+      "narration_es": "Y ahí aparece la idea que va a cambiar cómo ves tu trabajo.",
       "image_prompt": "A giant glowing number emerging, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_060.png",
@@ -1004,7 +1004,7 @@
       "id": 72,
       "duration": 3,
       "narration_en": "And adds value to everything he does.",
-      "narration_es": "Y le agrega valor a todo lo que hace.",
+      "narration_es": "Y le suma valor a lo que hace.",
       "image_prompt": "A value bar rising as projects pile up, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_072.png",
@@ -1074,7 +1074,7 @@
       "id": 77,
       "duration": 4,
       "narration_en": "The more specific the problem, the less competition you have.",
-      "narration_es": "Cuanto más específico el problema, menos competencia tenés.",
+      "narration_es": "Cuanto más específico sea el problema, menos competencia tenés.",
       "image_prompt": "A narrow path with few stickmen vs a wide path with many, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_077.png",
@@ -1088,7 +1088,7 @@
       "id": 78,
       "duration": 4,
       "narration_en": "And the easier it is to justify your price.",
-      "narration_es": "Y más fácil es justificar tu precio.",
+      "narration_es": "Y más fácil justificás tu precio.",
       "image_prompt": "A price tag sitting comfortably on the narrow path, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_078.png",
@@ -1214,7 +1214,7 @@
       "id": 87,
       "duration": 5,
       "narration_en": "This project gives you X. My work is worth a fraction of that.",
-      "narration_es": "Este proyecto te da X. Mi trabajo vale una fracción de eso.",
+      "narration_es": "Este proyecto le devuelve X. Mi trabajo vale una fracción de eso.",
       "image_prompt": "An X value box with a slice marked as the fee, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_087.png",
@@ -1354,7 +1354,7 @@
       "id": 97,
       "duration": 4,
       "narration_en": "One year later, he wasn't accepting less than ten thousand.",
-      "narration_es": "Un año después, no aceptaba menos de diez mil.",
+      "narration_es": "Un año más tarde, ya no aceptaba clientes por menos de diez mil.",
       "image_prompt": "A door sign that says minimum ten thousand, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_097.png",
@@ -1522,7 +1522,7 @@
       "id": 109,
       "duration": 3,
       "narration_en": "The one who lives chooses his clients.",
-      "narration_es": "El que vive elige clientes.",
+      "narration_es": "El que vive elige a sus clientes.",
       "image_prompt": "A stickman picking between clients, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_109.png",
@@ -1620,7 +1620,7 @@
       "id": 116,
       "duration": 4,
       "narration_en": "The one who lives collects an advance before starting.",
-      "narration_es": "El que vive cobra un anticipo antes de empezar.",
+      "narration_es": "El que vive pide un anticipo antes de empezar.",
       "image_prompt": "A stickman collecting a coin before starting work, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_116.png",
@@ -1648,7 +1648,7 @@
       "id": 118,
       "duration": 5,
       "narration_en": "If the client won't pay you part upfront, he's not a client.",
-      "narration_es": "Si el cliente no acepta pagarte parte por adelantado, no es un cliente.",
+      "narration_es": "Si el cliente no acepta pagar una parte por adelantado, no es un cliente: es un problema.",
       "image_prompt": "A bad client being stamped with the word problem, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_118.png",
@@ -1774,7 +1774,7 @@
       "id": 127,
       "duration": 3,
       "narration_en": "But here comes the uncomfortable part.",
-      "narration_es": "Pero acá viene la parte incómoda.",
+      "narration_es": "Pero ahora viene la parte incómoda.",
       "image_prompt": "A dark spotlight on the floor, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_127.png",
@@ -1816,7 +1816,7 @@
       "id": 130,
       "duration": 3,
       "narration_en": "Say the truth out loud.",
-      "narration_es": "Decí la verdad.",
+      "narration_es": "Digamos la verdad.",
       "image_prompt": "A stickman speaking to a mirror, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_130.png",
@@ -1984,7 +1984,7 @@
       "id": 142,
       "duration": 3,
       "narration_en": "Charging more is not arrogance. It's a filter.",
-      "narration_es": "Cobrar más no es arrogancia. Es filtro.",
+      "narration_es": "Cobrar más no es arrogancia. Es un filtro.",
       "image_prompt": "A price tag acting as a filter screen, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_142.png",
@@ -2026,7 +2026,7 @@
       "id": 145,
       "duration": 3,
       "narration_en": "What if the client says it's too expensive?",
-      "narration_es": "¿Y si el cliente dice que es muy caro?",
+      "narration_es": "¿Y si el cliente dice que sos muy caro?",
       "image_prompt": "A client pointing at a price tag saying too expensive, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_145.png",
@@ -2138,7 +2138,7 @@
       "id": 153,
       "duration": 3,
       "narration_en": "That phrase sounds like a motivational tip.",
-      "narration_es": "Esa frase suena a tip motivacional.",
+      "narration_es": "Suena a tip motivacional.",
       "image_prompt": "A cheesy motivational poster, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_153.png",
@@ -2334,7 +2334,7 @@
       "id": 167,
       "duration": 4,
       "narration_en": "Results depend on the market, your skill, and your consistency.",
-      "narration_es": "Los resultados dependen del mercado, de tu habilidad y de tu constancia.",
+      "narration_es": "y hasta a los mejores les tocan meses malos.",
       "image_prompt": "Three icons: market, skill, consistency, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_167.png",

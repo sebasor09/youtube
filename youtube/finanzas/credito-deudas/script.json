@@ -499,8 +499,8 @@
     {
       "id": 36,
       "duration": 3,
-      "narration_en": "And here's what few understand.",
-      "narration_es": "Y acá está lo que pocos entienden.",
+      "narration_en": "And here is what few understand.",
+      "narration_es": "Y esto es lo que pocos entienden.",
       "image_prompt": "A spotlight on a hidden fact, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_036.png",
@@ -569,8 +569,8 @@
     {
       "id": 41,
       "duration": 3,
-      "narration_en": "Think of it in physical terms.",
-      "narration_es": "Pensalo en términos físicos.",
+      "narration_en": "Think of it in concrete terms.",
+      "narration_es": "Pensalo en términos concretos:",
       "image_prompt": "Stickman pointing at a thinking bubble, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_041.png",
@@ -625,8 +625,8 @@
     {
       "id": 45,
       "duration": 5,
-      "narration_en": "And now comes the part that changes how you'll see every card from now on.",
-      "narration_es": "Y ahora viene la parte que cambia cómo vas a ver cada tarjeta de ahora en adelante.",
+      "narration_en": "And now comes the part that will change how you look at every card from now on.",
+      "narration_es": "Y ahora viene la parte que va a cambiar cómo vas a mirar cada tarjeta de acá en adelante:",
       "image_prompt": "A spotlight turning on a card, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_045.png",
@@ -808,7 +808,7 @@
       "id": 58,
       "duration": 3,
       "narration_en": "Monthly purchases that already ate the receipt.",
-      "narration_es": "Las compras a meses que ya se comieron el recibo.",
+      "narration_es": "Las compras en cuotas que ya se comieron el recibo.",
       "image_prompt": "A receipt being eaten by monthly payments, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_058.png",
@@ -1171,8 +1171,8 @@
     {
       "id": 84,
       "duration": 3,
-      "narration_en": "Step one: know your enemy.",
-      "narration_es": "Paso uno: conocé el enemigo.",
+      "narration_en": "Step one: know the enemy.",
+      "narration_es": "Paso uno: conocé al enemigo.",
       "image_prompt": "A step one sign with a magnifying glass, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_084.png",
@@ -1185,8 +1185,8 @@
     {
       "id": 85,
       "duration": 5,
-      "narration_en": "Make a list of all your debts: amount, rate, and monthly interest.",
-      "narration_es": "Hacé una lista de todas tus deudas: monto, tasa, e interés mensual.",
+      "narration_en": "The card used to make it to the end of the month.",
+      "narration_es": "La tarjeta para llegar a fin de mes.",
       "image_prompt": "A list with amount, rate and interest columns, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_085.png",
@@ -1255,8 +1255,8 @@
     {
       "id": 90,
       "duration": 4,
-      "narration_en": "Cut consumption spending to the bone while you attack it.",
-      "narration_es": "Recortá gastos de consumo hasta el hueso mientras la atacás.",
+      "narration_en": "Cut the consumption expenses to the bone while you attack it.",
+      "narration_es": "Recortá los gastos de consumo hasta el hueso mientras la atacás.",
       "image_prompt": "A stickman cutting spending until only bones remain, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_090.png",
@@ -1367,8 +1367,8 @@
     {
       "id": 98,
       "duration": 5,
-      "narration_en": "The one who keeps consuming while paying is digging while climbing a ladder.",
-      "narration_es": "El que sigue consumiendo mientras paga está cavando mientras sube la escalera.",
+      "narration_en": "The one who keeps consuming while paying is digging while running up the stairs.",
+      "narration_es": "El que sigue consumiendo mientras paga está cavando mientras corre por la escalera.",
       "image_prompt": "A stickman digging a hole while climbing a ladder, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_098.png",
@@ -1423,8 +1423,8 @@
     {
       "id": 102,
       "duration": 5,
-      "narration_en": "It's that they never learned to handle the fear of saying I can't afford it.",
-      "narration_es": "Es que nunca aprendieron a manejar el miedo de decir no puedo pagarlo.",
+      "narration_en": "It is that they never learned to overcome the fear of saying I cannot afford it.",
+      "narration_es": "Es que nunca aprendieron a vencer el miedo de decir no puedo pagarlo.",
       "image_prompt": "A fear monster made of the words I can't afford it, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_102.png",
@@ -1479,8 +1479,8 @@
     {
       "id": 106,
       "duration": 3,
-      "narration_en": "Because they don't borrow to spend.",
-      "narration_es": "Porque ellos no piden plata para gastar.",
+      "narration_en": "Because they do not borrow to spend.",
+      "narration_es": "Porque no piden plata para gastar.",
       "image_prompt": "A spending sign being crossed out, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_106.png",
@@ -1577,8 +1577,8 @@
     {
       "id": 113,
       "duration": 3,
-      "narration_en": "It's leverage.",
-      "narration_es": "Es un apalancamiento.",
+      "narration_en": "It is leverage.",
+      "narration_es": "Es apalancamiento.",
       "image_prompt": "A lever lifting a big asset with a small debt, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_113.png",
@@ -1619,8 +1619,8 @@
     {
       "id": 116,
       "duration": 3,
-      "narration_en": "Say the truth out loud.",
-      "narration_es": "Decí la verdad.",
+      "narration_en": "Let us tell the truth.",
+      "narration_es": "Digamos la verdad.",
       "image_prompt": "A stickman speaking to a mirror, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_116.png",
@@ -1941,8 +1941,8 @@
     {
       "id": 139,
       "duration": 3,
-      "narration_en": "Martin and Pedro used the same truck differently.",
-      "narration_es": "Martín y Pedro usaron la misma camioneta distinto.",
+      "narration_en": "They both used the same truck differently.",
+      "narration_es": "Martín y Pedro usaron la misma camioneta de manera distinta.",
       "image_prompt": "The truck split between building and beach, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_139.png",

@@ -5,7 +5,6 @@
 > **Estructura:** Actos I–XII
 
 ---
-
 ## Mapa del episodio
 
 **Resumen en una oración:** Nadie arranca un negocio por tener una idea brillante — arranca porque encontró un problema real que la gente ya está pagando por resolver.
@@ -32,7 +31,7 @@ Los dos tuvieron ideas. Los dos trabajaron duro. Los dos creyeron en su proyecto
 
 La diferencia no fue la idea. Fue una sola cosa que casi nadie entiende: un negocio no empieza con la solución. Empieza con el problema.
 
-Hoy te muestro el camino para encontrar una idea que realmente venda — y evitar la trampa que mata al 90% de los emprendedores.
+Hoy te muestro el camino para encontrar una idea que realmente venda — y cómo evitar la trampa que hunde al 90% de los emprendedores.
 
 ---
 
@@ -40,13 +39,13 @@ Hoy te muestro el camino para encontrar una idea que realmente venda — y evita
 
 Hablemos de dos amigos. Ramiro y Tomás.
 
-Los dos renunciaron a su trabajo el mismo mes. Los dos querían emprender. Los dos invirtieron sus ahorros.
+Renunciaron a su trabajo el mismo mes. Los dos querían emprender. Los dos pusieron sus ahorros sobre la mesa.
 
-Ramiro tenía una idea "única": una app que nadie había hecho. Pasó ocho meses desarrollándola, la lanzó, y nadie la descargó.
+Ramiro tenía una idea "única": una app que nadie había hecho antes. Pasó ocho meses desarrollándola, la lanzó... y nadie la descargó.
 
-Tomás no tenía ninguna idea brillante. Solo notó que las panaderías de su barrio perdían clientes porque no tenían pedidos online. Le armó a una de ellas una página con pedidos por WhatsApp en dos semanas, y le cobró poco.
+Tomás no tenía ninguna idea brillante. Solo notó que las panaderías de su barrio perdían clientes porque no tomaban pedidos online. Le armó a una de ellas una página con pedidos por WhatsApp en dos semanas, y le cobró poco.
 
-Hoy Ramiro volvió a trabajar en relación de dependencia. Tomás tiene cuatro clientes y ya no puede con la demanda.
+Hoy Ramiro volvió a trabajar en relación de dependencia. Tomás tiene cuatro clientes y ya no da abasto.
 
 Esta historia no termina ahí.
 
@@ -54,7 +53,7 @@ Esta historia no termina ahí.
 
 ## ACTO III — LA PROMESA [01:40 - 02:10]
 
-Antes de terminar este video, vas a entender tres cosas: por qué la idea no es el activo más valioso de un negocio, cómo encontrar problemas que la gente ya está pagando por resolver, y el orden exacto para construir tu negocio — del problema al precio.
+Antes de que termine este video, vas a entender tres cosas: por qué la idea no es el activo más valioso de un negocio, cómo encontrar problemas que la gente ya está pagando por resolver, y el orden exacto para construir tu negocio — del problema al precio.
 
 ---
 
@@ -62,13 +61,13 @@ Antes de terminar este video, vas a entender tres cosas: por qué la idea no es 
 
 Hablemos de Lucía.
 
-Lucía era veterinaria. Amaba los animales, odiaba la parte comercial. Como todos, soñaba con "su propio lugar".
+Lucía era veterinaria. Amaba a los animales, odiaba la parte comercial. Como todos, soñaba con "su propio lugar".
 
-Un día, un cliente le comentó que estaba desesperado: su perro mayor necesitaba atención constante, y él no podía faltar al trabajo para cuidarlo.
+Un día, un cliente le comentó que estaba desesperado: su perro mayor necesitaba atención constante y él no podía faltar al trabajo para cuidarlo.
 
-Lucía no inventó nada. Solo notó un problema repetido: gente que trabaja todo el día con mascotas mayores en casa.
+Lucía no inventó nada. Solo notó un problema que se repetía: gente que trabaja todo el día con mascotas grandes en casa.
 
-Le propuso a ese cliente un servicio simple: cuidado diario de mascotas mayores mientras él trabaja. Cobró poco al principio. El primer mes, solo tuvo dos clientes. El segundo, ocho.
+Le propuso a ese cliente un servicio simple: cuidado diario de mascotas mayores mientras él trabajaba. Cobró poco al principio. El primer mes tuvo dos clientes. El segundo, ocho.
 
 Lucía no encontró una idea. Encontró un problema que la gente ya estaba pagando por resolver.
 
@@ -80,11 +79,11 @@ Acá está la verdad incómoda.
 
 El mercado no paga por ideas. Paga por problemas resueltos. Tu idea vale cero hasta que alguien la quiera comprar.
 
-Miles de personas tienen "la idea perfecta" y se mueren de hambre. Y miles de negocios aburridísimos — reparaciones, limpieza, contabilidad — pagan las cuentas de familias enteras.
+Miles de personas tienen "la idea perfecta" y se mueren de hambre. Y miles de negocios aburridísimos —reparaciones, limpieza, contabilidad— pagan las cuentas de familias enteras.
 
 ¿Por qué? Porque esos negocios aburridos resuelven problemas que la gente tiene todos los días. Y las ideas brillantes suelen resolver problemas que nadie tiene.
 
-> **[LOOP DE RETENCIÓN 1]:** Y ahora viene la parte que cambia cómo vas a ver cada idea que se te ocurra de ahora en adelante: no es cuánto te gusta tu idea. Es cuánto le duele el problema a tu cliente.
+> **[LOOP DE RETENCIÓN 1]:** Y ahora viene la parte que va a cambiar cómo vas a mirar cada idea que se te ocurra de acá en adelante: no importa cuánto te guste tu idea. Importa cuánto le duele el problema a tu cliente.
 
 ---
 
@@ -92,13 +91,13 @@ Miles de personas tienen "la idea perfecta" y se mueren de hambre. Y miles de ne
 
 Entonces, ¿dónde se encuentran los problemas que la gente ya paga por resolver?
 
-**Pista uno: escuchá las quejas.** Cada queja es un negocio en gestación. "No consigo quien me repare X", "esto es un caos", "ojalá alguien hiciera Y". Cuando alguien se queja de algo dos veces, hay mercado.
+**Pista uno: escuchá las quejas.** Cada queja es un negocio en gestación. "No consigo quien me repare X", "esto es un caos", "ojalá alguien hiciera Y". Cuando alguien se queja de lo mismo dos veces, ahí hay mercado.
 
 **Pista dos: fijate dónde ya está la plata.** La gente ya paga por alquiler, comida, transporte, salud, educación. No tenés que crear un mercado nuevo — tenés que entrar a uno que ya existe y hacerlo mejor.
 
-**Pista tres: copiá lo que ya funciona.** Si un negocio existe hace diez años y sigue abierto, hay demanda. No tenés que inventar la rueda. Tenés que hacerla mejor en tu zona, tu horario, o tu audiencia.
+**Pista tres: copiá lo que ya funciona.** Si un negocio existe hace diez años y sigue abierto, hay demanda. No tenés que inventar la rueda. Tenés que hacerla mejor en tu zona, en tu horario, o para tu audiencia.
 
-**La regla de oro:** si no encontrás tres personas que digan "yo pagaría por eso YA", tu problema no está validado. Sigo buscando.
+**La regla de oro:** si no encontrás tres personas que digan "yo pagaría por eso YA", tu problema no está validado. Seguí buscando.
 
 ---
 
@@ -106,13 +105,13 @@ Entonces, ¿dónde se encuentran los problemas que la gente ya paga por resolver
 
 Volvamos a Tomás.
 
-Después de la panadería, Tomás hizo algo inteligente: no buscó más ideas. Buscó más panaderías.
+Después de la panadería, hizo algo inteligente: no buscó más ideas. Buscó más panaderías.
 
 Fue a cada panadería de su barrio, les mostró lo que había hecho para la primera, y les ofreció lo mismo. En dos meses tenía ocho clientes, cada uno pagando una cuota mensual.
 
 No desarrolló una app. No patentó nada. No tuvo una idea única.
 
-Encontró un problema repetido en un mercado que ya existía, y se volvió la solución local.
+Encontró un problema repetido en un mercado que ya existía, y se convirtió en la solución local.
 
 Ese es el negocio que paga: el que resuelve un problema que ya duele, en un mercado que ya tiene plata.
 
@@ -122,15 +121,15 @@ Ese es el negocio que paga: el que resuelve un problema que ya duele, en un merc
 
 Cuando tengas un problema validado, el orden es este — y el 90% lo hace al revés.
 
-**Primero: el problema.** Definí exactamente a quién le duele y cuánto le duele. Si no podés describir a tu cliente en una frase, no lo entendiste.
+**Primero: el problema.** Definí exactamente a quién le duele y cuánto le duele. Si no podés describir a tu cliente en una frase, no lo entendiste todavía.
 
-**Segundo: la solución mínima.** No construyas el producto perfecto. Construí la versión más chica que resuelva el problema. Si es un servicio, hacelo a mano. Si es un producto, hacé el prototipo más feo que funcione.
+**Segundo: la solución mínima.** No construyas el producto perfecto. Construí la versión más chica que resuelva el problema. Si es un servicio, hacelo a mano. Si es un producto, armá el prototipo más feo que funcione.
 
-**Tercero: el precio.** Preguntate cuánto le ahorra o le genera a tu cliente, y cobrá una fracción de eso. El que vende por precio bajo atrae clientes que pagan poco.
+**Tercero: el precio.** Preguntate cuánto le ahorra o le genera a tu cliente, y cobrá una fracción de eso. El que vende por precio bajo termina atrayendo clientes que pagan poco.
 
-**Cuarto: el primer cliente antes que todo lo demás.** Hablá con tu primer cliente ANTES de construir. Si nadie paga por adelantado, tu problema no está validado.
+**Cuarto: el primer cliente antes que todo lo demás.** Hablá con tu primer cliente ANTES de construir. Si nadie te paga por adelantado, tu problema no está validado.
 
-> **[LOOP DE RETENCIÓN 2]:** Pero acá viene la parte incómoda — la que separa al que realmente emprende del que solo le gusta la idea de emprender.
+> **[LOOP DE RETENCIÓN 2]:** Pero ahora viene la parte incómoda — la que separa a quien realmente emprende de quien solo le gusta la idea de emprender.
 
 ---
 
@@ -140,7 +139,7 @@ El error que mata la mayoría de los negocios no es la falta de plata. No es la 
 
 Es enamorarse de la solución.
 
-El emprendedor novato se enamora de su producto. Invierte meses en hacerlo perfecto. Y cuando nadie lo compra, no pregunta "¿el problema era real?" — pregunta "¿cómo hago para que mi producto le guste a la gente?"
+El emprendedor novato se enamora de su producto. Invierte meses en dejarlo perfecto. Y cuando nadie lo compra, no se pregunta "¿el problema era real?" — se pregunta "¿cómo hago para que mi producto le guste a la gente?"
 
 La respuesta correcta es la opuesta: el producto cambia, el problema no. Si el mercado no lo quiere, no es que el mercado esté mal. Es que la solución no es la correcta.
 
@@ -150,15 +149,15 @@ Y acá está la parte difícil de aceptar: si tu negocio no despega, no es culpa
 
 ## ACTO X — POLÉMICA: SI NADIE TE COPIA, NO ES UN NEGOCIO [10:30 - 11:00]
 
-Decí la verdad.
+Digamos la verdad.
 
 Los emprendedores novatos quieren una idea tan única que nadie más la tenga. Pero la unicidad no es el objetivo — la demanda sí.
 
-Si tenés una idea que nadie te copia, hay dos posibilidades: es demasiado difícil de copiar (genial), o es que nadie la quiere (probable). Los negocios que funcionan atraen copias. Eso es señal de que hay plata.
+Si tenés una idea que nadie te copia, hay dos posibilidades: es demasiado difícil de copiar (buenísimo), o es que nadie la quiere (lo más probable). Los negocios que funcionan atraen copias. Eso es señal de que hay plata.
 
-Lo único que nadie puede copiar es tu velocidad, tu trato con el cliente, y tu constancia. Esos son los verdaderos moats.
+Lo único que nadie puede copiarte es tu velocidad, tu trato con el cliente y tu constancia. Esos son tus verdaderos moats.
 
-¿Y el miedo a que te copien la idea? Ese es el miedo del que todavía no tiene clientes.
+¿Y el miedo a que te copien la idea? Ese es el miedo de quien todavía no tiene clientes.
 
 ---
 
@@ -170,7 +169,7 @@ No vendas la solución. Vendé el problema.
 
 Esa frase no es marketing. Es la diferencia entre Ramiro (ocho meses construyendo algo que nadie pidió) y Tomás (dos semanas resolviendo algo que ya dolía).
 
-La próxima vez que se te ocurra una idea, no preguntes "¿es buena?" Preguntá "¿qué problema resuelve, y quién ya está pagando por resolverlo?"
+La próxima vez que se te ocurra una idea, no preguntes "¿es buena?". Preguntá: "¿qué problema resuelve, y quién ya está pagando por resolverlo?"
 
 Si no tenés respuesta, no es una idea. Es un hobby.
 
@@ -183,7 +182,6 @@ Esto no es consejo financiero ni garantía de éxito. La mayoría de los negocio
 Si este video te sirvió, suscribite para más. Y contame en los comentarios: ¿qué negocio empezaste y abandonaste, y por qué?
 
 El problema no es tener la idea perfecta. Es encontrar un problema real. Ahora sabés cómo.
-
 ---
 
 ## Checklist storytelling

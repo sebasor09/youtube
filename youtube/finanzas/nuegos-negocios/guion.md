@@ -1,209 +1,255 @@
 # Guion: Negocios — Cómo encontrar una idea que realmente venda
 
-> **Duración estimada:** ~10-11 minutos
+> **Duración estimada:** ~12.6 minutos (757s / 201 escenas)
 > **Formato:** Cliffhanger + Callback
-> **Estructura:** Actos I–XII
+> **Estructura:** Actos I–XIII
 
 ---
 ## Mapa del episodio
 
 **Resumen en una oración:** Nadie arranca un negocio por tener una idea brillante — arranca porque encontró un problema real que la gente ya está pagando por resolver.
 
-**Detonante:** Miles de personas abandonan el emprendimiento en los primeros dos años, convencidas de que su idea "no funcionó", cuando en realidad nunca validaron si alguien la quería comprar.
+**Detonante:** Uno de cada cinco negocios nuevos cierra antes del primer año, y casi la mitad no llega a los cinco. Casi ninguno de esos fundadores validó, antes de construir, si alguien quería comprar lo que estaba haciendo.
 
-**Stakes:** Para el espectador: la diferencia entre construir un negocio que vende solo y quemar meses (y plata) en una idea que nadie pidió. Para la idea de "el éxito es tener una idea única": si la idea única no importa tanto, ¿qué es lo que sí importa?
+**Stakes:** Para el espectador: la diferencia entre un negocio que se vende solo y quemar meses —y ahorros— en una idea que nadie pidió. Para la creencia de que "el éxito es tener una idea única": si la idea única no es lo que importa, ¿qué es lo que sí?
 
 **Arco:** El espectador pasa de "necesito la idea perfecta" a entender que el negocio se construye al revés: primero el problema, después la solución, después el precio.
 
-**Frase del protagonista (callback):** *"No vendas la solución. Vendé el problema."* — regresa en el Acto XI.
+**Frase del protagonista (callback):** *"No vendas la solución. Vendé el problema."* — se planta textualmente en el Acto III y regresa en el Acto XII.
 
-**Polémica intencional (Acto X):** *"Si nadie te copia, no es un negocio. Es un hobby."* + pregunta abierta al cierre: ¿qué negocio empezaste y abandonaste?
+**Polémica intencional (Acto XI):** *"Si nadie te copia, no es un negocio. Es un hobby."* + pregunta abierta al cierre: ¿qué negocio empezaste y abandonaste?
+
+**Anclaje de autoridad (1, en el Acto V):** Airbnb nació alquilando tres colchones inflables en el living de sus fundadores.
 
 **Open loop:** cómo validar con una landing page sin gastar plata, cuándo contratar al primer empleado, y cómo fijar el primer precio. Sin prometer fechas ni videos.
 
 ---
 
-## ACTO I — HOOK [00:00 - 00:50]
+## ACTO I — HOOK [00:00 - 00:55]
 
-Hay personas que abren un negocio y en dos años ya no tienen jefe. Y hay personas que abren un negocio y en dos años ya no tienen ahorros.
+Dos personas abren un negocio el mismo mes. Dos años después, una ya no tiene jefe. La otra ya no tiene ahorros.
 
-Los dos tuvieron ideas. Los dos trabajaron duro. Los dos creyeron en su proyecto.
+Las dos tuvieron una idea. Las dos trabajaron catorce horas por día. Las dos creyeron en su proyecto.
 
-La diferencia no fue la idea. Fue una sola cosa que casi nadie entiende: un negocio no empieza con la solución. Empieza con el problema.
+La diferencia no fue la idea. Fue el orden en que hicieron las cosas.
 
-Hoy te muestro el camino para encontrar una idea que realmente venda — y cómo evitar la trampa que hunde al 90% de los emprendedores.
+Porque un negocio no empieza con la solución. Empieza con el problema.
+
+Y los números son duros: según la Oficina de Estadísticas Laborales de Estados Unidos, alrededor de uno de cada cinco negocios nuevos cierra antes del primer año. Casi la mitad no llega a los cinco.
+
+Hoy te muestro cómo encontrar una idea que realmente venda — y la trampa que hunde a la mayoría antes de facturar el primer peso.
 
 ---
 
-## ACTO II — CLIFFHANGER [00:50 - 01:40]
+## ACTO II — CLIFFHANGER [00:55 - 01:55]
 
 Hablemos de dos amigos. Ramiro y Tomás.
 
-Renunciaron a su trabajo el mismo mes. Los dos querían emprender. Los dos pusieron sus ahorros sobre la mesa.
+Renunciaron el mismo mes. Los dos pusieron los mismos ahorros sobre la mesa.
 
-Ramiro tenía una idea "única": una app que nadie había hecho antes. Pasó ocho meses desarrollándola, la lanzó... y nadie la descargó.
+Ramiro tenía una idea "única": una app que nadie había hecho. Se encerró ocho meses a desarrollarla. Pagó un logo, armó las redes, cuidó cada detalle. El día del lanzamiento tuvo cuarenta descargas: amigos, familia, y él mismo probando desde tres teléfonos.
 
-Tomás no tenía ninguna idea brillante. Solo notó que las panaderías de su barrio perdían clientes porque no tomaban pedidos online. Le armó a una de ellas una página con pedidos por WhatsApp en dos semanas, y le cobró poco.
+Tomás no tuvo ninguna idea brillante. Solo escuchó dos veces la misma queja: las panaderías del barrio perdían clientes porque no tomaban pedidos por internet. Le armó a una una página con pedidos por WhatsApp en dos semanas. Cobró poco. Le pagaron el mismo día.
 
-Hoy Ramiro volvió a trabajar en relación de dependencia. Tomás tiene cuatro clientes y ya no da abasto.
+Hoy Ramiro volvió a trabajar en relación de dependencia. Tomás tiene cuatro clientes fijos y ya no da abasto.
 
-Esta historia no termina ahí.
-
----
-
-## ACTO III — LA PROMESA [01:40 - 02:10]
-
-Antes de que termine este video, vas a entender tres cosas: por qué la idea no es el activo más valioso de un negocio, cómo encontrar problemas que la gente ya está pagando por resolver, y el orden exacto para construir tu negocio — del problema al precio.
+Los dos trabajaron. Solo uno vendió. Y la razón casi nadie la ve.
 
 ---
 
-## ACTO IV — EL PERSONAJE [02:10 - 03:20]
+## ACTO III — LA PROMESA [01:55 - 02:26]
+
+Antes de que termine este video vas a entender tres cosas: por qué la idea no es el activo más valioso de un negocio, cómo reconocer un problema que la gente ya está pagando por resolver, y el orden exacto para construir — del problema al precio.
+
+Y hay una frase que quiero que te lleves desde ahora, porque todo lo que viene cuelga de ella:
+
+No vendas la solución. Vendé el problema.
+
+Ahora suena raro. En diez minutos va a ser obvio.
+
+---
+
+## ACTO IV — EL PERSONAJE [02:26 - 03:24]
 
 Hablemos de Lucía.
 
-Lucía era veterinaria. Amaba a los animales, odiaba la parte comercial. Como todos, soñaba con "su propio lugar".
+Lucía era veterinaria. Amaba a los animales y odiaba la parte comercial. Soñaba con "su propio lugar": un local, un cartel, su nombre en la puerta.
 
-Un día, un cliente le comentó que estaba desesperado: su perro mayor necesitaba atención constante y él no podía faltar al trabajo para cuidarlo.
+Un día un cliente le contó que estaba desesperado. Su perro tenía trece años, necesitaba medicación tres veces al día, y él no podía faltar al trabajo para dársela.
 
-Lucía no inventó nada. Solo notó un problema que se repetía: gente que trabaja todo el día con mascotas grandes en casa.
+Lucía no inventó nada. Solo notó que ese problema se repetía: gente que trabaja ocho horas afuera con un animal que no puede quedarse solo.
 
-Le propuso a ese cliente un servicio simple: cuidado diario de mascotas mayores mientras él trabajaba. Cobró poco al principio. El primer mes tuvo dos clientes. El segundo, ocho.
+Le propuso algo simple: ella pasaba, le daba la medicación, lo acompañaba un rato. Sin local. Sin cartel.
+
+El primer mes tuvo dos clientes. El segundo, ocho. El sexto tuvo que rechazar gente.
 
 Lucía no encontró una idea. Encontró un problema que la gente ya estaba pagando por resolver.
 
 ---
 
-## ACTO V — POR QUÉ LA IDEA NO IMPORTA TANTO [03:20 - 05:00]
+## ACTO V — POR QUÉ LA IDEA NO IMPORTA TANTO [03:24 - 04:36]
 
-Acá está la verdad incómoda.
+Acá está la verdad incómoda: el mercado no paga por ideas. Paga por problemas resueltos. Tu idea vale cero hasta que alguien la quiera comprar.
 
-El mercado no paga por ideas. Paga por problemas resueltos. Tu idea vale cero hasta que alguien la quiera comprar.
+Pensalo así: una idea es una llave. Y una llave, por más linda que sea, no vale nada hasta que encontrás la cerradura que abre. La mayoría pasa años puliendo la llave sin haber buscado nunca la puerta.
 
-Miles de personas tienen "la idea perfecta" y se mueren de hambre. Y miles de negocios aburridísimos —reparaciones, limpieza, contabilidad— pagan las cuentas de familias enteras.
+Miles de personas tienen "la idea perfecta" y no facturan un peso. Y miles de negocios aburridísimos —destapar cañerías, limpiar oficinas, llevar la contabilidad de un kiosco— pagan las cuentas de familias enteras. Porque resuelven problemas que la gente tiene todos los días. Las ideas brillantes suelen resolver problemas que nadie tiene.
 
-¿Por qué? Porque esos negocios aburridos resuelven problemas que la gente tiene todos los días. Y las ideas brillantes suelen resolver problemas que nadie tiene.
+Airbnb no arrancó como una idea genial sobre el futuro del turismo. Arrancó porque dos tipos no llegaban a pagar el alquiler, vieron que los hoteles de su ciudad estaban llenos por un congreso, y alquilaron tres colchones inflables en su living.
 
-> **[LOOP DE RETENCIÓN 1]:** Y ahora viene la parte que va a cambiar cómo vas a mirar cada idea que se te ocurra de acá en adelante: no importa cuánto te guste tu idea. Importa cuánto le duele el problema a tu cliente.
-
----
-
-## ACTO VI — CÓMO ENCONTRAR PROBLEMAS QUE YA SE PAGAN [05:00 - 07:00]
-
-Entonces, ¿dónde se encuentran los problemas que la gente ya paga por resolver?
-
-**Pista uno: escuchá las quejas.** Cada queja es un negocio en gestación. "No consigo quien me repare X", "esto es un caos", "ojalá alguien hiciera Y". Cuando alguien se queja de lo mismo dos veces, ahí hay mercado.
-
-**Pista dos: fijate dónde ya está la plata.** La gente ya paga por alquiler, comida, transporte, salud, educación. No tenés que crear un mercado nuevo — tenés que entrar a uno que ya existe y hacerlo mejor.
-
-**Pista tres: copiá lo que ya funciona.** Si un negocio existe hace diez años y sigue abierto, hay demanda. No tenés que inventar la rueda. Tenés que hacerla mejor en tu zona, en tu horario, o para tu audiencia.
-
-**La regla de oro:** si no encontrás tres personas que digan "yo pagaría por eso YA", tu problema no está validado. Seguí buscando.
+> **[LOOP DE RETENCIÓN 1]:** Y ahora viene la parte que va a cambiar cómo mirás cada idea que se te ocurra. Porque no todos los problemas se pagan: hay tres ingredientes que tienen que estar juntos, y si falta uno, no hay negocio.
 
 ---
 
-## ACTO VII — MICRO-HISTORIA: EL ANTES Y EL DESPUÉS [07:00 - 08:00]
+## ACTO VI — LOS TRES INGREDIENTES DE UN PROBLEMA QUE SE PAGA [04:36 - 05:44]
+
+Un problema que se paga es como una gotera en el techo.
+
+**Uno: duele.** La gotera te moja la cama. No te molesta un poco: te arruina la noche. Si el problema es apenas incómodo, nadie saca la billetera. Si la persona puede convivir con él sin hacer nada, no es un problema. Es una preferencia.
+
+**Dos: se repite.** Una gotera no gotea una vez: gotea cada vez que llueve. Los problemas que se repiten generan ingresos que se repiten. Los que pasan una sola vez generan una sola venta.
+
+**Tres: es urgente.** Con el techo mojado no esperás seis meses. Llamás hoy. La urgencia convierte el "qué interesante" en "¿cuánto me cobrás?". Sin urgencia, el cliente te dice que sí y te paga nunca.
+
+Duele, se repite y es urgente. Cuando los tres están juntos no tenés que convencer a nadie. Solo tenés que aparecer.
+
+El perro de Lucía tenía los tres: dolía, se repetía tres veces por día, y no podía esperar.
+
+---
+
+## ACTO VII — DÓNDE ENCONTRAR ESOS PROBLEMAS [05:44 - 06:58]
+
+¿Dónde se encuentran?
+
+**Pista uno: escuchá las quejas.** Cada queja es un negocio en gestación. "No consigo quien me repare esto", "esto es un caos", "ojalá alguien hiciera aquello". Cuando escuchás la misma queja de dos personas distintas, ahí hay mercado. Abrí una nota en el teléfono y anotá quejas durante dos semanas.
+
+**Pista dos: fijate dónde ya está la plata.** La gente ya paga todos los meses alquiler, comida, transporte, salud, educación. Crear un mercado nuevo es carísimo. Entrá a uno que ya existe y hacé una parte mejor.
+
+**Pista tres: copiá lo que ya funciona.** Si un negocio lleva diez años abierto en tu barrio, hay demanda comprobada. No inventes la rueda: hacela mejor en tu zona, en tu horario, o para el cliente que hoy nadie atiende bien.
+
+**La regla de oro:** si no encontrás tres personas que digan "yo pagaría por eso ya", tu problema no está validado. Y ojo: "me encanta la idea" no es "te pago". El único voto que cuenta sale de la billetera.
+
+---
+
+## ACTO VIII — MICRO-HISTORIA: EL ANTES Y EL DESPUÉS [06:58 - 07:42]
 
 Volvamos a Tomás.
 
-Después de la panadería, hizo algo inteligente: no buscó más ideas. Buscó más panaderías.
+Después de la panadería hizo algo que casi nadie hace: no buscó otra idea. Buscó otra panadería.
 
-Fue a cada panadería de su barrio, les mostró lo que había hecho para la primera, y les ofreció lo mismo. En dos meses tenía ocho clientes, cada uno pagando una cuota mensual.
+Fue a cada panadería del barrio, mostró en el teléfono lo que había hecho para la primera, y ofreció exactamente lo mismo. La misma solución, al mismo problema, al lado.
 
-No desarrolló una app. No patentó nada. No tuvo una idea única.
+En dos meses tenía ocho clientes pagando una cuota mensual. Nunca desarrolló una app. Nunca patentó nada. Nunca tuvo una idea única.
 
-Encontró un problema repetido en un mercado que ya existía, y se convirtió en la solución local.
-
-Ese es el negocio que paga: el que resuelve un problema que ya duele, en un mercado que ya tiene plata.
+> **[LOOP DE RETENCIÓN 2]:** Pero tener el problema no alcanza. Falta el orden — y el orden es donde se equivocan incluso los que arrancaron bien.
 
 ---
 
-## ACTO VIII — EL ORDEN PARA CONSTRUIR TU NEGOCIO [08:00 - 09:30]
+## ACTO IX — EL ORDEN PARA CONSTRUIR TU NEGOCIO [07:42 - 09:01]
 
-Cuando tengas un problema validado, el orden es este — y el 90% lo hace al revés.
+Cuando tengas un problema validado, el orden es este. Y la mayoría lo hace exactamente al revés.
 
-**Primero: el problema.** Definí exactamente a quién le duele y cuánto le duele. Si no podés describir a tu cliente en una frase, no lo entendiste todavía.
+**Primero: el problema.** Definí a quién le duele y cuánto. Si no podés describir a tu cliente en una frase —quién es, qué hace, qué lo desespera— todavía no lo entendiste.
 
-**Segundo: la solución mínima.** No construyas el producto perfecto. Construí la versión más chica que resuelva el problema. Si es un servicio, hacelo a mano. Si es un producto, armá el prototipo más feo que funcione.
+**Segundo: la solución mínima.** No construyas el producto perfecto. Construí la versión más chica que resuelva el problema. Si es un servicio, hacelo a mano aunque no escale. Si es un producto, armá el prototipo más feo que funcione. El primer intento no es para impresionar: es para aprender.
 
-**Tercero: el precio.** Preguntate cuánto le ahorra o le genera a tu cliente, y cobrá una fracción de eso. El que vende por precio bajo termina atrayendo clientes que pagan poco.
+**Tercero: el precio.** Preguntate cuánto le ahorra o cuánto le genera a tu cliente, y cobrá una fracción de eso. Si le ahorrás diez horas por mes, tu precio sale de lo que valen esas diez horas para él.
 
-**Cuarto: el primer cliente antes que todo lo demás.** Hablá con tu primer cliente ANTES de construir. Si nadie te paga por adelantado, tu problema no está validado.
+**Cuarto: el primer cliente antes que todo lo demás.** Hablá con él antes de construir. No después. Si nadie está dispuesto a pagarte por adelantado, tu problema no está validado.
 
-> **[LOOP DE RETENCIÓN 2]:** Pero ahora viene la parte incómoda — la que separa a quien realmente emprende de quien solo le gusta la idea de emprender.
+Fijate el patrón: el logo, el nombre y la página web no están en ninguno de los cuatro pasos. Eso es decoración, y la decoración viene cuando hay algo que decorar.
 
 ---
 
-## ACTO IX — EL ERROR QUE MATA NEGOCIOS [09:30 - 10:30]
+## ACTO X — EL ERROR QUE MATA NEGOCIOS [09:01 - 10:13]
 
-El error que mata la mayoría de los negocios no es la falta de plata. No es la competencia. No es la idea.
+El error que mata a la mayoría de los negocios no es la falta de plata. No es la competencia. No es la idea.
 
 Es enamorarse de la solución.
 
-El emprendedor novato se enamora de su producto. Invierte meses en dejarlo perfecto. Y cuando nadie lo compra, no se pregunta "¿el problema era real?" — se pregunta "¿cómo hago para que mi producto le guste a la gente?"
+El emprendedor novato se enamora de su producto. Le mete meses para dejarlo perfecto. Y cuando nadie lo compra no se pregunta "¿el problema era real?", se pregunta "¿cómo hago para que a la gente le guste mi producto?".
 
-La respuesta correcta es la opuesta: el producto cambia, el problema no. Si el mercado no lo quiere, no es que el mercado esté mal. Es que la solución no es la correcta.
+La pregunta correcta es la opuesta. El producto cambia; el problema no. Si el mercado no lo quiere, el mercado no está equivocado. La solución es la que está equivocada.
 
-Y acá está la parte difícil de aceptar: si tu negocio no despega, no es culpa del mercado. Es información. Y esa información vale oro si la escuchás a tiempo.
+Y ahora la otra cara, porque esto no es magia. Los negocios aburridos también tienen su costo: hay competencia, los márgenes son bajos al principio, y muchos empiezan siendo trabajo manual tuyo, hora por hora. Que un problema esté validado no significa que el camino sea fácil. Significa que el camino existe.
 
----
-
-## ACTO X — POLÉMICA: SI NADIE TE COPIA, NO ES UN NEGOCIO [10:30 - 11:00]
-
-Digamos la verdad.
-
-Los emprendedores novatos quieren una idea tan única que nadie más la tenga. Pero la unicidad no es el objetivo — la demanda sí.
-
-Si tenés una idea que nadie te copia, hay dos posibilidades: es demasiado difícil de copiar (buenísimo), o es que nadie la quiere (lo más probable). Los negocios que funcionan atraen copias. Eso es señal de que hay plata.
-
-Lo único que nadie puede copiarte es tu velocidad, tu trato con el cliente y tu constancia. Esos son tus verdaderos moats.
-
-¿Y el miedo a que te copien la idea? Ese es el miedo de quien todavía no tiene clientes.
+Si tu negocio no despega, eso no es un veredicto sobre vos. Es información. Y vale oro si la escuchás a tiempo, en vez de dentro de ocho meses.
 
 ---
 
-## ACTO XI — CALLBACK [11:00 - 11:30]
+## ACTO XI — POLÉMICA: SI NADIE TE COPIA, NO ES UN NEGOCIO [10:13 - 11:07]
 
-¿Te acordás de la frase del Acto III?
+Digamos la verdad. El emprendedor novato quiere una idea tan única que nadie más la tenga. Pero la unicidad no es el objetivo. La demanda sí.
+
+Si nadie te copia hay dos posibilidades: es demasiado difícil de copiar, o nadie la quiere. Y la segunda es mucho más probable. Los negocios que funcionan atraen imitadores. Eso no es una amenaza: es la confirmación de que ahí hay plata.
+
+Lo voy a decir sin vueltas: si nadie te copia, no es un negocio. Es un hobby.
+
+Lo único que nadie puede copiarte igual es tu velocidad, tu trato con el cliente y tu constancia.
+
+¿El miedo a que te roben la idea? Ese es el miedo de quien todavía no tiene clientes. El que tiene clientes está ocupado atendiéndolos.
+
+---
+
+## ACTO XII — CALLBACK [11:07 - 11:50]
+
+¿Te acordás de la frase del principio?
 
 No vendas la solución. Vendé el problema.
 
-Esa frase no es marketing. Es la diferencia entre Ramiro (ocho meses construyendo algo que nadie pidió) y Tomás (dos semanas resolviendo algo que ya dolía).
+Esa frase no es marketing. Es la diferencia entre Ramiro, ocho meses construyendo algo que nadie pidió, y Tomás, dos semanas resolviendo algo que ya dolía.
 
-La próxima vez que se te ocurra una idea, no preguntes "¿es buena?". Preguntá: "¿qué problema resuelve, y quién ya está pagando por resolverlo?"
+Ramiro vendía su solución: "mirá qué app hice". Tomás vendía el problema: "estás perdiendo clientes que quieren pedirte por internet y no pueden".
 
-Si no tenés respuesta, no es una idea. Es un hobby.
+La próxima vez que se te ocurra una idea, no preguntes "¿es buena?". Preguntá: ¿qué problema resuelve, a quién le duele, y quién ya está pagando por resolverlo hoy?
+
+Si no tenés respuesta para las tres, todavía no es un negocio.
 
 ---
 
-## ACTO XII — DISCLAIMER + CTA [11:30 - 12:00]
+## ACTO XIII — DISCLAIMER + CTA [11:50 - 12:37]
 
-Esto no es consejo financiero ni garantía de éxito. La mayoría de los negocios fallan — y eso también es parte del camino.
+Esto no es consejo financiero ni una garantía de éxito. Emprender tiene riesgo real: muchos negocios fallan, así que nunca pongas plata que no puedas perder.
 
-Si este video te sirvió, suscribite para más. Y contame en los comentarios: ¿qué negocio empezaste y abandonaste, y por qué?
+Hay más en esta historia: cómo probar una idea sin gastar casi nada, cuándo sumar a la primera persona al equipo, y cómo poner el primer precio sin regalarte. Pero eso ya es otro capítulo.
 
-El problema no es tener la idea perfecta. Es encontrar un problema real. Ahora sabés cómo.
+Si este video te sirvió, suscribite. Y contame en los comentarios: ¿qué negocio empezaste y abandonaste, y por qué?
+
+El problema nunca fue encontrar la idea perfecta. Era encontrar un problema real. Ahora sabés cómo.
+
 ---
 
 ## Checklist storytelling
 
 - [x] Resumen en una oración. Toda escena aporta a esa oración.
-- [x] Detonante claro — el 90% abandona porque validó la idea equivocada.
-- [x] Stakes concretos — negocio que vende solo vs. ahorros quemados.
+- [x] Detonante claro — la mayoría construye antes de validar.
+- [x] Stakes concretos — negocio que se vende solo vs. ahorros quemados.
 - [x] Arco de transformación — de "necesito la idea perfecta" a "busco el problema".
-- [x] Escenas con detalle (Ramiro/Tomás, Lucía), resúmenes (transiciones rápidas), reflexiones (el producto cambia, el problema no).
+- [x] Escenas con detalle (Ramiro/Tomás, Lucía), resúmenes, reflexiones (el producto cambia, el problema no).
 - [x] Formato Cliffhanger — Acto II muestra el final de Ramiro y Tomás antes de explicar.
-- [x] Entrada en acción — dos casos opuestos, sin preámbulos.
-- [x] Cierre con elección — "¿qué negocio empezaste y abandonaste?", sin moraleja.
-- [x] Callback — "no vendas la solución, vendé el problema" regresa en el Acto XI.
-- [x] 2 loops de retención explícitos en los puntos de mayor riesgo de abandono.
-- [x] Equilibrio narrativo — ideas brillantes que fallan vs. negocios aburridos que funcionan.
-- [x] Micro-storytelling — Ramiro/Tomás (Actos II y VII), Lucía (Acto IV).
-- [x] Polémica intencional — "si nadie te copia, no es un negocio, es un hobby".
-- [x] Open loop — validación con landing page, primer empleado, primer precio.
-- [x] Disclaimer antes del CTA.
+- [x] Entrada en acción — dos destinos opuestos en la primera frase, sin preámbulos.
+- [x] Cierre con elección — pregunta abierta al espectador, sin moraleja.
+- [x] Callback — la frase se planta textual en el Acto III y vuelve en el Acto XII.
+- [x] Hook con dualidad emocional (Técnica 1) — sin jefe / sin ahorros.
+- [x] Retention pledge de 3 preguntas (Técnica 2) — Acto III.
+- [x] Analogías físicas (Técnica 3) — la llave y la cerradura; la gotera en el techo.
+- [x] Micro-storytelling (Técnica 4) — Ramiro/Tomás (Actos II y VIII), Lucía (Actos IV y VI).
+- [x] Equilibrio narrativo (Técnica 5) — Acto X incluye el contrapeso: competencia, márgenes bajos, trabajo manual.
+- [x] Anclaje de autoridad (Técnica 6) — Airbnb, 1 sola vez, en el Acto V.
+- [x] Open loop (Técnica 7) — Acto XIII, sin prometer fechas ni videos.
+- [x] Ritmo de sección (Técnica 8) — ningún bloque supera los 90 segundos; alterna dato → historia → concepto.
+- [x] Disclaimer antes del CTA (Técnica 9) — Acto XIII.
+- [x] Polémica intencional (Técnica 10) — "si nadie te copia, no es un negocio, es un hobby" + pregunta abierta.
+- [x] 2 loops de retención explícitos en los puntos de mayor riesgo de abandono (finales de Acto V y Acto VIII).
 
 ## Datos utilizados
 
-- La cifra del "90% de los emprendedores" se usa como aproximación ilustrativa del abandono temprano; no es una estadística exacta citada de una fuente específica.
-- Las historias de Ramiro, Tomás y Lucía son arquetipos ilustrativos, no casos reales verificables.
-- No se citan estadísticas de mercado específicas.
+- **Supervivencia de negocios nuevos:** alrededor del 20% de los establecimientos nuevos cierra en su primer año y cerca del 50% no llega a los cinco años. Fuente: U.S. Bureau of Labor Statistics, *Business Employment Dynamics — Entrepreneurship and the U.S. Economy*. Se presenta como "uno de cada cinco" y "casi la mitad", sin dar decimales, porque la cifra varía año a año y por sector.
+- **Airbnb:** los fundadores alquilaron colchones inflables en el living de su departamento en San Francisco (2007), durante un congreso de diseño que había llenado los hoteles de la ciudad. El nombre original del proyecto fue *AirBed & Breakfast*. Hecho ampliamente documentado por la propia empresa.
+- **Ramiro, Tomás y Lucía** son arquetipos ilustrativos, no personas reales. No se presentan como casos verificables ni se les atribuyen cifras de facturación.
+
+## Producción
+
+- **Narración:** ~1.810 palabras en español / ~1.880 en inglés (el audio se genera en inglés).
+- **Duración proyectada:** ~12,6 minutos — 201 escenas de 3 a 5 segundos en `script.json`.
+- **Escenas:** el corte es por sentido narrativo, una idea visual por escena. Los efectos de sonido marcan los cambios de acto (`page-flip`), los remates (`impact`, `board_hit`) y los dos loops de retención (`risers`).

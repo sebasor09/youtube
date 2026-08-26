@@ -1,4 +1,4 @@
-# YouTube Video Automation
+osea# YouTube Video Automation
 
 Sistema para crear videos de YouTube de forma automatizada: guion → voz → video renderizado.
 

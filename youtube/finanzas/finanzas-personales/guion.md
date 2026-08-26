@@ -183,3 +183,19 @@ La plata es simple. Solo necesitás el método. Nos vemos en el próximo.
 - [x] Equilibrio narrativo — Carlos (lo hizo bien) vs. Jake (lo perdió), Laura vs. la avalancha.
 - [x] Open loop — los 3 errores se presentan y se resuelven en el mismo acto.
 - [x] Disclaimer antes del CTA.
+## Datos utilizados
+
+- **Regla 50-30-20:** popularizada por Elizabeth Warren y Amelia Warren Tyagi en *All Your Worth: The Ultimate Lifetime Money Plan* (2005). Es una heurística de presupuesto, no una norma — conviene presentarla como guía y no como regla universal.
+- **Retorno promedio del S&P 500 (~10% anual):** es el promedio **nominal** de largo plazo, sin descontar inflación. Ajustado por inflación ronda el 6-7%. El guion ya aclara "no todos los años, en promedio", pero al publicar conviene decir que es nominal. Fuente a citar: S&P Dow Jones Indices, series históricas del índice.
+- **"El 10% duplica tu plata cada siete años":** correcto como aproximación. Es la regla del 72 (72 ÷ 10 = 7,2 años). Verificado.
+- **"$200 al mes desde los 25 → más de un millón a los 65":** verificado. Aporte mensual de $200 durante 40 años al 10% anual capitalizado mensualmente da ≈ $1.264.000.
+- **"Empezá a los 45 y tenés un cuarto de eso":** ⚠️ **incorrecto.** El mismo cálculo a 20 años da ≈ $152.000 — cerca de **una octava parte**, no un cuarto. Corregir antes de generar el audio.
+- **"Un tercio de la gente no sabe en qué gasta su sueldo":** ⚠️ **sin fuente verificada.** O se respalda con una encuesta concreta y citable, o se reformula en términos cualitativos ("mucha gente llega a fin de mes sin saber en qué se le fue el sueldo").
+- **Carlos, Jake y Laura** son arquetipos ilustrativos, no personas reales. No se les atribuyen cifras verificables.
+- Los montos de ejemplo ($1.000 de sueldo, $900 de reparación, $50 al mes) son ilustrativos y se presentan como tales.
+
+## Producción
+
+- **Narración:** ~1.138 palabras en inglés (el audio se genera en inglés). ⚠️ Está por debajo del mínimo de 1.200 palabras que fija la guía del canal.
+- **Duración proyectada:** 540 segundos — 9 minutos exactos, 165 escenas de 3 a 5 segundos en `script.json`. Cumple el mínimo de 8 minutos, pero sin margen.
+- **Escenas:** el corte es por sentido narrativo, una idea visual por escena. Los efectos marcan los cambios de acto (`page-flip`), los remates (`impact`, `hit`, `board_hit`) y los loops de retención (`risers`).

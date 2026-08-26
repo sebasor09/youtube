@@ -1,171 +1,284 @@
 # Guion: Ingresos freelance — Cómo cobrar por lo que sabés hacer
 
-> **Duración estimada:** ~10-11 minutos
+> **Duración estimada:** ~14 minutos (932s / 240 escenas)
 > **Formato:** Cliffhanger + Callback
-> **Estructura:** Actos I–XI
+> **Estructura:** Actos I–XIII
 
 ---
 
-Mapa del episodio
+## Mapa del episodio
 
-Resumen en una oración: El trabajo freelance no es "trabajar sin jefe" — es un negocio de uno, y quien lo entiende así deja de vender horas y empieza a cobrar por resultados.
+**Resumen en una oración:** El trabajo freelance no es "trabajar sin jefe" — es un negocio de uno, y quien lo entiende así deja de vender horas y empieza a cobrar por el problema que resuelve.
 
-Detonante: Millones de personas venden su tiempo a un solo empleador toda su vida, y nunca se preguntan cuánto vale realmente su habilidad en el mercado abierto.
+**Detonante:** Sesenta y cuatro millones de personas ya trabajan por su cuenta solo en Estados Unidos, y la mayoría sigue poniéndole precio a su trabajo con la única fórmula que le enseñaron: las horas que tarda.
 
-Stakes: Para el espectador: la diferencia entre vivir del único sueldo que le dan y construir ingresos que dependen de él. Para el freelancer que recién arranca: la diferencia entre cobrar por hora y cobrar por el valor del resultado.
+**Stakes:** Para el espectador: la diferencia entre vivir del único sueldo que le dan y construir un ingreso que depende de él. Para el que ya factura: la diferencia entre cobrar por hora hasta quemarse y cobrar por el resultado que entrega.
 
-Arco: El espectador pasa de "freelance = laburar mucho por poca plata" a entender que el que gana bien no vende tiempo, vende resultados y posicionamiento.
+**Arco:** El espectador pasa de "freelance es laburar mucho por poca plata" a entender que el que gana bien no vende tiempo — vende resultados, y elige a quién se los vende.
 
-Frase del protagonista (callback): "Dejá de cobrar por hora. Empezá a cobrar por el problema que resolvés." — se planta en el Acto III y regresa en el Acto X.
+**Frase del protagonista (callback):** *"Dejá de cobrar por hora. Empezá a cobrar por el problema que resolvés."* — se planta textualmente en el Acto III y regresa en el Acto XII.
 
-Polémica intencional (Acto IX): "El que más cobra no es el que más trabaja. Es el que mejor elige a sus clientes." + pregunta abierta al cierre: ¿es el precio lo que te frena, o la confianza para pedirlo?
+**Polémica intencional (Acto XI):** *"El que más cobra no es el que más trabaja. Es el que mejor elige a sus clientes."* + pregunta abierta al cierre: ¿qué te frena más, el precio que pedís o la confianza para pedirlo?
 
-Open loop: cómo armar portafolio desde cero, cómo conseguir tus primeros clientes, y cuándo dejar el empleo. Sin prometer fechas ni videos.
+**Anclaje de autoridad (1, en el Acto I):** los freelancers estadounidenses facturaron 1,27 billones de dólares en un año — más que Apple, Microsoft y Amazon sumadas.
 
-ACTO I — HOOK [00:00 - 00:50]
+**Equilibrio narrativo (Acto IX):** por cada historia de alguien que multiplicó su tarifa, el contrapeso real — el 71% de los freelancers tuvo problemas para cobrar alguna vez, y el ingreso no es lineal.
 
-Hay gente que gana un sueldo y vive de ese sueldo toda la vida. Y hay gente que, con la misma habilidad, cobra tres veces más — y trabaja menos horas.
+**Open loop:** cómo armar portafolio desde cero, cómo conseguir los primeros clientes, y cuándo soltar el empleo. Sin prometer fechas ni videos.
 
-La diferencia no es el talento. No es el título. No es la suerte.
+---
 
-Es entender una sola cosa que nadie te enseñó: tu habilidad vale lo que el mercado está dispuesto a pagar por el resultado, no lo que tu empleador decidió pagarte por tu tiempo.
+## ACTO I — HOOK [00:00 - 01:00]
 
-Hoy te muestro el camino para cobrar por lo que sabés hacer — sin jefe, sin horario fijo, y sin regalar tu trabajo.
+Dos personas tienen exactamente la misma habilidad. La misma carrera, los mismos años de experiencia, la misma calidad de trabajo.
 
-ACTO II — CLIFFHANGER [00:50 - 01:40]
+Una cobra quince dólares la hora. La otra cobra tres mil dólares por proyecto.
 
-Hablemos de Damián. Diseñador gráfico, tres años de experiencia, sueldo promedio, clientes que le pedían "una vuelta al logo" sin pagar extra.
+Y no es que la segunda trabaje más. Trabaja menos.
 
-Un día, un cliente le pidió un presupuesto. Damián, acostumbrado a cobrar por hora, pasó su tarifa de siempre: 15 dólares la hora, unas 20 horas, 300 dólares en total.
+La diferencia no es el talento. Ni el título. Ni la suerte.
 
-El cliente respondió algo que le cambió la cabeza: "Ese precio no me sirve. Si me cobrás 3.000 dólares y me lo entregás en dos semanas, lo acepto hoy."
+Es una sola cosa que nadie te enseñó: tu habilidad vale lo que el mercado paga por el resultado, no lo que tu empleador decidió pagarte por tu tiempo.
 
-Damián no estaba cobrando poco por su trabajo. Estaba cobrando poco porque había aprendido a venderse como empleado, no como solución.
+Y esto no es un nicho de gente rara. Según el estudio Freelance Forward de Upwork, sesenta y cuatro millones de estadounidenses hicieron trabajo freelance en 2023: casi el treinta y ocho por ciento de la fuerza laboral. Entre todos facturaron un billón doscientos setenta mil millones de dólares en un año — más que Apple, Microsoft y Amazon juntas.
 
-Esta historia no termina ahí.
+Hoy te muestro cómo cobrar por lo que sabés hacer, y la trampa que mantiene pobre a casi todo el que empieza.
 
-ACTO III — LA PROMESA [01:40 - 02:10]
+---
 
-Antes de terminar este video, vas a entender tres cosas: por qué cobrar por hora es la trampa que te mantiene pobre, cómo se construye un precio de verdad —el del resultado—, y qué es lo único que separa al freelancer que vive del que sobrevive.
+## ACTO II — CLIFFHANGER [01:00 - 01:55]
 
-ACTO IV — EL PERSONAJE [02:10 - 03:20]
+Hablemos de Damián.
 
-Hablemos de Marcos. Era programador en una empresa grande. Buen sueldo, buenos beneficios, cero control sobre su tiempo.
+Diseñador gráfico. Tres años de experiencia. Sueldo promedio. Clientes que le pedían "una vueltita más al logo" sin pagar un peso extra.
 
-Durante la pandemia perdió el empleo. Como tantos, mandó cientos de CVs. Y como tantos, descubrió que el mercado laboral no lo estaba esperando.
+Un día le pidieron un presupuesto. Damián hizo lo único que sabía hacer: contar horas. Quince dólares la hora, unas veinte horas. Trescientos dólares.
 
-Entonces hizo algo distinto: dejó de buscar empleo y empezó a buscar problemas. Entró a foros de pequeñas empresas, encontró dueños quejándose de que su página web no vendía nada, y les escribió una propuesta simple: "Te arreglo la página para que empiece a convertir visitas en pedidos. Si no funciona, no pagás."
+El cliente le contestó algo que le rompió la cabeza:
 
-Consiguió su primer cliente en una semana. No porque fuera el mejor programador del mundo, sino porque le vendió un resultado, no su tiempo.
+*"Ese precio no me sirve. Si me cobrás tres mil y me lo entregás en dos semanas, te lo firmo hoy."*
+
+Leelo de nuevo. El cliente le dijo que era **demasiado barato**.
+
+Damián no cobraba poco por su trabajo. Cobraba poco porque había aprendido a venderse como empleado, no como solución.
+
+Y esta historia todavía no termina.
+
+---
+
+## ACTO III — LA PROMESA [01:55 - 02:30]
+
+Antes de que termine este video vas a entender tres cosas: por qué cobrar por hora es la trampa que te mantiene pobre, cómo se arma un precio de verdad —el del resultado—, y qué es lo único que separa al freelancer que vive del que sobrevive.
+
+Y hay una frase que quiero que te lleves desde ahora, porque todo lo que viene cuelga de ella:
+
+**Dejá de cobrar por hora. Empezá a cobrar por el problema que resolvés.**
+
+Ahora suena a frase de taza. En diez minutos va a ser obvio.
+
+---
+
+## ACTO IV — EL PERSONAJE [02:30 - 03:30]
+
+Hablemos de Marcos.
+
+Marcos era programador en una empresa grande. Buen sueldo, buenos beneficios, cero control sobre su tiempo.
+
+Un día lo echaron. Hizo lo que le enseñaron: mandar currículums. Mandó cientos. El mercado laboral no lo estaba esperando.
+
+Entonces hizo algo distinto. Dejó de buscar empleo y empezó a buscar **problemas**.
+
+Se metió en foros de dueños de negocios chicos y encontró la misma queja repetida: "tengo una página web que no me vende nada".
+
+Les escribió una propuesta de tres líneas: *"Te arreglo la página para que convierta visitas en pedidos. Si en treinta días no mejora, no me pagás."*
+
+Consiguió su primer cliente en una semana. No porque fuera el mejor programador del mundo, sino porque fue el único que les habló del problema que tenían, en vez de la carrera que él había estudiado.
 
 Marcos no encontró un empleo. Encontró un sistema.
 
-ACTO V — LA TRAMPA DE LA HORA [03:20 - 05:00]
+---
+
+## ACTO V — LA TRAMPA DE LA HORA [03:30 - 04:45]
 
 Acá está la trampa que casi nadie ve.
 
-Cuando cobrás por hora, tu ingreso máximo queda limitado por las horas que tenés. Son 24 por día. No podés fabricar más. Podés subir la tarifa, pero cada vez que lo hacés, necesitás que el cliente acepte que "tu hora vale más" — y esa es una conversación incómoda que casi nadie quiere tener.
+Cobrar por hora es como manejar un taxi con taxímetro: **cuanto más lento vas, más cobrás**. El sistema te premia por tardar.
 
-Y hay un problema peor: cobrar por hora te castiga por ser eficiente. Si aprendés a hacer algo en la mitad del tiempo, ganás la mitad. El sistema premia a quien hace las cosas más lento.
+Pensalo. Si aprendés a hacer en dos horas lo que antes te llevaba seis, acabás de volverte tres veces mejor en tu oficio… y de cobrar tres veces menos. Cobrar por hora castiga justo lo que deberías estar construyendo: tu habilidad.
 
-Por eso la hora es el techo del freelance novato. El que entiende el juego cambia la pregunta: en vez de "¿cuánto vale mi hora?", pregunta "¿cuánto vale el problema que resuelvo?"
+Y hay un problema peor: el techo. Tu ingreso máximo es tu tarifa por las horas que tenés, y horas hay veinticuatro por día. No se fabrican más. Podés subir la tarifa, pero cada aumento exige convencer a alguien de que "tu hora vale más" — la conversación más incómoda del oficio.
 
-[LOOP DE RETENCIÓN 1]: Y ahí aparece la idea que va a cambiar cómo ves tu trabajo: el precio no se calcula desde adentro. Se calcula desde afuera — desde lo que el resultado le ahorra o le genera a tu cliente.
+El que entiende el juego cambia la pregunta: en vez de *"¿cuánto vale mi hora?"*, pregunta *"¿cuánto vale el problema que resuelvo?"*.
 
-ACTO VI — EL PRECIO DEL RESULTADO [05:00 - 07:00]
+> **[LOOP DE RETENCIÓN 1]:** Y ahí aparece lo que le da vuelta la cabeza a cualquiera que cobra por hora: el precio no se calcula desde adentro. No sale de tu esfuerzo — sale de lo que el resultado le ahorra o le genera al cliente. El mismo trabajo puede valer trescientos dólares o cinco mil.
 
-Pensalo así: una empresa pierde 10.000 dólares por mes porque su página no convierte visitas en ventas. Si vos se la arreglás y empieza a vender, le estás devolviendo miles de dólares por mes.
+---
 
-¿Cuánto vale tu trabajo ahí? No 15 dólares la hora. El valor es una fracción del problema que resolvés: mil, dos mil, cinco mil dólares, si el resultado se sostiene.
+## ACTO VI — EL PRECIO DEL RESULTADO [04:45 - 06:00]
 
-Por eso el freelance que cobra bien no vende horas. Vende el resultado, cobra por proyecto, y le suma valor a lo que hace.
+Hay un chiste viejo entre técnicos que explica esto mejor que cualquier manual.
 
-¿Y cómo se llega a ese nivel cuando recién arrancás?
+Se rompe una máquina en una fábrica y nadie la puede arreglar. Llaman a un especialista. El tipo la mira dos minutos, aprieta un tornillo y la máquina arranca. Pasa una factura por doscientos dólares.
 
-El camino en tres pasos:
+El dueño, indignado, le pide el detalle. El técnico se lo manda:
 
-Paso uno: elegí un problema concreto. No "soy diseñador", sino "te hago una marca que te hace parecer profesional en una semana". Cuanto más específico sea el problema, menos competencia tenés y más fácil justificás tu precio.
+*"Apretar el tornillo: un dólar. Saber cuál tornillo apretar: ciento noventa y nueve."*
 
-Paso dos: construí pruebas. No necesitás clientes para tener un portafolio. Hacé proyectos de muestra, resolvé el problema de un negocio real gratis o a precio bajo, documentá el antes y el después. La prueba no es tu CV — es el resultado.
+Eso es cobrar por resultado. El cliente no te paga el tiempo que estuviste ahí. Te paga que la máquina vuelva a andar.
 
-Paso tres: pedí el precio del valor, no del esfuerzo. Cuando un cliente pregunta cuánto cobrás, respondé con el resultado: "Este proyecto le devuelve X. Mi trabajo vale una fracción de eso." El que duda en cobrar, cobra poco. El que explica el valor, cobra bien.
+Traducilo a números reales. Una empresa pierde diez mil dólares por mes porque su página recibe visitas y no cierra ventas. Si arreglás eso, le devolvés diez mil dólares **todos los meses**.
 
-ACTO VII — MICRO-HISTORIA: EL ANTES Y EL DESPUÉS [07:00 - 08:00]
+¿Cuánto vale tu trabajo ahí? Quince dólares la hora, claramente no. El precio justo es una fracción de lo que el cliente gana o deja de perder: mil, tres mil, cinco mil. Y sigue siendo un negocio excelente para él.
+
+Esa es la diferencia entre trescientos y tres mil. No es cuánto trabajaste. Es cuánto vale que el problema desaparezca.
+
+---
+
+## ACTO VII — LOS TRES PASOS PARA COBRAR POR RESULTADO [06:00 - 07:20]
+
+¿Y cómo se llega ahí cuando estás empezando y no tenés ni un cliente? Tres pasos.
+
+**Paso uno: elegí un problema concreto, no una profesión.** "Soy diseñador" no le resuelve nada a nadie. "Te armo la identidad de tu marca en dos semanas para que dejes de parecer improvisado" sí. Cuanto más específico el problema, menos competencia y más fácil justificar el precio. El que hace de todo compite con todos.
+
+**Paso dos: construí pruebas, no currículum.** No necesitás que te contraten para tener portafolio. Elegí tres negocios reales, resolveles el problema —gratis o casi— y documentá el antes y el después con números. La prueba no es dónde estudiaste: es un resultado que ya produjiste.
+
+**Paso tres: pedí el precio del valor, no el del esfuerzo.** Cuando te preguntan cuánto cobrás, la peor respuesta es un número solo. La buena empieza por el resultado: *"Esto te devuelve tanto por mes; mi trabajo cuesta una fracción de eso."* El que duda al decir su precio, cobra poco.
+
+Y una advertencia honesta: los primeros proyectos casi siempre se cobran de menos. Son los que te compran las pruebas del paso dos.
+
+---
+
+## ACTO VIII — MICRO-HISTORIA: EL ANTES Y EL DESPUÉS [07:20 - 08:20]
 
 Volvamos a Damián.
 
-Después de esa llamada, dejó de cobrar por hora. Rediseñó su oferta: en vez de "diseño de logos por hora", empezó a ofrecer "identidad de marca completa, entregada en dos semanas, lista para usar".
+Después de esa llamada cambió una sola cosa. No aprendió una técnica nueva ni compró un programa mejor.
 
-Cobró 3.000 dólares por el primer proyecto. Después, 5.000. Un año más tarde, ya no aceptaba clientes por menos de 10.000.
+Cambió lo que vendía. Dejó de ofrecer "diseño de logos por hora" y empezó a ofrecer "identidad de marca completa, entregada en dos semanas, lista para usar".
 
-No trabajó más horas. Trabajó en proyectos más grandes, con mejores clientes, resolviendo problemas más caros.
+El mismo trabajo. Otra oferta.
 
-Damián no aprendió a diseñar mejor. Aprendió a vender resultados. Y esa es la lección que nadie te da en la facultad: el precio no es talento — es posicionamiento.
+Cobró tres mil dólares el primer proyecto. Cinco mil el tercero. Al año, diez mil era su piso. No trabajó más horas: trabajó para clientes más grandes, con problemas más caros.
 
-ACTO VIII — QUÉ SEPARA AL QUE VIVE DEL QUE SOBREVIVE [08:00 - 09:30]
+Damián no aprendió a diseñar mejor. Aprendió a vender resultados. Y esa es la parte que no enseñan en ninguna facultad: el precio no mide talento, mide posicionamiento.
 
-Hay freelancers que viven bien y freelancers que sobreviven de mes a mes. La diferencia no es el talento — es cómo manejan tres cosas:
+> **[LOOP DE RETENCIÓN 2]:** Pero antes de que salgas a triplicar tu tarifa mañana, falta la otra mitad de la historia. La parte que los videos de "viví de tu pasión" siempre se saltean — y la que decide si en seis meses seguís acá o estás mandando currículums otra vez.
 
-La primera: los clientes. El que vive elige a sus clientes. El que sobrevive acepta cualquiera. El cliente que paga poco, exige mucho y te trata como empleado, te quema — no te alimenta. Aprender a decir que no es parte del trabajo.
+---
 
-La segunda: cobrar por adelantado. El que sobrevive entrega primero y cobra después. El que vive pide un anticipo antes de empezar. No es desconfianza — es cómo funciona un negocio serio. Si el cliente no acepta pagar una parte por adelantado, no es un cliente: es un problema.
+## ACTO IX — LA OTRA MITAD: LO QUE NADIE TE CUENTA [08:20 - 09:35]
 
-La tercera: la previsibilidad. El ingreso freelance no es lineal. Hay meses buenos y meses malos. El que sobrevive gasta todo en el mes bueno. El que vive separa una parte de cada cobro —el mismo principio del fondo de emergencia— y así aguanta los meses flacos sin pánico.
+El freelance tiene un costado que casi nadie muestra, y hay que decirlo con números.
 
-[LOOP DE RETENCIÓN 2]: Pero ahora viene la parte incómoda — la que casi nadie te dice, y la que decide si vas a vivir de esto o vas a volver a buscar empleo en seis meses.
+**Uno: cobrar no está garantizado.** Según un informe de la Freelancers Union, el setenta y uno por ciento de los freelancers tuvo problemas para cobrar al menos una vez en su carrera. Y no hablamos de una demora: los que no cobraron perdieron, en promedio, casi seis mil dólares en un año. El trece por ciento de su ingreso anual, evaporado.
 
-ACTO IX — POLÉMICA: EL PRECIO NO ES EL PROBLEMA [09:30 - 10:30]
+**Dos: el ingreso no es lineal.** No hay quincena. Hay meses con tres proyectos juntos y meses con ninguno. El trabajo llega en olas; el alquiler llega todos los meses igual.
 
-Digamos la verdad. El que más cobra no es el que más trabaja. Es el que mejor elige a sus clientes.
+**Tres: nadie te paga por no trabajar.** No hay vacaciones pagas, no hay licencia por enfermedad, no hay aguinaldo. Si parás, para el ingreso.
 
-La mayoría de la gente que dice "no puedo cobrar más" no tiene un problema de mercado — tiene un problema de conversación. Tiene miedo de pedir, miedo de que lo rechacen, miedo de que el cliente piense que es caro.
+Nada de esto es un argumento para no hacerlo. Es el precio de la entrada, y quien lo sabe de antemano lo planifica en vez de sufrirlo.
 
-Y acá está lo que pocos aceptan: si cobrás poco, atraés clientes que pagan poco. Y esos clientes son, en promedio, los más difíciles, los que menos respetan tu tiempo y los que más te exigen.
+Porque el que dura no es el que tiene la mejor mano. Es el que tiene el mejor sistema.
 
-Cobrar más no es arrogancia. Es un filtro. Es la forma más eficiente de quedarte con los clientes que te valoran y sacarte de encima a los que te desgastan.
+---
 
-¿Y si el cliente dice que sos muy caro? Ese no es tu cliente. Que sea caro para él no significa que sea caro para el mercado. Tu trabajo no es convencer a todos — es encontrar a los que ya entienden el valor.
+## ACTO X — QUÉ SEPARA AL QUE VIVE DEL QUE SOBREVIVE [09:35 - 11:00]
 
-ACTO X — CALLBACK [10:30 - 11:00]
+Tres cosas separan al que vive bien del que llega justo todos los meses.
 
-¿Te acordás de la frase del Acto III?
+**La primera: a quién le dice que sí.** El que vive elige clientes; el que sobrevive acepta cualquiera. Y el que paga poco es casi siempre el que más exige. Ese cliente no te alimenta: te ocupa la agenda que necesitabas libre para conseguir uno bueno. Decir que no es parte del trabajo.
 
-Dejá de cobrar por hora. Empezá a cobrar por el problema que resolvés.
+**La segunda: el anticipo.** El que sobrevive entrega primero y cobra después. El que vive pide una parte antes de empezar. No es desconfianza: el alquiler también se paga antes de usar el departamento, no después. Y volvé a mirar ese setenta y uno por ciento — el anticipo es la única protección real que tenés. Si un cliente no acepta pagar nada por adelantado, no es un cliente: es un riesgo.
 
-Suena a tip motivacional. Pero la diferencia no es retórica: Damián cobró 20 veces más por el mismo trabajo, Marcos consiguió su primer cliente en una semana, y los dos hicieron exactamente lo mismo que hacían antes — diseñar y programar.
+**La tercera: la previsibilidad.** Como el ingreso es irregular, el sistema tiene que ser regular. Es un cultivo: cosechás en temporada, comés todo el año. El que sobrevive gasta todo el mes bueno; el que vive aparta una parte fija de cada cobro.
 
-Lo único que cambió fue cómo se vendían: como empleados que piden permiso, o como soluciones que resuelven problemas.
+Y esa reserva no es solo tranquilidad: es poder de negociación. El que no necesita el proyecto de este mes es el único que puede pedir lo que vale.
+
+---
+
+## ACTO XI — POLÉMICA: EL PRECIO NO ES EL PROBLEMA [11:00 - 11:55]
+
+Digamos la parte incómoda.
+
+**El que más cobra no es el que más trabaja. Es el que mejor elige a sus clientes.**
+
+La mayoría de la gente que dice "en mi rubro no se puede cobrar más" no tiene un problema de mercado. Tiene un problema de conversación: miedo a pedir, miedo al rechazo, miedo a que del otro lado piensen que es caro.
+
+Y acá está lo que a casi nadie le gusta escuchar: si cobrás poco, atraés clientes que pagan poco. Y esos son los más difíciles. Cobrar barato no te consigue más trabajo — te consigue peor trabajo.
+
+Subir el precio no es arrogancia. Es un filtro.
+
+¿Y si un cliente te dice que sos caro? Ese no es tu cliente. Que sea caro **para él** no significa que sea caro para el mercado. Tu trabajo no es convencer a todos: es encontrar a los que ya entienden.
+
+---
+
+## ACTO XII — CALLBACK [11:55 - 12:35]
+
+¿Te acordás de la frase del principio?
+
+*Dejá de cobrar por hora. Empezá a cobrar por el problema que resolvés.*
+
+Sonaba a frase de taza. Mirala ahora.
+
+Damián cobró veinte veces más por el mismo trabajo. Marcos consiguió su primer cliente en una semana mientras cientos de currículums suyos quedaban sin respuesta. Ninguno aprendió nada nuevo.
+
+Lo único que cambió fue qué pusieron sobre la mesa: sus horas, o el problema que hacían desaparecer.
 
 El freelance no es "trabajar sin jefe". Es un negocio de uno. Y en un negocio, lo primero que aprendés a vender no es tu trabajo — es el valor de tu trabajo.
 
-ACTO XI — DISCLAIMER + CTA [11:00 - 11:30]
+---
 
-Esto no es consejo financiero ni garantía de ingresos. Los resultados dependen del mercado, de tu habilidad y de tu constancia — y hasta a los mejores les tocan meses malos.
+## ACTO XIII — DISCLAIMER + CTA [12:35 - 13:05]
 
-Si este video te sirvió, suscribite para más. Y contame en los comentarios: ¿qué te frena más — el precio que pedís, o la confianza para pedirlo?
+Esto no es consejo financiero ni una garantía de ingresos. Los resultados dependen del mercado, de tu habilidad y de tu constancia — y hasta a los mejores les tocan meses malos.
 
-Tu habilidad vale más de lo que te pagaron hasta hoy. Empezá a cobrarlo.
+Hay más en esta historia: cómo armar un portafolio cuando todavía no tenés clientes, dónde aparecen los primeros, y cuándo conviene soltar el empleo. Pero eso ya es otro capítulo.
+
+Si este video te sirvió, suscribite. Y contame en los comentarios: ¿qué te frena más — el precio que pedís, o la confianza para pedirlo?
+
+Tu habilidad vale más de lo que te pagaron hasta hoy. Falta que lo cobres.
+
 ---
 
 ## Checklist storytelling
 
 - [x] Resumen en una oración. Toda escena aporta a esa oración.
-- [x] Detonante claro — la llamada de Damián que revela la trampa de cobrar por hora.
-- [x] Stakes concretos — vivir del sueldo vs. construir ingresos propios.
-- [x] Arco de transformación — de "cobro por hora" a "cobro por resultados".
-- [x] Escenas con detalle (Damián, Marcos), resúmenes (transiciones rápidas), reflexiones (el precio como filtro).
-- [x] Formato Cliffhanger — Acto II revela el cambio de Damián antes de explicarlo.
-- [x] Entrada en acción — dos casos opuestos, sin preámbulos.
-- [x] Cierre con elección — pregunta abierta en comentarios, sin moraleja.
-- [x] Callback — "cobrá por el problema que resolvés" regresa en el Acto X.
-- [x] 2 loops de retención explícitos en los puntos de mayor riesgo de abandono.
-- [x] Equilibrio narrativo — ingresos altos vs. meses flacos, precio alto vs. clientes difíciles.
-- [x] Micro-storytelling — Damián (Acto II y VII) y Marcos (Acto IV).
-- [x] Polémica intencional — "el que más cobra es el que mejor elige clientes".
-- [x] Open loop — portafolio, primeros clientes, cuándo dejar el empleo.
-- [x] Disclaimer antes del CTA.
+- [x] Detonante claro — millones venden horas sin haber preguntado nunca cuánto vale el resultado.
+- [x] Stakes concretos — vivir del sueldo que te dan vs. construir un ingreso propio.
+- [x] Arco de transformación — de "cobro por hora" a "cobro por el problema que resuelvo".
+- [x] Escenas con detalle (Damián, Marcos), resúmenes (los tres pasos), reflexiones (el precio mide posicionamiento).
+- [x] Formato Cliffhanger — el Acto II revela el salto de Damián antes de explicar cómo.
+- [x] Entrada en acción — dos personas con la misma habilidad y precios opuestos, sin preámbulos.
+- [x] Cierre con elección — pregunta abierta al espectador, sin moraleja.
+- [x] Callback — la frase se planta textual en el Acto III y vuelve en el Acto XII.
+- [x] Hook con dualidad emocional (Técnica 1) — mismo talento, quince dólares la hora vs. tres mil por proyecto.
+- [x] Retention pledge de 3 preguntas (Técnica 2) — Acto III.
+- [x] Analogías físicas (Técnica 3) — el taxi con taxímetro, el tornillo de doscientos dólares, el alquiler que se paga antes, el cultivo que se cosecha en temporada.
+- [x] Micro-storytelling (Técnica 4) — Damián (Actos II y VIII), Marcos (Acto IV), el técnico de la fábrica (Acto VI).
+- [x] Equilibrio narrativo (Técnica 5) — Acto IX aporta el contrapeso con datos: impagos, ingreso irregular, cero beneficios.
+- [x] Anclaje de autoridad (Técnica 6) — 1 sola vez, Acto I: 1,27 billones vs. Apple + Microsoft + Amazon.
+- [x] Open loop (Técnica 7) — Acto XIII, sin prometer fechas ni videos.
+- [x] Ritmo de sección (Técnica 8) — ningún bloque supera los 85 segundos; alterna dato → historia → concepto → dato.
+- [x] Disclaimer antes del CTA (Técnica 9) — Acto XIII.
+- [x] Polémica intencional (Técnica 10) — "el que más cobra es el que mejor elige a sus clientes" + pregunta abierta.
+- [x] 2 loops de retención explícitos en los puntos de mayor riesgo de abandono (finales de Acto V y Acto VIII).
+- [x] Cero jerga sin definir — "posicionamiento", "anticipo" y "precio por valor" se explican con analogía antes de usarse.
 
 ## Datos utilizados
 
-- Los montos y la historia de Damián y Marcos son ilustrativos (arquetipos del negocio freelance), no casos verificables con nombre real.
-- No se utilizan cifras de mercado ni estadísticas externas; todo el contenido es conceptual y cualitativo.
+- **64 millones de freelancers / 38% de la fuerza laboral / 1,27 billones de dólares (USD 1.27 trillion):** Upwork, estudio *Freelance Forward 2023* (comunicado del 12 de diciembre de 2023). El estudio se basa en una encuesta a 3.000 profesionales de EE. UU. y sus cifras son estimaciones proyectadas — en el guion se presentan con la fuente citada explícitamente ("según el estudio Freelance Forward de Upwork").
+  Fuente: https://investors.upwork.com/news-releases/news-release-details/upwork-study-finds-64-million-americans-freelanced-2023-adding
+- **Comparación de magnitud (Apple + Microsoft + Amazon):** Apple, ingresos del año fiscal 2023: 383.290 millones de dólares. Microsoft, año fiscal 2023: 211.900 millones. Amazon, año calendario 2023: 574.800 millones. Suma: ~1,17 billones, por debajo del 1,27 billones de los freelancers. Los períodos fiscales no son idénticos, por eso en el guion se dice "en el mismo período" en sentido anual y no se dan decimales.
+  Fuentes: Apple Q4 FY2023 press release; Microsoft FY2023 Form 8-K; Amazon Q4 2023 earnings release.
+- **71% de los freelancers tuvo problemas para cobrar / pérdida promedio ~5.968 dólares / ~13% del ingreso anual:** Freelancers Union, informe *The Costs of Nonpayment* (2015), sobre datos de 2014. Es una encuesta autorreportada de EE. UU.; en el guion se atribuye a la fuente y se redondea ("casi seis mil dólares", "alrededor del trece por ciento").
+  Fuente: https://blog.freelancersunion.org/2015/12/10/costs-nonpayment/
+- **Damián y Marcos** son arquetipos ilustrativos, no personas reales. No se presentan como casos verificables; los montos son ejemplos de precio, no cifras documentadas.
+- **La historia del técnico y el tornillo** se presenta explícitamente como un chiste/anécdota clásica del oficio, no como un hecho verificado.
+
+## Producción
+
+- **Narración:** 1.996 palabras en español / 2.072 en inglés (el audio se genera en inglés).
+- **Duración proyectada:** ~14 minutos — 240 escenas de 3 a 5 segundos en `script.json` (932s sumando las escenas; la narración sola son ~13,8 min a 150 palabras por minuto).
+- **Nota de duración:** queda por encima del rango de 8 a 12 minutos de la guía del canal. Si hay que bajarlo, los cortes naturales son el Acto VII (los tres pasos) y el Acto X (las tres reglas), que se pueden condensar sin tocar el arco ni el callback.
+- **Escenas:** el corte es por sentido narrativo, una idea visual por escena. Los efectos de sonido marcan los cambios de acto (`page-flip`), los remates y datos duros (`impact`, `board_hit`), los zooms de concepto (`board_zoom_in` / `board_zoom_out`) y los dos loops de retención (`risers`).
+- **Assets pendientes:** `img/scene_001..240.png` (generar con el estilo de la guía del canal), `language/en/scene_XXX.mp3` (ElevenLabs) y `music/background.mp3` (generar con el `music_prompt` del `script.json`).

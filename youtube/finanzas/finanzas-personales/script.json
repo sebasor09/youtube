@@ -1661,8 +1661,8 @@
     {
       "id": 119,
       "duration": 3,
-      "narration_en": "Start at forty-five, a quarter of that.",
-      "narration_es": "Empezá a los cuarenta y cinco, un cuarto de eso.",
+      "narration_en": "Start at forty-five, an eighth of that.",
+      "narration_es": "Empezá a los cuarenta y cinco, una octava parte de eso.",
       "image_prompt": "A much smaller coin hill labeled one quarter, 2D cartoon stickman animation style, main character has large round white circle head with spiky blonde hair and expressive face, thin black stick body, flat solid warm beige background, bold black outlines, flat colors, no gradients, no text, hand-drawn feel, Cyanide and Happiness art style, 16:9",
       "assets": {
         "img": "img/scene_119.png",

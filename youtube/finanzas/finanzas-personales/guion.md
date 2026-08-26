@@ -1,201 +1,288 @@
 # Guion: Finanzas personales en 5 pasos — Cómo tomar el control de tu plata
 
-> **Duración estimada:** 9 minutos
+> **Duración estimada:** ~15 minutos (898s / 228 escenas)
 > **Formato:** Cliffhanger + Callback
-> **Estructura:** Actos I–IX
+> **Estructura:** Actos I–XIII
 
 ---
 
 ## Mapa del episodio
 
-**Resumen en una oración:** Ordenar tus finanzas no se trata de ser rico — se trata de tener el control, y eso se logra con un método de 5 pasos que cualquiera puede seguir.
+**Resumen en una oración:** Ordenar tus finanzas no se trata de ganar más — se trata de tener un sistema, y son cinco pasos que cualquiera puede seguir con el sueldo que ya tiene.
 
-**Detonante:** Un tercio de la gente no sabe en qué gasta su sueldo. La plata pierde valor en silencio por la inflación, y sin un método, la mayoría termina perdiendo el control entre lo que entra y lo que sale.
+**Detonante:** Más de un tercio de los adultos en Estados Unidos no puede cubrir un gasto inesperado de cuatrocientos dólares con el dinero que tiene a mano. No es un problema de ingresos: es un problema de sistema.
 
-**Stakes:** Para el espectador: la diferencia entre construir riqueza con calma o perderlo todo intentando hacerse rico rápido.
+**Stakes:** Para el espectador: la diferencia entre que una rueda pinchada sea un martes molesto o el comienzo de una deuda de tres años. Para la creencia de que "hay que ganar más para ordenarse": si el problema fuera solo el ingreso, nadie con buen sueldo llegaría justo a fin de mes — y llegan.
 
-**Arco:** El espectador pasa de "esto es complicado" a entender un método simple de 5 pasos: presupuesto, fondo de emergencia, deudas, inversión y automatización.
+**Arco:** El espectador pasa de "esto es complicado y no es para mí" a tener cinco pasos concretos que puede empezar hoy con lo que gana hoy.
 
-**Frase del protagonista (callback):** *"No necesitás suerte. Necesitás un sistema."* — regresa al final del video.
+**Frase del protagonista (callback):** *"No necesitás suerte. Necesitás un sistema."* — se planta textualmente en el Acto III y regresa en el Acto XII.
 
----
+**Polémica intencional (Acto XI):** *"No vas a ahorrar tu camino a la riqueza — pero tampoco vas a ganar tu camino fuera del desorden."* + pregunta abierta al cierre: ¿con cuál de los cinco pasos vas a empezar?
 
-## ACTO I — HOOK [00:00 - 00:50]
+**Anclaje de autoridad (1, en el Acto IX):** Warren Buffett acumuló alrededor del 99% de su fortuna después de los cincuenta. Su habilidad fue invertir; su secreto fue el tiempo.
 
-Hay gente que construyó riqueza sin hacer casi nada con su plata. Y hay gente que lo perdió todo intentando hacerse rica rápido.
+**Equilibrio narrativo (Acto VIII):** por cada promesa del interés compuesto, el contrapeso — el 10% del S&P 500 es un promedio nominal, no un rendimiento garantizado, y hay años en que cae.
 
-Los dos empezaron exactamente en el mismo lugar: plata quieta en una cuenta del banco. La diferencia no fue suerte. No fue un secreto. No fue el dato de un amigo.
-
-Fue entender una sola cosa que nadie te enseña en la escuela.
-
-Un tercio de la gente no sabe en qué gasta su sueldo. La buena noticia: arreglarlo es más fácil de lo que parece. Hoy te doy el método de 5 pasos para que tu plata trabaje para vos.
-
-Al final, vas a saber presupuestar, ahorrar, invertir y automatizar. Incluso si estás empezando de cero. Incluso si hoy ganás poco. Porque esto no se trata de ser rico. Se trata de tener el control.
+**Open loop:** cómo elegir el fondo indexado concreto, en qué tipo de cuenta ponerlo, y cómo cambia todo el método si tus ingresos son irregulares. Sin prometer fechas ni videos.
 
 ---
 
-## ACTO II — ¿QUÉ SON LAS FINANZAS PERSONALES? [00:50 - 02:00]
+## ACTO I — HOOK [00:00 - 00:59]
 
-Entonces empecemos por lo básico. ¿Qué son las finanzas personales, exactamente?
+A dos personas se les rompe algo el mismo martes. La misma reparación, el mismo precio, el mismo sueldo.
 
-Son simplemente cómo manejás el dinero que entra y sale de tu vida. Plata que entra: tu sueldo, tu changa, todo lo que ganás. Plata que sale: alquiler, comida, cuentas, todo lo que gastás.
+Una lo paga y sigue con su día. La otra empieza una deuda que le va a durar tres años.
 
-Y entre esas dos flechas, la mayoría pierde el control. No porque sean irresponsables. Porque nadie les enseñó nunca. Las finanzas personales son una habilidad. Y las habilidades se aprenden.
+La diferencia no fue el sueldo. No fue la suerte. No fue un dato que alguien le pasó.
 
-La primera regla es simple: gastá menos de lo que ganás. Si ganás mil y gastás novecientos, vas para adelante. Si ganás mil y gastás mil cien, vas para atrás.
+Fue que una tenía un sistema y la otra no.
 
-La diferencia entre esas dos es donde se construye la riqueza. No importa si esa diferencia es chica al principio. Lo que importa es que exista, y que crezca.
+Y esto no es un caso raro. Según el informe anual de la Reserva Federal sobre el bienestar económico de los hogares, más de un tercio de los adultos en Estados Unidos no podría cubrir un gasto inesperado de cuatrocientos dólares con el dinero que tiene a mano. Uno de cada ocho directamente no podría pagarlo.
 
-> **[LOOP DE RETENCIÓN 1]:** Y acá está el problema de solo ahorrar: la plata pierde valor en silencio.
+Cuatrocientos dólares. Una rueda, una muela, un mes de luz mal calculado.
 
-Si la plata queda quieta sin hacer nada, la inflación se la come año tras año. Por eso ahorrar solo no alcanza. Necesitás el método completo.
-
----
-
-## ACTO III — PASO 1: EL PRESUPUESTO [02:00 - 03:20]
-
-Paso uno: el presupuesto.
-
-Un presupuesto es solo un plan para tu plata antes de que empiece el mes. La regla 50-30-20 lo hace simple: el cincuenta por ciento cubre tus necesidades — alquiler, comida y cuentas. El treinta por ciento es para gustos — diversión, hobbies y salir a comer. Y el veinte por ciento va a ahorro y a pagar deudas.
-
-El secreto es pagarte a vos primero. Sacá el veinte por ciento en el momento en que te pagan. Antes del alquiler, antes de las cuentas, antes de cualquier diversión. Si nunca llega a tu cuenta, no lo vas a extrañar.
-
-Veámoslo con un número real. Digamos que ganás mil dólares al mes. Quinientos cubren lo básico. Trescientos son tuyos para disfrutar. Doscientos construyen tu futuro. Cantidad chica, hábito enorme.
-
-Ahora tu presupuesto está listo. Pero un presupuesto solo no te puede salvar. La vida a veces te da un puñetazo en la cara. Por eso necesitás el paso dos.
+Hoy te doy el método de cinco pasos para que eso no te pase — y funciona con el sueldo que ya tenés.
 
 ---
 
-## ACTO IV — PASO 2: EL FONDO DE EMERGENCIA [03:20 - 04:40]
+## ACTO II — CLIFFHANGER [00:59 - 01:52]
 
-Paso dos: el fondo de emergencia. Una red de seguridad para cuando la vida pasa.
+Hablemos de Carlos y de Javier. Vecinos, misma cuadra, sueldos parecidos.
 
-Se rompe el auto, muere la notebook, te enfermás. Sin el fondo, un problema chico se convierte en deuda grande.
+Una semana de marzo se les rompió algo a los dos. A Carlos, el motor del auto: novecientos dólares. A Javier, el termotanque: casi lo mismo.
 
-Conocé a Carlos. Él lo hizo bien. Carlos ahorró tres meses de gastos. El motor de su auto murió un martes. La reparación costó novecientos dólares. Pagó en efectivo. Sin pánico.
+Carlos pagó en efectivo, se quejó un rato y siguió con su vida.
 
-Su vecino Jake no tenía fondo. El termotanque de Jake se rompió la misma semana. Así que usó su tarjeta de crédito. Esa cuenta se volvió una montaña de intereses.
+Javier lo puso en la tarjeta. Pagó el mínimo el primer mes, después el siguiente, y esa reparación de novecientos dólares terminó costándole más del doble.
 
-La misma sorpresa, resultado totalmente distinto. Carlos conservó su sueño. Jake conservó su deuda.
+Misma cuadra. Misma semana. Mismo problema. Misma plata en el bolsillo.
 
-> **[LOOP DE RETENCIÓN 2]:** El fondo de emergencia es tu escudo.
+Lo único distinto pasó dos años antes, y no tuvo nada que ver con cuánto ganaban.
 
-Empezá de a poco. Cincuenta dólares al mes. Un día se convierte en tres meses de gastos. Ese es tu airbag financiero.
-
-Y ahora viene la deuda que te viene asfixiando.
+Y esta historia todavía no termina.
 
 ---
 
-## ACTO V — PASO 3: MATÁ TU DEUDA [04:40 - 06:20]
+## ACTO III — LA PROMESA [01:52 - 02:31]
 
-Paso tres: matá tu deuda.
+Antes de que termine este video vas a tener tres cosas: los cinco pasos en orden —y el orden importa más que los pasos—, los números concretos para aplicarlos con el sueldo que tenés, y las tres cosas que arruinan el plan de casi todo el mundo.
 
-La deuda es una cadena alrededor de tu cuello. Cada dólar de interés trabaja en tu contra. Hay dos buenas formas de pagarla.
+Y hay una frase que quiero que te lleves desde ahora, porque todo lo que viene cuelga de ella:
 
-El método bola de nieve: ordená todas tus deudas de la más chica a la más grande. Pagá el mínimo en todas, atacá la más chica. Cuando desaparezca, pasá ese pago a la siguiente. Las victorias chicas te mantienen motivado.
+**No necesitás suerte. Necesitás un sistema.**
 
-El método avalancha: atacá primero la deuda con el interés más alto. Ahorrás más plata a largo plazo.
-
-Elegí el que realmente vas a seguir. El mejor plan es el que seguís.
-
-Conocé a Laura. Debía plata en cuatro tarjetas. Sus saldos eran chico, mediano y enorme. Ella eligió la bola de nieve. Primero mató el saldo más chico. Esa victoria se sintió increíble. Después el mediano. Después el grande. Dieciocho meses después, estaba libre.
-
-La avalancha quizás le hubiera ahorrado cien dólares. Pero ella terminó. Y eso es lo que importa. La motivación le gana a la matemática cuando te estás ahogando.
-
-Conocé a tu enemigo: los pagos mínimos. El mínimo mantiene viva la deuda por décadas. Recortá el gasto de tarjeta hasta terminar. Cada dólar extra va a la pila.
-
-Ahí, y solo ahí, estás listo. Ahora la parte divertida.
+Ahora suena a frase de póster. En diez minutos vas a tener el sistema completo.
 
 ---
 
-## ACTO VI — PASO 4: INVERTIR [06:20 - 07:40]
+## ACTO IV — LA REGLA QUE ESTÁ ABAJO DE TODO [02:31 - 03:45]
 
-Paso cuatro: invertir.
+Empecemos por lo básico, porque nadie lo enseña.
 
-Acá es donde tu plata empieza a trabajar para vos. No rápido. Pero inteligente.
+Tus finanzas personales son dos flechas. Una que entra: sueldo, changas, todo lo que ganás. Y una que sale: alquiler, comida, cuentas, todo lo que gastás.
 
-La estrella es el interés compuesto: interés sobre tu interés. Tu plata gana, y después las ganancias también ganan.
+Toda la riqueza que vas a construir en tu vida vive en el espacio entre esas dos flechas. Nada más.
 
-Recordá tus doscientos dólares al mes. Ponelos en un fondo indexado, como el S&P 500. Promedia cerca de diez por ciento al año. No todos los años. En promedio. Algunos años cae veinte por ciento. Algunos años salta treinta. Pero durante décadas, la tendencia sube.
+Por eso la primera regla es tan aburrida como inevitable: gastá menos de lo que ganás. Si entran mil y salen novecientos, vas para adelante. Si entran mil y salen mil cien, vas para atrás — y no importa cuánto ganes, porque ese "mil" puede ser diez mil y el resultado es el mismo.
 
-Y el interés compuesto hace el trabajo pesado. Diez por ciento duplica tu plata cada siete años. Empezá con doscientos al mes a los veinticinco: a los sesenta y cinco, más de un millón de dólares. Empezá a los cuarenta y cinco, un cuarto de eso.
+No importa si la diferencia arranca chiquita. Importa que exista y que crezca.
 
-El tiempo es la moneda real. No podés comprar de nuevo un año perdido.
-
-Así que no persigas consejos de moda. No entres en pánico y vendas en una caída. No inviertas plata que necesites el año que viene. Fondos indexados. Mensual. Décadas. Eso es todo.
-
-Lo aburrido le gana a lo llamativo. La tortuga aburrida gana la carrera. Tu yo futuro te está mirando.
+> **[LOOP DE RETENCIÓN 1]:** Pero cuidado, porque acá hay una trampa. Guardar la plata quieta no la protege: la inflación se la come en silencio, un poquito por año, sin que veas el número bajar nunca. Por eso ahorrar solo no alcanza — y por eso el paso cuatro existe.
 
 ---
 
-## ACTO VII — PASO 5: AUTOMATIZÁ TODO [07:40 - 08:40]
+## ACTO V — PASO 1: EL PRESUPUESTO [03:45 - 05:10]
 
-Paso cinco: automatizá todo.
+**Paso uno: el presupuesto.**
 
-La fuerza de voluntad es una mentira. Los sistemas funcionan. Llega el día de pago y las transferencias se hacen solas. Se mueve el ahorro. Se mueven las inversiones. Ni siquiera tenés que pensarlo. Configuralo una vez y dejá que la máquina corra.
+Un presupuesto no es una dieta. Es un plan para tu plata escrito antes de que empiece el mes, para que no tengas que decidir cuarenta veces por día.
 
-Ahora los tres asesinos de tu plata.
+La forma más simple de arrancar es la regla cincuenta, treinta, veinte: el cincuenta por ciento para lo que necesitás —techo, comida, cuentas—, el treinta para lo que querés —salir, hobbies, gustos— y el veinte para ahorro y deudas.
 
-**Asesino uno: la inflación de estilo de vida.** Ganás más, gastás más. No cambia nada salvo tu gasto. El aumento va a ahorro, no a un auto nuevo.
+Y el truco que hace toda la diferencia: pagate a vos primero. Ese veinte por ciento sale el día que cobrás. Antes del alquiler, antes de las cuentas, antes de cualquier gusto. Lo que nunca llega a tu cuenta no lo extrañás.
 
-**Asesino dos: cronometrar el mercado.** Nadie puede predecir la caída. El tiempo en el mercado le gana a cronometrar el mercado.
+Con números: si entran mil dólares por mes, quinientos son para vivir, trescientos para disfrutar sin culpa, y doscientos construyen tu futuro. Doscientos suena a poco. En un rato vas a ver lo que hacen doscientos dólares con tiempo encima.
 
-**Asesino tres: rendirte temprano.** Los primeros meses parecen inútiles. La magia pasa después de años. Quedate aburrido. Quedate constante.
-
----
-
-## ACTO VIII — DISCLAIMER [08:40 - 09:00]
-
-Una advertencia antes de que te vayas.
-
-Esto es educación, no asesoramiento financiero. Consultá a un profesional para decisiones grandes.
+Y una advertencia honesta: si tus gastos fijos ya se comen más del cincuenta por ciento, la regla no está mal — tu alquiler está caro. Los porcentajes son un punto de partida, no una ley.
 
 ---
 
-## ACTO IX — RECAP + CALLBACK + CTA [09:00 - 09:30]
+## ACTO VI — PASO 2: EL FONDO DE EMERGENCIA [05:10 - 06:30]
 
-Ahora repasemos los cinco pasos.
+**Paso dos: el fondo de emergencia.**
 
-Uno: presupuesto. Dos: fondo de emergencia. Tres: matá tu deuda. Cuatro: invertir. Cinco: automatizá.
+Es plata guardada que no se toca, y que existe para una sola cosa: que un problema chico no se convierta en una deuda grande.
 
-No necesitás suerte. Necesitás un sistema. No necesitás ser rico para empezar. Necesitás empezar.
+Se rompe el auto. Muere la computadora con la que trabajás. Te enfermás una semana. Sin fondo, cada una de esas cosas entra a la tarjeta — y ahí deja de costar lo que costaba.
 
-Empezá hoy con un cambio chiquito. Pagate primero. Veinte por ciento. Tu yo futuro te lo va a agradecer.
+Volvamos a Carlos y Javier. Carlos tenía tres meses de gastos guardados. Javier tenía cero. Esa fue la única diferencia entre los dos, y no se decidió el martes que se rompió el motor: se decidió dos años antes, cincuenta dólares por mes.
 
-Si te sirvió, suscribite para más. Y comentá: ¿con qué paso vas a empezar?
+El objetivo final son tres a seis meses de gastos. Pero no arranques por ahí, porque suena imposible y no vas a empezar. Arrancá por mil. Después por un mes. Después por tres.
 
-La plata es simple. Solo necesitás el método. Nos vemos en el próximo.
+Y guardalo en una cuenta separada, aburrida y de fácil acceso. No en inversiones: el fondo no está para rendir, está para estar disponible el martes que lo necesitás.
+
+Ese fondo es el airbag. No hace que el choque no pase — hace que no te destruya.
+
+---
+
+## ACTO VII — PASO 3: MATÁ TU DEUDA [06:30 - 07:42]
+
+**Paso tres: la deuda cara.**
+
+Mientras tengas una tarjeta con saldo, cada dólar que invertís por un lado pierde contra los intereses que pagás por el otro. Ningún fondo del mundo te rinde lo que te cobra una tarjeta. Por eso este paso va antes de invertir.
+
+Hay dos métodos, y los dos funcionan.
+
+**Bola de nieve:** ordenás las deudas de la más chica a la más grande, pagás el mínimo en todas y le tirás todo lo que puedas a la más chica. Cada deuda que cerrás te da impulso para la siguiente.
+
+**Avalancha:** atacás primero la de tasa más alta. En la calculadora, siempre gana esta.
+
+Hablemos de Laura. Debía en cuatro tarjetas: un saldo chico, dos medianos y uno enorme. Eligió la bola de nieve. Mató el chico en dos meses, y esa primera victoria la sostuvo. Dieciocho meses después había cerrado las cuatro.
+
+¿La avalancha le hubiera ahorrado plata? Sí, unos cien dólares. Pero ella terminó. Y un método que terminás le gana a uno mejor que abandonás en el mes tres.
+
+---
+
+## ACTO VIII — PASO 4: INVERTIR [07:42 - 09:09]
+
+**Paso cuatro: invertir.**
+
+Acá es donde tu plata deja de esperar y empieza a trabajar. No rápido: despacio y a favor tuyo.
+
+El motor se llama interés compuesto. Tu plata genera ganancias, y esas ganancias generan sus propias ganancias. Es una bola de nieve rodando cuesta abajo — al principio no pasa nada, y después no para.
+
+Hay una cuenta de servilleta para entenderlo: la regla del setenta y dos. Dividí setenta y dos por el rendimiento anual y te da los años que tarda tu plata en duplicarse. Al diez por ciento, poco más de siete años.
+
+¿Y de dónde sale ese diez por ciento? Del S&P quinientos, el índice que agrupa a las quinientas empresas más grandes de Estados Unidos. Su promedio histórico de largo plazo ronda el diez por ciento anual.
+
+Pero acá va la parte honesta, la que casi nadie dice: ese diez por ciento es **nominal**, o sea sin descontar la inflación. Descontándola queda más cerca del siete. Y es un promedio de casi un siglo, no una promesa: hay años que sube treinta por ciento y años que cae veinte.
+
+Por eso la estrategia aburrida es la que gana. Un fondo indexado, todos los meses, durante décadas. Sin perseguir modas, sin vender en pánico, y sin poner ahí plata que vas a necesitar el año que viene.
+
+---
+
+## ACTO IX — EL PRECIO DE EMPEZAR TARDE [09:09 - 10:34]
+
+Ahora los números, porque son más brutales de lo que parecen.
+
+Tomá esos doscientos dólares por mes. Si empezás a los veinticinco y seguís hasta los sesenta y cinco, al diez por ciento anual llegás a **más de un millón doscientos mil dólares**. De eso, noventa y seis mil los pusiste vos. El resto lo puso el tiempo.
+
+Si arrancás a los cuarenta y cinco con exactamente el mismo esfuerzo, llegás a unos ciento cincuenta mil.
+
+Leelo de nuevo. No es la mitad. No es un cuarto. Es **una octava parte** — por empezar veinte años más tarde.
+
+Esa es la única variable que no podés comprar después. Podés aumentar el aporte, podés mejorar el sueldo, podés cambiar de fondo. No podés recuperar un año que no invertiste.
+
+Y si pensás que ya es tarde, mirá esto: Warren Buffett acumuló alrededor del noventa y nueve por ciento de su fortuna después de cumplir cincuenta años. Su habilidad fue invertir. Su secreto fue seguir haciéndolo durante sesenta años.
+
+> **[LOOP DE RETENCIÓN 2]:** Ya tenés cuatro pasos. Pero hay tres cosas que hacen fracasar este plan incluso cuando lo entendés perfecto — y la primera te va a pasar justo cuando las cosas te empiecen a ir bien.
+
+---
+
+## ACTO X — PASO 5: AUTOMATIZÁ, Y LOS TRES ASESINOS [10:34 - 11:56]
+
+**Paso cinco: automatizá todo.**
+
+La fuerza de voluntad se gasta. Los sistemas no. Configurá una transferencia automática el día que cobrás: una parte al fondo, otra a la inversión. Una vez. Y listo.
+
+Ahorrar deja de ser una decisión mensual y pasa a ser algo que ya ocurrió antes de que te enteres.
+
+Ahora los tres asesinos.
+
+**Uno: la inflación de estilo de vida.** Te aumentan el sueldo y sube el gasto exactamente igual. Ganás más y ahorrás lo mismo. La regla: cuando entra más, el aumento va al sistema antes de que aparezca en tu vida.
+
+**Dos: querer adivinar el mercado.** Esperar "el momento justo" para entrar. Nadie sabe cuándo cae. El tiempo adentro del mercado le gana a intentar cronometrarlo, y no es una opinión: es lo que muestran los datos.
+
+**Tres: abandonar temprano.** Los primeros meses parecen inútiles porque lo son: la bola de nieve todavía es chiquita. Todo el resultado está del año cinco en adelante. El aburrimiento es parte del método, no una señal de que no funciona.
+
+---
+
+## ACTO XI — POLÉMICA: AHORRAR NO TE HACE RICO [11:56 - 13:06]
+
+Y ahora la parte incómoda, que divide a medio internet.
+
+**No vas a ahorrar tu camino a la riqueza.** Es cierto: si tu ingreso apenas cubre lo básico, no hay café que dejes de tomar que cambie la ecuación. Ahí el problema no es tu presupuesto — es tu ingreso, y la solución es cobrar más, no recortar más.
+
+Pero la otra mitad también es cierta, y es la que nadie quiere escuchar: **tampoco vas a ganar tu camino fuera del desorden.** Sin sistema, el aumento se evapora. Por eso hay gente que gana tres veces más que hace diez años y sigue llegando justa a fin de mes.
+
+Ganar más y ordenarte no compiten. Uno agranda el tubo, el otro decide a dónde va el agua. Hacer solo uno de los dos es la razón por la que tanta gente trabaja veinte años y no tiene nada guardado.
+
+Y una última verdad incómoda: nada de esto te hace rico rápido. Te hace dueño de tu tiempo, despacio.
+
+---
+
+## ACTO XII — RECAP + CALLBACK [13:06 - 14:09]
+
+Repasemos, en orden, porque el orden es el método.
+
+Uno: presupuesto, para saber a dónde va. Dos: fondo de emergencia, para que el martes malo no te hunda. Tres: la deuda cara, porque te gana a cualquier inversión. Cuatro: invertir, para que el tiempo trabaje. Cinco: automatizar, para no depender de tu voluntad.
+
+¿Te acordás de la frase del principio?
+
+*No necesitás suerte. Necesitás un sistema.*
+
+Sonaba a frase de póster. Mirala ahora.
+
+Carlos no fue afortunado el martes que se le rompió el motor: había estado guardando cincuenta dólares por mes durante dos años. Laura no tuvo un golpe de suerte: eligió un orden y lo siguió dieciocho meses. Y los doscientos dólares que se convierten en un millón no son magia — son cuarenta años de la misma transferencia automática.
+
+Ninguna de esas tres personas hizo algo brillante. Las tres hicieron algo aburrido, muchas veces.
+
+---
+
+## ACTO XIII — DISCLAIMER + CTA [14:09 - 14:58]
+
+Esto es educación, no asesoramiento financiero. Los números que di son promedios históricos, no promesas — y para decisiones grandes, consultá a un profesional.
+
+Hay más en esta historia: cómo elegir el fondo indexado concreto, en qué tipo de cuenta conviene ponerlo según dónde vivas, y cómo se adapta todo esto si tus ingresos son distintos cada mes. Pero eso ya es otro capítulo.
+
+Si este video te sirvió, suscribite. Y contame en los comentarios: ¿con cuál de los cinco pasos vas a empezar?
+
+No hace falta que empieces con doscientos dólares. Hace falta que empieces. Hoy, con lo que tengas, aunque sean diez.
 
 ---
 
 ## Checklist storytelling
 
 - [x] Resumen en una oración. Toda escena aporta a esa oración.
-- [x] Detonante claro — un tercio de la gente no sabe en qué gasta su sueldo.
-- [x] Stakes concretos — construir riqueza con calma vs. perderlo todo rápido.
-- [x] Arco de transformación — de "esto es complicado" a tener un método claro.
-- [x] Escenas con detalle (Carlos vs. Jake, Laura y sus tarjetas), resúmenes (transiciones rápidas), reflexiones (control sobre riqueza).
-- [x] Formato Cliffhanger — el hook promete el método antes de explicarlo.
-- [x] Entrada en acción — dos casos opuestos, sin preámbulos.
-- [x] Cierre con elección — "comentá con qué paso vas a empezar", sin moraleja.
-- [x] Callback — "no necesitás suerte, necesitás un sistema" regresa en el Acto IX.
-- [x] 2 loops de retención explícitos en los puntos de mayor riesgo de abandono.
-- [x] Equilibrio narrativo — Carlos (lo hizo bien) vs. Jake (lo perdió), Laura vs. la avalancha.
-- [x] Open loop — los 3 errores se presentan y se resuelven en el mismo acto.
-- [x] Disclaimer antes del CTA.
+- [x] Detonante claro — más de un tercio no puede cubrir 400 dólares inesperados.
+- [x] Stakes concretos — un martes molesto vs. una deuda de tres años.
+- [x] Arco de transformación — de "esto no es para mí" a tener cinco pasos aplicables hoy.
+- [x] Escenas con detalle (Carlos y Javier, Laura), resúmenes (el recap del Acto XII), reflexiones (el tiempo como única variable que no se compra).
+- [x] Formato Cliffhanger — el Acto II muestra los dos desenlaces opuestos y esconde la causa hasta el Acto VI.
+- [x] Entrada en acción — dos personas y el mismo martes, sin preámbulos.
+- [x] Cierre con elección — pregunta abierta al espectador, sin moraleja.
+- [x] Callback — la frase se planta textual en el Acto III y vuelve en el Acto XII.
+- [x] Hook con dualidad emocional (Técnica 1) — mismo problema, mismo sueldo, desenlaces opuestos.
+- [x] Retention pledge de 3 preguntas (Técnica 2) — Acto III.
+- [x] Analogías físicas (Técnica 3) — las dos flechas, el airbag, la bola de nieve cuesta abajo, el tubo y el agua.
+- [x] Micro-storytelling (Técnica 4) — Carlos y Javier (Actos II, VI y XII), Laura (Acto VII).
+- [x] Equilibrio narrativo (Técnica 5) — Acto VIII aclara que el 10% es nominal y que hay años en rojo; el Acto V admite que los porcentajes no siempre cierran; el Acto XI le da la razón a las dos posturas.
+- [x] Anclaje de autoridad (Técnica 6) — 1 sola vez, Acto IX: Buffett y el 99% después de los cincuenta.
+- [x] Open loop (Técnica 7) — Acto XIII, sin prometer fechas ni videos.
+- [x] Ritmo de sección (Técnica 8) — ningún bloque supera los noventa segundos; alterna dato → historia → concepto → número.
+- [x] Disclaimer antes del CTA (Técnica 9) — Acto XIII.
+- [x] Polémica intencional (Técnica 10) — "no vas a ahorrar tu camino a la riqueza / tampoco vas a ganar tu camino fuera del desorden", con las dos posturas y sin declarar ganador.
+- [x] 2 loops de retención explícitos en los puntos de mayor riesgo de abandono (finales de Acto IV y Acto IX).
+- [x] Cero jerga sin definir — "interés compuesto", "fondo indexado", "S&P 500" y "nominal" se explican en la misma frase en que aparecen.
+
 ## Datos utilizados
 
-- **Regla 50-30-20:** popularizada por Elizabeth Warren y Amelia Warren Tyagi en *All Your Worth: The Ultimate Lifetime Money Plan* (2005). Es una heurística de presupuesto, no una norma — conviene presentarla como guía y no como regla universal.
-- **Retorno promedio del S&P 500 (~10% anual):** es el promedio **nominal** de largo plazo, sin descontar inflación. Ajustado por inflación ronda el 6-7%. El guion ya aclara "no todos los años, en promedio", pero al publicar conviene decir que es nominal. Fuente a citar: S&P Dow Jones Indices, series históricas del índice.
-- **"El 10% duplica tu plata cada siete años":** correcto como aproximación. Es la regla del 72 (72 ÷ 10 = 7,2 años). Verificado.
-- **"$200 al mes desde los 25 → más de un millón a los 65":** verificado. Aporte mensual de $200 durante 40 años al 10% anual capitalizado mensualmente da ≈ $1.264.000.
-- **"Empezá a los 45 y tenés un cuarto de eso":** ⚠️ **incorrecto.** El mismo cálculo a 20 años da ≈ $152.000 — cerca de **una octava parte**, no un cuarto. Corregir antes de generar el audio.
-- **"Un tercio de la gente no sabe en qué gasta su sueldo":** ⚠️ **sin fuente verificada.** O se respalda con una encuesta concreta y citable, o se reformula en términos cualitativos ("mucha gente llega a fin de mes sin saber en qué se le fue el sueldo").
-- **Carlos, Jake y Laura** son arquetipos ilustrativos, no personas reales. No se les atribuyen cifras verificables.
-- Los montos de ejemplo ($1.000 de sueldo, $900 de reparación, $50 al mes) son ilustrativos y se presentan como tales.
+- **Más de un tercio de los adultos no podría cubrir un gasto inesperado de 400 dólares con efectivo o equivalente; uno de cada ocho no podría pagarlo de ninguna forma.** Reserva Federal, *Report on the Economic Well-Being of U.S. Households in 2025* (publicado en mayo de 2026): el 63% sí podría cubrirlo con efectivo, o sea el 37% no; el 13% dijo que no podría pagarlo. En el guion se dice "más de un tercio" y "uno de cada ocho" para no dar decimales de una encuesta anual.
+  Fuente: https://www.federalreserve.gov/publications/2026-economic-well-being-of-us-households-in-2025-savings-investments.htm
+- **Rendimiento histórico del S&P 500 (~10% anual nominal, ~7% descontando inflación).** Promedio de largo plazo desde 1928. El guion lo presenta explícitamente como promedio nominal, aclara la versión ajustada por inflación y advierte que hay años negativos — que era la corrección pendiente de la versión anterior.
+- **Regla del 72:** 72 ÷ 10 = 7,2 años para duplicar el capital. Es una aproximación aritmética estándar. Verificada.
+- **200 dólares al mes desde los 25 hasta los 65 al 10% anual → ~1.264.000 dólares** (aporte total: 96.000). Cálculo propio con capitalización mensual.
+- **200 dólares al mes desde los 45 hasta los 65 → ~152.000 dólares.** Cálculo propio, misma fórmula. **Esto corrige un error de la versión anterior del guion**, que decía "un cuarto" del resultado a 40 años: la relación real es de aproximadamente **una octava parte** (1.264.000 ÷ 152.000 ≈ 8,3). Al 7% real la relación es de un quinto. En el guion se usa la serie nominal, coherente con el 10% citado.
+- **Warren Buffett acumuló ~99% de su patrimonio después de los 50 años.** Dato popularizado por Morgan Housel en *The Psychology of Money* y recogido por CNBC: de un patrimonio de unos 84.500 millones de dólares, alrededor de 81.500 millones llegaron después de sus 65 años. En el guion se usa la versión conservadora ("después de los cincuenta") y se presenta como ilustración del efecto del tiempo, no como meta alcanzable.
+  Fuente: https://www.cnbc.com/2024/05/03/most-of-warren-buffetts-wealth-came-after-age-65-heres-why.html
+- **Regla 50-30-20:** heurística popularizada por Elizabeth Warren y Amelia Warren Tyagi en *All Your Worth: The Ultimate Lifetime Money Plan* (2005). El guion la presenta como punto de partida y admite explícitamente que no cierra para todos los presupuestos.
+- **Carlos, Javier y Laura** son arquetipos ilustrativos, no personas reales. Los montos (900 dólares de reparación, 50 al mes, 4 tarjetas) son ejemplos, no cifras documentadas.
 
 ## Producción
 
-- **Narración:** ~1.138 palabras en inglés (el audio se genera en inglés). ⚠️ Está por debajo del mínimo de 1.200 palabras que fija la guía del canal.
-- **Duración proyectada:** 540 segundos — 9 minutos exactos, 165 escenas de 3 a 5 segundos en `script.json`. Cumple el mínimo de 8 minutos, pero sin margen.
-- **Escenas:** el corte es por sentido narrativo, una idea visual por escena. Los efectos marcan los cambios de acto (`page-flip`), los remates (`impact`, `hit`, `board_hit`) y los loops de retención (`risers`).
+- **Narración:** 2.080 palabras en español / 2.055 en inglés (el audio se genera en inglés). La versión anterior tenía ~1.138, por debajo del mínimo de 1.200 que fija la guía del canal; ahora queda con margen.
+- **Duración proyectada:** ~15 minutos — 228 escenas de 3 a 5 segundos en `script.json` (898s sumando las escenas; la narración sola son ~13,7 min a 150 palabras por minuto).
+- **Nota de duración:** queda por encima del rango de 8 a 12 minutos de la guía del canal. Si hay que bajarlo, los cortes naturales son el Acto V (el presupuesto) y el Acto X (los tres asesinos), que se pueden condensar sin tocar el arco ni el callback.
+- **Escenas:** el corte es por sentido narrativo, una idea visual por escena. Los efectos de sonido marcan los cambios de acto (`page-flip`), los datos duros y los remates (`impact`, `board_hit`), los zooms de concepto (`board_zoom_in` / `board_zoom_out`) y los dos loops de retención (`risers`).
+- **Assets pendientes:** imágenes en `img/`, voces en inglés en `language/en/` (ElevenLabs) y `music/background.mp3` (generar con el `music_prompt` del `script.json`).

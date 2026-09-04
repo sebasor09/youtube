@@ -7,7 +7,12 @@ import fs from "fs";
 import path from "path";
 import https from "https";
 
-const API_KEY = "sk_30251e1b828cbf9a1e39b4c9a37e9c7adb9982790235bf7e";
+// La clave sale del entorno, no del codigo: este archivo se commitea.
+const API_KEY = process.env.ELEVENLABS_API_KEY;
+if (!API_KEY) {
+  console.error("Falta ELEVENLABS_API_KEY. Ponela en .env o exportala antes de correr esto.");
+  process.exit(1);
+}
 const VOICE_ID = "Gubgw9l4dtIoQA9YZHgx";
 const API_URL = `https://api.elevenlabs.io/v1/text-to-speech/${VOICE_ID}`;
 const MODEL = "eleven_multilingual_v2";
